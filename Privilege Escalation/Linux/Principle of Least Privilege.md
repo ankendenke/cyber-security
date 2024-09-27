@@ -1,0 +1,1 @@
+The Principle of Least Privilege is defined as granting only the necessary privileges to users, minimizing the risk of potential damage from security breaches by restricting unnecessary access rights.

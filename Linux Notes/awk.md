@@ -1,0 +1,1 @@
+AWK is a GNU [[Linux]] programming language used inside bash to do complex text manipulation.
