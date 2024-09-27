@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/netcat.md",
+                "file": "Linux Notes/awk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes/netcat.md",
+                "file": "Linux Notes/awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes/netcat.md",
+                "file": "Linux Notes/awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Notes/netcat.md"
+                "file": "Linux Notes/awk.md"
               }
             }
           }
@@ -166,6 +166,8 @@
   },
   "active": "482eafea691ba9dd",
   "lastOpenFiles": [
+    "Linux Notes/sed.md",
+    "Linux Notes/netcat.md",
     "Linux Notes/Linux.md",
     "Linux Notes/git.md",
     "Linux Notes/netstat.md",
@@ -197,8 +199,6 @@
     "Privilege Escalation/Windows/Windows Kernel Exploit.md",
     "Linux Attack Surface.md",
     "privilege escalation.md",
-    "Privilege Escalation/Windows/Windows System Enumeration.md",
-    "Privilege Escalation/Windows/Windows Password Hunting.md",
     "Privilege Escalation/Windows",
     "Privilege Escalation/Linux",
     "Pathways.canvas",
