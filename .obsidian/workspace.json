@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/Linux account creation.md",
+                "file": "Linux Notes/netcat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes/Linux account creation.md",
+                "file": "Linux Notes/netcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes/Linux account creation.md",
+                "file": "Linux Notes/netcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Notes/Linux account creation.md"
+                "file": "Linux Notes/netcat.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,6 +166,10 @@
   },
   "active": "482eafea691ba9dd",
   "lastOpenFiles": [
+    "Linux Notes/Linux.md",
+    "Linux Notes/git.md",
+    "Linux Notes/netstat.md",
+    "Linux Notes/Linux account creation.md",
     "Linux Notes/lsb_release.md",
     "Linux Notes/systemctl practical example.md",
     "Linux Notes/nmap.md",
@@ -183,7 +188,6 @@
     "Privilege Escalation/Windows/Windows User Enumeration.md",
     "Linux Notes/ncat examples.md",
     "Linux Notes/lsof.md",
-    "Linux Notes/Linux account creation.md",
     "Linux Notes/dirsearch.md",
     "Linux Notes/awk.md",
     "Linux Notes/bash.md",
@@ -195,11 +199,8 @@
     "privilege escalation.md",
     "Privilege Escalation/Windows/Windows System Enumeration.md",
     "Privilege Escalation/Windows/Windows Password Hunting.md",
-    "Privilege Escalation/Windows/Windows Network Enumeration.md",
-    "Linux Notes/systemctl.md",
     "Privilege Escalation/Windows",
     "Privilege Escalation/Linux",
-    "Linux Notes/netcat.md",
     "Pathways.canvas",
     "Images/Pasted image 20240915123945.png",
     "Images/Pasted image 20240915124356.png",

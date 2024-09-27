@@ -51,6 +51,7 @@ nc <victim-IP> <Binded-port>
 nc 10.0.2.6 5555
 ```
 
+This command is also referred as "ncat"
 
 
 More:

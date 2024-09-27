@@ -22,3 +22,5 @@ git is a [[Linux]] version management system.
 ***git push -u origin*** <branch> - upload changes in a branch to origin (the remote repo)
 ***git pull*** - get changes in remote repo
 ***git clone*** <url> - clone remote repo and save it to a new directory
+
+I'm trying to setup git plugin on this computer right

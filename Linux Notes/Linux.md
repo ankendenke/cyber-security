@@ -20,6 +20,7 @@ Think of ice cream flavors:
 - Kali
 - ParrotOS
 - SuSe
+- Gentoo OS
 
 #### Intro to Command Line
 The Linux command line is the most interactive function of the systems. It's called the Shell, and is characterized as follow:
