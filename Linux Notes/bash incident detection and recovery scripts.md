@@ -33,10 +33,10 @@ incident_response() {
     "
     
     # Collect logs
-    ssh root@"$target_ip" "
+    ssh root@"$target_ip"
         tar czf $incident_dir/var_log.tar.gz /var/log
         journalctl -o json-pretty > $incident_dir/journalctl.json
-    "
+    
     
     echo "Incident data collected and stored in $incident_dir"
 }
