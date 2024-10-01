@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/bash cyber sec script examples.md",
+                "file": "Linux Notes/bash incident detection and recovery scripts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Linux Notes/bash incident detection and recovery scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Linux Notes/bash incident detection and recovery scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md"
+                "file": "Linux Notes/bash incident detection and recovery scripts.md"
               }
             }
           },
@@ -185,10 +185,12 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "55ee02c5d45d277e",
   "lastOpenFiles": [
-    "Linux Notes/bash.md",
     "Linux Notes/bash cyber sec script examples.md",
+    "Linux Notes/bash incident detection and recovery scripts.md",
+    "Resources.md",
+    "Linux Notes/bash.md",
     "Linux Notes/awk.md",
     "Linux Notes/sed.md",
     "Linux Notes/netcat.md",
@@ -199,7 +201,6 @@
     "Linux Notes/lsb_release.md",
     "Linux Notes/systemctl practical example.md",
     "Linux Notes/nmap.md",
-    "Resources.md",
     "Privilege Escalation/Cross-site scripting.md",
     "burpsuite.md",
     "Learning Process.md",
@@ -219,7 +220,6 @@
     "Linux Incident Surface.md",
     "Linux Sec Identifying the Footprints.md",
     "Privilege Escalation/Windows/Windows Kernel Exploit.md",
-    "Linux Attack Surface.md",
     "Privilege Escalation/Windows",
     "Privilege Escalation/Linux",
     "Pathways.canvas",
