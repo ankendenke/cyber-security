@@ -1,4 +1,4 @@
-Bash scripting is indeed a powerful tool for cybersecurity professionals in Linux environments, enabling you to automate tasks, analyze data, perform penetration testing, and much more. Here's a structured guide from beginner to advanced Bash scripting, specifically tailored for cybersecurity purposes.
+[[Linux]] Bash scripting is indeed a powerful tool for cybersecurity professionals in Linux environments, enabling you to automate tasks, analyze data, perform penetration testing, and much more. Here's a structured guide from beginner to advanced Bash scripting, specifically tailored for cybersecurity purposes.
 
 ## 1. **Beginner Level: Bash Basics**
 

@@ -97,7 +97,7 @@ Pro-level sed Usage:
 
 13. Creating a sed script file:
 Create a file named 'script.sed':
-```sed
+```bash
 #!/bin/sed -f
 s/old/new/g
 /pattern/d

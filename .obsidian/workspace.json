@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/bash incident detection and recovery scripts.md",
+                "file": "Linux Notes/bash incident detection and recovery scripts part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bash scripting.md",
+                "file": "Linux Notes/yum & rpm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash scripting.md",
+                "file": "Linux Notes/yum & rpm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash scripting.md",
+                "file": "Linux Notes/yum & rpm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bash scripting.md"
+                "file": "Linux Notes/yum & rpm.md"
               }
             }
           },
@@ -187,24 +187,32 @@
   },
   "active": "55294ffd299004f0",
   "lastOpenFiles": [
-    "Linux Notes/bash incident detection and recovery scripts.md",
-    "Bash scripting.md",
+    "Linux Notes/wireshark.md",
+    "Linux Notes/tor.md",
+    "Linux Notes/tee.md",
+    "Linux Notes/lsof.md",
     "Linux Notes/bash.md",
     "Linux Notes/bash cyber sec script examples.md",
+    "Linux Notes/dirsearch.md",
+    "Linux Notes/lsb_release.md",
+    "Linux Notes/netdiscover.md",
+    "Linux Incident Surface.md",
+    "Linux Attack Surface.md",
+    "Linux Notes/ncat examples.md",
+    "Linux Notes/Linux.md",
+    "Linux Notes/sed.md",
+    "Linux Notes/bash incident detection and recovery scripts part 1.md",
+    "Linux Notes/bash incident detection and recovery scripts part 2.md",
     "Resources.md",
     "Linux Notes/awk.md",
-    "Linux Notes/sed.md",
     "Linux Notes/netcat.md",
-    "Linux Notes/Linux.md",
     "Linux Notes/git.md",
     "Linux Notes/netstat.md",
     "Linux Notes/Linux account creation.md",
-    "Linux Notes/lsb_release.md",
     "Linux Notes/systemctl practical example.md",
     "Linux Notes/nmap.md",
     "Privilege Escalation/Cross-site scripting.md",
     "burpsuite.md",
-    "Learning Process.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",
@@ -212,14 +220,6 @@
     "Images/Pasted image 20240924192553.png",
     "Images/Pasted image 20240924192520.png",
     "Images/Pasted image 20240924192443.png",
-    "Privilege Escalation/Windows/Windows Priv Esc Automated Tool Overview.md",
-    "Privilege Escalation/Windows/Windows User Enumeration.md",
-    "Linux Notes/ncat examples.md",
-    "Linux Notes/lsof.md",
-    "Linux Notes/dirsearch.md",
-    "Privilege Escalation/Windows/Windows AV Firewall Enumeration.md",
-    "Linux Incident Surface.md",
-    "Linux Sec Identifying the Footprints.md",
     "Privilege Escalation/Windows",
     "Privilege Escalation/Linux",
     "Pathways.canvas",

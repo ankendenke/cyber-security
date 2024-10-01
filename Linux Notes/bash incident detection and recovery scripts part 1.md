@@ -1,18 +1,20 @@
+```bash
 #!/bin/bash
+```
 
-# Advanced Cybersecurity Bash Scripts for Incident Response, Recovery, and Threat Detection
+# Advanced Cybersecurity [[Linux]]Bash Scripts for Incident Response, Recovery, and Threat Detection
 
 # 1. Automated Incident Response Script
 
+```bash
 incident_response() {
     local target_ip=$1
     local incident_dir="/var/log/incidents/$(date +%Y%m%d_%H%M%S)"
     
-```
     mkdir -p "$incident_dir"
     
     # Collect system information
-    ssh root@"$target_ip" "
+    ssh root@"$target_ip" 
         hostname > $incident_dir/hostname.txt
         date > $incident_dir/incident_time.txt
         uname -a > $incident_dir/uname.txt
@@ -22,15 +24,15 @@ incident_response() {
         last > $incident_dir/last_logins.txt
         grep -Ev '^#|^$' /etc/passwd > $incident_dir/passwd.txt
         grep -Ev '^#|^$' /etc/shadow > $incident_dir/shadow.txt
-    "
+    
     
     # Collect volatile data
-    ssh root@"$target_ip" "
+    ssh root@"$target_ip" 
         dd if=/dev/mem of=$incident_dir/memory.dump bs=1M
         volatility -f $incident_dir/memory.dump imageinfo > $incident_dir/volatility_imageinfo.txt
         volatility -f $incident_dir/memory.dump --profile=LinuxCentOS7_3_10_0-1062x64 linux_pslist > $incident_dir/volatility_pslist.txt
         volatility -f $incident_dir/memory.dump --profile=LinuxCentOS7_3_10_0-1062x64 linux_netstat > $incident_dir/volatility_netstat.txt
-    "
+    
     
     # Collect logs
     ssh root@"$target_ip"
@@ -44,7 +46,7 @@ incident_response() {
 
 # 2. Malware Analysis and Containment
 
-```
+```bash
 analyze_and_contain_malware() {
     local suspicious_file=$1
     local quarantine_dir="/var/quarantine"
@@ -76,7 +78,7 @@ analyze_and_contain_malware() {
 ```
 # 3. Network-based Threat Detection
 
-```
+```bash
 detect_network_threats() {
     local interface="eth0"
     local pcap_file="/tmp/capture.pcap"
@@ -105,7 +107,7 @@ detect_network_threats() {
 ```
 # 4. System Integrity Monitoring
 
-```
+```bash
 monitor_system_integrity() {
     local baseline_file="/var/lib/aide/aide.db"
     local check_interval=3600  # 1 hour
@@ -134,7 +136,7 @@ monitor_system_integrity() {
 ```
 # 5. Automated Recovery Script
 
-```
+```bash
 system_recovery() {
     local backup_dir="/mnt/backups"
     local recovery_log="/var/log/recovery.log"
@@ -168,7 +170,7 @@ system_recovery() {
 
 ```
 # Main execution
-```
+```bash
 case "$1" in
     "incident_response")
         incident_response "$2"

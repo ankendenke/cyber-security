@@ -1,6 +1,5 @@
 These examples are from Claude! ai chatbot.
-
-Certainly! I'll provide some practical exercises to help you improve your Ncat skills. These exercises will progress from basic to more advanced, allowing you to build your proficiency step by step.
+[[Linux]]
 
 Exercise 1: Basic Client-Server Communication
 1. Open two terminal windows.
