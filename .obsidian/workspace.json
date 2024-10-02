@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/nmap.md",
+                "file": "Linux Notes/lsof.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2956a154e67bc91f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -33,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux Notes/nmap.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55294ffd299004f0",
+  "active": "2956a154e67bc91f",
   "lastOpenFiles": [
+    "Linux Notes/lsof.md",
+    "Linux Notes/lsof another example.md",
+    "Linux Incident Surface.md",
+    "Linux Notes/nmap.md",
     "Linux Notes/proxychains.md",
     "Linux Notes/tee - other usage.md",
     "Linux Notes/tor.md",
@@ -182,13 +191,11 @@
     "Linux Notes/bash incident detection and recovery scripts part 1.md",
     "Linux Notes/bash incident detection and recovery scripts part 2.md",
     "Linux Notes/yum & rpm.md",
-    "Linux Notes/lsof.md",
     "Linux Notes/bash.md",
     "Linux Notes/bash cyber sec script examples.md",
     "Linux Notes/dirsearch.md",
     "Linux Notes/lsb_release.md",
     "Linux Notes/netdiscover.md",
-    "Linux Incident Surface.md",
     "Linux Attack Surface.md",
     "Linux Notes/ncat examples.md",
     "Linux Notes/Linux.md",
@@ -197,8 +204,6 @@
     "Linux Notes/netcat.md",
     "Linux Notes/git.md",
     "Linux Notes/netstat.md",
-    "Linux Notes/Linux account creation.md",
-    "Linux Notes/systemctl practical example.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",
