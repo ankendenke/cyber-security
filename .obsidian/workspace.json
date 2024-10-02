@@ -34,6 +34,32 @@
             }
           },
           {
+            "id": "703ccd58c05fcad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Notes/nmap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7530420619875c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Notes/tee.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4fac8db60d78d7fa",
             "type": "leaf",
             "state": {
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes/tr.md",
+                "file": "Linux Notes/tee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes/tr.md",
+                "file": "Linux Notes/tee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Notes/tr.md"
+                "file": "Linux Notes/tee.md"
               }
             }
           },
@@ -185,18 +211,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e52ac435c6d0e49d",
+  "active": "7530420619875c2b",
   "lastOpenFiles": [
-    "Linux Notes/lsof.md",
-    "Linux Notes/tr.md",
+    "Linux Notes/nmap use case.md",
+    "Linux Notes/nmap.md",
     "Privilege Escalation/Linux/Escalation via LD_PRELOAD.md",
+    "Linux Notes/tr vs sed - A Comprehensive Comparison.md",
+    "Linux Notes/tr.md",
+    "Linux Notes/lsof.md",
     "Linux Notes/tr with example.md",
     "Linux Notes/tee - other usage.md",
     "Linux Notes/ssh.md",
     "Linux Notes/netcat.md",
     "Linux Notes/netdiscover.md",
     "Linux Notes/netstat.md",
-    "Linux Notes/nmap.md",
     "Linux Notes/lsof another example.md",
     "Linux Incident Surface.md",
     "Linux Notes/proxychains.md",
@@ -211,8 +239,6 @@
     "Linux Notes/bash cyber sec script examples.md",
     "Linux Notes/dirsearch.md",
     "Linux Notes/lsb_release.md",
-    "Linux Attack Surface.md",
-    "Linux Notes/ncat examples.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",
