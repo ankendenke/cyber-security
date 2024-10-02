@@ -1,13 +1,13 @@
 [[Linux]] command to scan network and discover ports, services, etc... Network exploration tool and security / port scanner
 
 Getting Help
-```
+```bash
 nmap -V
 man nmap
 ```
 
 Basic scan
-```
+```bash
 nmap <target IP or hostname>
 nmap 10.0.2.5
 nmap scanme.nmap.org
@@ -46,41 +46,41 @@ Host Discovery
 You can multiple targets, CIDR, or a range of ip addresses
 You can also scan a list of IP addresses from a text file: each entry of the file should separated by tab, space or newline
 
-```
+```bash
 nmap -iL ipfile.txt
 ```
 To exclude Host
-```
+```bash
 nmap <target IP> -- exclude <target> or <ipfile.txt>
 ```
 To use a specific network interface on your PC
-```
+```bash
 nmap -e <your interface name> <target>
 nmap -e lo 10.0.2.5
 nmap -e eth0 10.0.2.6
 ```
 Scan Random Target
-```
+```bash
 nmap -iR <numberof random target>
 nmap -iR 3
 ```
 Shown only Open states
-```
+```bash
 nmap --open <target>
 nmap --open 10.0.2.6
 ```
 Troubleshoot connectivity
-```
+```bash
 nmap --packet-trace <target>
 nmap --packet-trace 10.0.2.5
 ```
 Scan fast 
-```
+```bash
 nmap -F <target>
 nmap -F 10.0.2.5
 ```
 Scan specific port
-```
+```bash
 nmap -p <target port> <target>
 nmap -p3306 10.0.2.6
 
@@ -89,122 +89,122 @@ nmap -p <target port name> <target ip>
 Scan by Protocol
 U - UDP
 T - TCP
-```
+```bash
 nmap -sU -sT -p U:<port> T:<port> <target>
 nmap -sU -sT -p U:53 T:25 10.0.2.6
 ```
 Scan Top Ports
-```
+```bash
 nmap --top-ports <number> <target>
 nmap --top-ports 10 10.0.2.5
 ```
 Perform a Sequential Scan
-```
+```bash
 nmap -r <target>
 nmap -r 10.0.2.5
 ```
 Don't Ping 
-```
+```bash
 nmap -PN <target> <target range or CIDR>
 nmap -PN 10.0.2.6
 ```
 Ping Only Scan
-```
+```bash
 nmap -sP <target>
 nmap -sP 10.0.2.5
 ```
 Scan TCP SYN Ping
-```
+```bash
 nmap -PS <target>
 ```
 Scan ACK Ping
-```
+```bash
 nmap -PA <target>
 ```
 UDP Ping
-```
+```bash
 nmap -PU <target>
 ```
 SCTP Init Ping
-```
+```bash
 nmap -PY <target>
 ```
 ICMP Scan
-```
+```bash
 nmap -PE <target>
 ```
 ICMP Timestamp Scan
-```
+```bash
 nmap -PP <target>
 ```
 ICMP Mask Scan
-```
+```bash
 nmap -PM <target>
 ```
 IP Protocol Ping
-```
+```bash
 nmap -PO protocol <target>
 ```
 ARP Ping
-```
+```bash
 nmap -PR <protocol>
 ```
 Traceroute
-```
+```bash
 nmap -traceroute <target>
 ```
 Force Reverse DNS
-```
+```bash
 nmap -R <target>
 ```
 Disable Reverse DNS Resolution
-```
+```bash
 nmap -n <target>
 ```
 Alternative DNS lookup method
-```
+```bash
 nmap --system-dns <target>
 ```
 Manually Specifying DNS servers
-```
+```bash
 nmap --dns-servers <target>
 ```
 TCP SYN Scan Stealthy
-```
+```bash
 nmap -sS <target>
 ```
 TCP Connect Scan
-```
+```bash
 nmap -sT <target>
 ```
 UDP Scan
-```
+```bash
 nmap -sU <target>
 ```
 TCP Null Scan
 
-```
+```bash
 nmap -sN <target>
 ```
 TCP Fin Scan
-```
+```bash
 nmap -sF <target>
 ```
 Xmas Scan
-```
+```bash
 nmap -sX <target>
 ```
 TCP ACK Scan (to see if the system is shielded by a firewall)
-```
+```bash
 nmap -sA <target>
 ```
 
 TCP Customs
-```
+```bash
 nmap --scanflags <target>
 ```
 IP Scan
-```
+```bash
 nmap -sO <target>
 ```
 Ethernet Scan
@@ -219,12 +219,12 @@ nmap --send-ip <target>
 OS and Service Detection
 OS Detection
 
-```
+```bash
 nmap -O <target>
 nmap -O --oscan-guess <target>
 ```
 Service Version Detection
-```
+```bash
 nmap -sV <target>
 nmap -sV --version-trace <target>
 ```
@@ -233,31 +233,31 @@ Timing parameters
 See https://nmap.org/book/performance-timing-templates.html
 
 Decoy scan
-```
+```bash
 nmap -D <target>
 ```
 Idle Zombie Scan
-```
+```bash
 nmap -sI <target>
 ```
 Specific source port
-```
+```bash
 nmap --source-port <target>
 nmap -g <target>
 ```
 
 Disable Host Enumeration
-```
+```bash
 nmap -Pn <target>
 ```
 
 Cool use-case with bash, select ports that are open for more investigation
-```
+```bash
 ports=$(nmap -p- --min-rate=1000 -Pn -T4 <target> | grep '^[0-9]' | cut -d '/' -f 1 | tr '\n' ',' | sed s/,$//)
 ```
 
 Then
-```
+```bash
 nmap -p$ports -Pn -sC -sV <target>
 ```
 
