@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53a070b19108f5b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Notes/tty escape using python.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes/tor.md",
+                "file": "Linux Notes/tty escape using python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes/tor.md",
+                "file": "Linux Notes/tty escape using python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Notes/tor.md"
+                "file": "Linux Notes/tty escape using python.md"
               }
             }
           },
@@ -172,10 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7530420619875c2b",
+  "active": "8f8fa09d1fe074cf",
   "lastOpenFiles": [
-    "burpsuite.md",
     "Linux Notes/tor.md",
+    "Linux Notes/tty escape using python.md",
+    "burpsuite.md",
     "Linux Notes/nmap.md",
     "Linux Notes/lsof.md",
     "Linux Notes/tr.md",
@@ -199,7 +213,6 @@
     "Linux Notes/bash incident detection and recovery scripts part 1.md",
     "Linux Notes/bash incident detection and recovery scripts part 2.md",
     "Linux Notes/yum & rpm.md",
-    "Linux Notes/bash.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",
