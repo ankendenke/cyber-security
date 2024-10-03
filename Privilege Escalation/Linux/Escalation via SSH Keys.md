@@ -1,7 +1,7 @@
 ## **Understanding Asymmetric Encryption**
 ![[Pasted image 20240814114809.png]]
 Source: https://vk9-sec.com/privilege-escalation-ssh-keys/
-
+[[Linux Privilege Escalation]]
 The key pair concept that #SSH and other asymmetric cryptographic protocols utilize to secure a connection is as follow:
 - Private key to encrypt information: kept at the client's computer,
 - Public key to decrypt information: kept on the server

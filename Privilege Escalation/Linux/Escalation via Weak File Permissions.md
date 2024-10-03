@@ -1,4 +1,4 @@
-Privilege escalation is a technique that allows users to gain access to resources or privileges they aren't initially granted. This can lead to unauthorized access to sensitive data, system compromise, and potential further attacks on connected systems.
+[[Linux Privilege Escalation]] Privilege escalation is a technique that allows users to gain access to resources or privileges they aren't initially granted. This can lead to unauthorized access to sensitive data, system compromise, and potential further attacks on connected systems.
 When there is a file misconfiguration, this can lead to unauthorize access to that sensitive. An example is /etc/shadow, which should not be accessible by any user but root.
 
 ***/etc/passwd*** - contains username and a place holder that (), that supposed to contain the user's password. Users can read usually this file.

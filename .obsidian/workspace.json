@@ -11,43 +11,11 @@
             "id": "703ccd58c05fcad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Notes/nmap.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7530420619875c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Notes/tor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a070b19108f5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,34 +149,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53a070b19108f5b4",
+  "active": "703ccd58c05fcad9",
   "lastOpenFiles": [
-    "Windows Escalation.md",
-    "Windows Pentest Utils.md",
-    "Linux Notes/tty escape using python.md",
-    "Linux Notes/tor.md",
-    "burpsuite.md",
-    "Linux Notes/nmap.md",
-    "Linux Notes/lsof.md",
-    "Linux Notes/tr.md",
-    "Privilege Escalation/Linux/Escalation via LD_PRELOAD.md",
-    "Linux Notes/tor use - case.md",
-    "Linux Notes/nmap use - case part 2.md",
-    "Linux Notes/nmap use - case part 1.md",
-    "Linux Notes/tee.md",
-    "Linux Notes/tr vs sed - A Comprehensive Comparison.md",
-    "Linux Notes/tr with example.md",
     "Linux Notes/tee - other usage.md",
-    "Linux Notes/ssh.md",
-    "Linux Notes/netcat.md",
-    "Linux Notes/netdiscover.md",
-    "Linux Notes/netstat.md",
-    "Linux Notes/lsof another example.md",
-    "Linux Incident Surface.md",
-    "Linux Notes/proxychains.md",
-    "Linux Notes/wireshark.md",
-    "Resources.md",
-    "Linux Notes/bash incident detection and recovery scripts part 1.md",
+    "Linux Sec Identifying the Footprints.md",
+    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
+    "Privilege Escalation/Linux/Weak passwords.md",
+    "Privilege Escalation/Linux/Sudo Shell Escaping (Escalation).md",
+    "Privilege Escalation/Linux/Separation of privileges.md",
+    "Privilege Escalation/Linux/Remote Code Execution.md",
+    "Privilege Escalation/Linux/Privilege Escalation Notes.md",
+    "Privilege Escalation/Linux/Privilege Escalation - SUID (Environment Variables 2).md",
+    "Privilege Escalation/Linux/Privilege Escalation - SUID (Environment Variables 1).md",
+    "Privilege Escalation/Linux/Privilege Escalation - Cron (Wildcards).md",
+    "Privilege Escalation/Linux/Privilege Escalation - Cron (Path).md",
+    "Privilege Escalation/Linux/Privilege Escalation - Capabilities.md",
+    "Privilege Escalation/Linux/Principle of Least Privilege.md",
+    "Privilege Escalation/Linux/Linux Privilege Escalation.md",
+    "Linux Notes/nmap.md",
+    "Privilege Escalation/Linux/NFS Root Squashing.md",
+    "Privilege Escalation/Linux/Linux Privesc via CVE-2019-18634.md",
+    "Privilege Escalation/Linux/Linux Privesc Docker.md",
+    "Privilege Escalation/Linux/Linux Priv Esc CVE-2019-14287.md",
+    "Privilege Escalation/Linux/Kernel Exploitation.md",
+    "Privilege Escalation/Linux/Escalation via Weak File Permissions.md",
+    "Privilege Escalation/Linux/Escalation via Stored Passwords.md",
+    "Privilege Escalation/Linux/Escalation via SSH Keys.md",
+    "Privilege Escalation/Linux/Escalation via Shared Object Injection.md",
+    "Linux Notes/tor.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",

@@ -1,8 +1,7 @@
+[[Linux Privilege Escalation]]
 **Detection**
 
-  
-
-[[Linux]] VM
+VM
 
   
 

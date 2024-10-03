@@ -1,6 +1,6 @@
 LD_PRELOAD is an environment variable that lists shared libraries with functions that override the standard set, just as /etc/ld.so.preload does. These are implemented by the loader /lib/ld-linux.so
 
-Escalation via LD_PRELOAD consists of abusing the Linux preloading functionality by loading a binary that can be run by root, even though we're not, thus escalating our privilege to root.
+[[Linux Privilege Escalation]] via LD_PRELOAD consists of abusing the Linux preloading functionality by loading a binary that can be run by root, even though we're not, thus escalating our privilege to root.
 
 To exploit such type of vulnerability we need to compromise victim’s machine at once then move to privilege escalation phase. Suppose you successfully login into victim’s machine through ssh now for post exploitation type **sudo -l**
 

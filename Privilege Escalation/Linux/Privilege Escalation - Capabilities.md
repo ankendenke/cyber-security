@@ -1,5 +1,5 @@
 ***Detection***
-[[privilege escalation]] technique taking advantage of the capabilities functionality.
+This [[Linux Privilege Escalation]] technique taking advantage of the capabilities functionality.
 - In command prompt type: 
 ```
    getcap -r / 2>/dev/null

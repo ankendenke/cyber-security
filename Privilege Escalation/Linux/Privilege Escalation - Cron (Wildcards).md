@@ -1,4 +1,5 @@
 **Detection**
+[[Linux Privilege Escalation]]
 Victim's  machine
 - In command prompt type: 
 ```

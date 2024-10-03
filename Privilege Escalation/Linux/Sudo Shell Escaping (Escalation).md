@@ -1,4 +1,5 @@
 #### Sudo Overview
+[[Linux Privilege Escalation]]
 Sudo is a command in #Linux that allows users to run commands with privileges that only #root user have. It helps users to do tasks with administrative power without logging in as the root user, though sometimes it can be risky.
 
 These users who can use the **sudo*** command need to have an entry in the **sudoers** file located at ****“/etc/sudoers”****.

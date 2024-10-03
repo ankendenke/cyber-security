@@ -1,5 +1,5 @@
 ***What's a stake***
-Privilege escalation in Linux is ==a technique that allows users to gain elevated privileges or access to restricted resources==. This can be done by exploiting a weakness in a system or application, ==such as a password stored in plain text==.
+[[Linux Privilege Escalation]] is ==a technique that allows users to gain elevated privileges or access to restricted resources==. This can be done by exploiting a weakness in a system or application, ==such as a password stored in plain text==.
 
 The *history* command is a useful tool to begin with. One can also look for ***==.bash_history ==file in the user's directory.***
 

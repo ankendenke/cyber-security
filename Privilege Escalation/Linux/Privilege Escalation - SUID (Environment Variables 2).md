@@ -1,4 +1,5 @@
 ***Detection***
+[[Linux Privilege Escalation]]
 Target's [[Linux]] machine:
 
 - In command prompt type: 

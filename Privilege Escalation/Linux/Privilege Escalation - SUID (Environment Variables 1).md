@@ -1,3 +1,4 @@
+[[Linux Privilege Escalation]]
 **Detection**
 
 [[Linux]] Target

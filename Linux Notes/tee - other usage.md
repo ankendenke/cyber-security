@@ -1,4 +1,4 @@
-# Linux tee Command Tutorial
+# [[Linux]] tee Command Tutorial
 The `tee` command is a powerful utility in Linux that reads from standard input and writes to both standard output and one or more files simultaneously. Think of it like a "T" shaped pipe fitting in plumbing, where the input splits into two directions.
 
 ## Basic Usage
