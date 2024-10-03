@@ -1,5 +1,4 @@
-[[Linux]] command
-The `tee` command in Linux is used to read from standard input (stdin) and write to both standard output (stdout) and one or more files simultaneously. This can be useful when you want to view output in the terminal while also saving it to a file.
+The `tee` command in [[Linux]] is used to read from standard input (stdin) and write to both standard output (stdout) and one or more files simultaneously. This can be useful when you want to view output in the terminal while also saving it to a file.
 
 Here's a step-by-step guide from beginner to advanced on how to use the `tee` command:
 
