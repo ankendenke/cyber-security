@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/tty escape using python.md",
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes/tty escape using python.md",
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes/tty escape using python.md",
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Notes/tty escape using python.md"
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploit.md"
               }
             }
           },
@@ -185,10 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "53a070b19108f5b4",
   "lastOpenFiles": [
-    "Linux Notes/tor.md",
+    "Windows Escalation.md",
+    "Windows Pentest Utils.md",
     "Linux Notes/tty escape using python.md",
+    "Linux Notes/tor.md",
     "burpsuite.md",
     "Linux Notes/nmap.md",
     "Linux Notes/lsof.md",
@@ -211,8 +213,6 @@
     "Linux Notes/wireshark.md",
     "Resources.md",
     "Linux Notes/bash incident detection and recovery scripts part 1.md",
-    "Linux Notes/bash incident detection and recovery scripts part 2.md",
-    "Linux Notes/yum & rpm.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",
