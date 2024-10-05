@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Advanced Token Impersonation Analysis.md",
+                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Token Impersonation.md",
+                "file": "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Token Impersonation.md",
+                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Token Impersonation.md",
+                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Token Impersonation.md"
+                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md"
               }
             }
           },
@@ -172,13 +171,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d2d1137110e0192",
+  "active": "1089297974078e84",
   "lastOpenFiles": [
-    "Windows T.md",
-    "Privilege Escalation/Windows/Windows Token Impersonation.md",
     "Privilege Escalation/Windows/Windows Advanced Token Impersonation Analysis.md",
-    "Resources.md",
+    "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
     "Windows Escalation.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Family Overview and Use.md",
+    "Privilege Escalation/Windows/Windows Token Impersonation.md",
+    "Windows T.md",
+    "Resources.md",
     "Windows Notes/Windows Pentest Utils.md",
     "Windows Notes/Windows.md",
     "Windows Notes/Windows User Enumeration.md",
@@ -186,7 +187,6 @@
     "Windows Notes/Windows AV Firewall Enumeration.md",
     "Windows Notes",
     "Privilege Escalation/Windows/Windows Token Impersonation - Potato Family Analysis.md",
-    "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
     "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
     "Privilege Escalation/Windows/Windows Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows System Enumeration.md",
@@ -200,7 +200,6 @@
     "Privilege Escalation/Windows/Windows Kernel Exploit.md",
     "Privilege Escalation/Windows/Windows Escalation.md",
     "Linux Notes/systemctl practical example.md",
-    "Linux Notes/systemctl.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",
