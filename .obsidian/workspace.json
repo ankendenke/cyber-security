@@ -11,16 +11,20 @@
             "id": "1089297974078e84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe288640311ec05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,13 +158,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1089297974078e84",
+  "active": "0fe288640311ec05",
   "lastOpenFiles": [
-    "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
-    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
-    "Privilege Escalation/Windows/Windows Advanced Token Impersonation Analysis.md",
     "Windows Escalation.md",
+    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
+    "Privilege Escalation/Linux/Privilege Escalation Notes.md",
+    "Privilege Escalation/Windows/Windows Privilege escalation Using RunAs.md",
     "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Family Overview and Use.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
+    "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
+    "Privilege Escalation/Windows/Windows Advanced Token Impersonation Analysis.md",
     "Privilege Escalation/Windows/Windows Token Impersonation.md",
     "Windows T.md",
     "Resources.md",
@@ -175,7 +178,6 @@
     "Windows Notes/Windows AV Firewall Enumeration.md",
     "Windows Notes",
     "Privilege Escalation/Windows/Windows Token Impersonation - Potato Family Analysis.md",
-    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows System Enumeration.md",
     "Understanding and Mitigating Privilege Escalation.md",
     "Privilege Escalation - Detection & Prevention Guide.md",
@@ -185,8 +187,6 @@
     "Privilege Escalation/Windows/Windows Priv Esc Automated Tool Overview.md",
     "Privilege Escalation/Windows/Windows Password Hunting.md",
     "Privilege Escalation/Windows/Windows Kernel Exploit.md",
-    "Privilege Escalation/Windows/Windows Escalation.md",
-    "Linux Notes/systemctl practical example.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",

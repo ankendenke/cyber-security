@@ -19,4 +19,4 @@ There are many vulnerabilities that can lead to privilege escalation. Some of t
 In conclusion: Privilege escalation is using a vulnerability to gain privileges other than what was originally intended for the user.
 
 Practical [[Linux Privilege Escalation]]  steps
-Practical [[Windows Escalation]] steps
+Practical [[Windows Privilege Escalation]] steps
