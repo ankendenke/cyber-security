@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1d2d1137110e0192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -173,8 +160,9 @@
   },
   "active": "1089297974078e84",
   "lastOpenFiles": [
-    "Privilege Escalation/Windows/Windows Advanced Token Impersonation Analysis.md",
     "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
+    "Privilege Escalation/Windows/Windows Advanced Token Impersonation Analysis.md",
     "Windows Escalation.md",
     "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Family Overview and Use.md",
     "Privilege Escalation/Windows/Windows Token Impersonation.md",
@@ -187,7 +175,6 @@
     "Windows Notes/Windows AV Firewall Enumeration.md",
     "Windows Notes",
     "Privilege Escalation/Windows/Windows Token Impersonation - Potato Family Analysis.md",
-    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
     "Privilege Escalation/Windows/Windows Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows System Enumeration.md",
     "Understanding and Mitigating Privilege Escalation.md",
