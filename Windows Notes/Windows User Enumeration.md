@@ -1,4 +1,4 @@
-To check who the user is connected
+[[Windows]] To check who the user is connected
 ```
 whoami
 ```

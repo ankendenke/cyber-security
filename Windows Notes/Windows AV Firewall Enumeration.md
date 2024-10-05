@@ -1,4 +1,4 @@
-[[Windows Privilege Escalation]] encompasses knowing which anti virus are running as well as firewall
+[[Windows]] encompasses knowing which anti virus are running as well as firewall
 Check if Windows defender is on (it is by default in most PC)
 ```
 sc query windefend

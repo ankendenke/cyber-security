@@ -1,4 +1,4 @@
-[[Windows Privilege Escalation]] consist of enumerating the network where we are sitting on
+[[Windows]] consist of enumerating the network where we are sitting on
 Here are few commands to do so
 Your ip, dns server, subnet, default gateway
 ```
