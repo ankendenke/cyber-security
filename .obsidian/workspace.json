@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4385c996491ec7",
+        "id": "7ffe39b98f82c2f6",
         "type": "tabs",
         "children": [
           {
-            "id": "703ccd58c05fcad9",
+            "id": "009722e0c170c5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows Privilege Escalation.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,42 +21,27 @@
             }
           },
           {
-            "id": "3110157e19aa3d82",
+            "id": "21730527bef917cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation/Windows/Windows System Enumeration.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "eff32328c2a97569",
+            "id": "17e139ed42ccbfac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding and Mitigating Privilege Escalation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "b69f72eba91275c8",
+            "id": "b3be4a74e72bddb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding and Mitigating Privilege Escalation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -126,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understanding and Mitigating Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understanding and Mitigating Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Understanding and Mitigating Privilege Escalation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,17 +179,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b69f72eba91275c8",
+  "active": "b3be4a74e72bddb7",
   "lastOpenFiles": [
+    "Privilege Escalation/Windows/Windows Token Impersonation - Potato Family Analysis.md",
+    "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
+    "Resources.md",
+    "Privilege Escalation/Windows/Windows Token Impersonation.md",
+    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
+    "Privilege Escalation/Windows/Windows System Enumeration.md",
+    "Understanding and Mitigating Privilege Escalation.md",
     "Privilege Escalation - Detection & Prevention Guide.md",
     "privilege escalation.md",
-    "Understanding and Mitigating Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 2.md",
-    "Privilege Escalation/Windows/Windows Token Impersonation.md",
-    "Privilege Escalation/Windows/Windows System Enumeration.md",
     "Privilege Escalation/Windows/Windows User Enumeration.md",
     "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 1.md",
-    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows Priv Esc Automated Tool Overview.md",
     "Privilege Escalation/Windows/Windows Password Hunting.md",
     "Privilege Escalation/Windows/Windows Network Enumeration.md",
@@ -222,10 +207,6 @@
     "Privilege Escalation/Linux/Weak passwords.md",
     "Privilege Escalation/Linux/Sudo Shell Escaping (Escalation).md",
     "Privilege Escalation/Linux/Separation of privileges.md",
-    "Privilege Escalation/Linux/Remote Code Execution.md",
-    "Privilege Escalation/Linux/Privilege Escalation Notes.md",
-    "Privilege Escalation/Linux/Privilege Escalation - SUID (Environment Variables 2).md",
-    "Privilege Escalation/Linux/Privilege Escalation - SUID (Environment Variables 1).md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",

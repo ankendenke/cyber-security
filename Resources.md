@@ -84,3 +84,5 @@ https://www.baeldung.com/linux/start-here
 
 Windows Priv Esc Steps:
 https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
+
+https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/
