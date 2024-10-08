@@ -27,9 +27,17 @@
             "id": "9827e3e0816eeb20",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d23f2cf5e09715cf",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows RunAs Security Analysis.md",
+                "file": "Article from Medium Kali Config.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows RunAs Security Analysis.md",
+                "file": "Article from Medium Kali Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows RunAs Security Analysis.md",
+                "file": "Article from Medium Kali Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation/Windows/Windows RunAs Security Analysis.md"
+                "file": "Article from Medium Kali Config.md"
               }
             }
           },
@@ -175,8 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "d23f2cf5e09715cf",
   "lastOpenFiles": [
+    "Privilege Escalation/Linux/NFS Root Squashing.md",
+    "Privilege Escalation/Linux/Linux Privilege Escalation.md",
+    "Article from Medium Kali Config.md",
     "Privilege Escalation/Windows/Windows RunAs Security Analysis.md",
     "Windows Escalation.md",
     "Privilege Escalation/Windows/Windows Privilege Escalation.md",
@@ -201,9 +212,6 @@
     "Privilege Escalation - Detection & Prevention Guide.md",
     "privilege escalation.md",
     "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 2.md",
-    "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 1.md",
-    "Privilege Escalation/Windows/Windows Priv Esc Automated Tool Overview.md",
-    "Privilege Escalation/Windows/Windows Password Hunting.md",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
     "Images/Pasted image 20240924192643.png",
