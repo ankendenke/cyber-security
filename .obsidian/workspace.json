@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Notes/Windows PowerShell Security - Level 2 - Advanced System Monitoring and Security Auditing.md",
+                "file": "Windows Notes/Windows Powershell Script for System Info Gathering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Notes/Windows PowerShell Security - Level 2 - Advanced System Monitoring and Security Auditing.md",
+                "file": "Windows Notes/Windows Powershell Script for System Info Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Notes/Windows PowerShell Security - Level 2 - Advanced System Monitoring and Security Auditing.md",
+                "file": "Windows Notes/Windows Powershell Script for System Info Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Notes/Windows PowerShell Security - Level 2 - Advanced System Monitoring and Security Auditing.md"
+                "file": "Windows Notes/Windows Powershell Script for System Info Gathering.md"
               }
             }
           },
@@ -158,12 +158,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "60dcd3f40572e65e",
   "lastOpenFiles": [
-    "Windows Notes/Windows PowerShell Security Fundamentals Level 1.md",
     "Windows Notes/Windows PowerShell Security - Level 2 - Advanced System Monitoring and Security Auditing.md",
-    "Article from Medium Kali Config.md",
     "Windows Notes/Windows Powershell Script for System Info Gathering.md",
+    "Windows Notes/Windows PowerShell Level 1 Security Fundamentals.md",
+    "Article from Medium Kali Config.md",
     "Privilege Escalation/Windows/Windows RunAs Security Analysis.md",
     "Privilege Escalation/Linux/NFS Root Squashing.md",
     "Privilege Escalation/Linux/Linux Privilege Escalation.md",
