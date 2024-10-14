@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "352d3507494f3529",
+            "id": "798f16cc7897a61b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Notes/DLL (Basic).md",
+                "file": "Linux Notes/tor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Notes/DLL (Basic).md",
+                "file": "Linux Notes/tor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Notes/DLL (Basic).md",
+                "file": "Linux Notes/tor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Notes/DLL (Basic).md"
+                "file": "Linux Notes/tor.md"
               }
             }
           },
@@ -185,11 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "352d3507494f3529",
+  "active": "798f16cc7897a61b",
   "lastOpenFiles": [
+    "Images/Pasted image 20240728134655.png",
+    "Windows Notes/Windows Unquoted service path vulnerability (Advanced).md",
     "Untitled 1.md",
-    "Windows Notes/DLL (Basic).md",
     "Windows Notes/DLL (Advanced).md",
+    "Windows Notes/DLL (Basic).md",
+    "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md",
     "Linux Sec Identifying the Footprints.md",
     "Windows Notes/Get-Acl.md",
     "Windows Notes/findstr.md",
@@ -211,9 +214,6 @@
     "Linux Notes/netcat.md",
     "Resolve connection between VPN THM (Windows).md",
     "Windows Notes/Windows PowerShell Security - Level 2 - Advanced System Monitoring and Security Auditing.md",
-    "Windows Notes/Windows PowerShell Level 1 Security Fundamentals.md",
-    "Article from Medium Kali Config.md",
-    "Privilege Escalation/Windows/Windows RunAs Security Analysis.md",
     "Windows Notes",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",
