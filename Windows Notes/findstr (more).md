@@ -3,7 +3,7 @@ As a security researcher, understanding the `findstr` command in [[Windows]] can
 Beginner level:
 
 1. Basic string search in a file:
-```
+```PowerShell
 findstr "error" log.txt
 ```
 This searches for the word "error" in log.txt and displays all lines containing it.

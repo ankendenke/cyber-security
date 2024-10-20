@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/tor.md",
+                "file": "Windows Notes/findstr (more).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Notes/tor.md",
+                "file": "Windows Notes/findstr (more).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Notes/tor.md",
+                "file": "Windows Notes/findstr (more).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Notes/tor.md"
+                "file": "Windows Notes/findstr (more).md"
               }
             }
           },
@@ -187,6 +187,8 @@
   },
   "active": "798f16cc7897a61b",
   "lastOpenFiles": [
+    "Windows Notes/findstr.md",
+    "Linux Notes/tor.md",
     "Images/Pasted image 20240728134655.png",
     "Windows Notes/Windows Unquoted service path vulnerability (Advanced).md",
     "Untitled 1.md",
@@ -195,7 +197,6 @@
     "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md",
     "Linux Sec Identifying the Footprints.md",
     "Windows Notes/Get-Acl.md",
-    "Windows Notes/findstr.md",
     "Linux Notes/awk.md",
     "Windows Notes/findstr (more).md",
     "Windows Notes/Get-Acl (use case).md",
@@ -226,7 +227,6 @@
     "Privilege Escalation/Linux",
     "Images/Pasted image 20240915123945.png",
     "Images/Pasted image 20240915124356.png",
-    "Images/Pasted image 20240907082720.png",
     "Images",
     "Privilege Escalation",
     "Linux Notes",
