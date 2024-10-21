@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dcbe8185b93bad97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -187,18 +200,19 @@
   },
   "active": "798f16cc7897a61b",
   "lastOpenFiles": [
+    "Miscellaneous.md",
+    "Windows Notes/findstr (more).md",
+    "Windows Notes/DLL (Advanced).md",
+    "Linux Sec Identifying the Footprints.md",
     "Windows Notes/findstr.md",
     "Linux Notes/tor.md",
     "Images/Pasted image 20240728134655.png",
     "Windows Notes/Windows Unquoted service path vulnerability (Advanced).md",
     "Untitled 1.md",
-    "Windows Notes/DLL (Advanced).md",
     "Windows Notes/DLL (Basic).md",
     "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md",
-    "Linux Sec Identifying the Footprints.md",
     "Windows Notes/Get-Acl.md",
     "Linux Notes/awk.md",
-    "Windows Notes/findstr (more).md",
     "Windows Notes/Get-Acl (use case).md",
     "Windows Notes/Windows User Enumeration.md",
     "Windows Notes/net localgroup.md",
@@ -214,7 +228,6 @@
     "Linux Notes/ncat examples.md",
     "Linux Notes/netcat.md",
     "Resolve connection between VPN THM (Windows).md",
-    "Windows Notes/Windows PowerShell Security - Level 2 - Advanced System Monitoring and Security Auditing.md",
     "Windows Notes",
     "Images/Pasted image 20240924192710.png",
     "Images/Pasted image 20240924192408.png",

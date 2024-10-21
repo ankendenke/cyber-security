@@ -9,7 +9,7 @@ findstr "error" log.txt
 This searches for the word "error" in log.txt and displays all lines containing it.
 
 2. Case-insensitive search:
-```
+```PowerShell
 findstr /i "password" config.ini
 ```
 Searches for "password" in config.ini, ignoring case.
@@ -17,19 +17,19 @@ Searches for "password" in config.ini, ignoring case.
 Intermediate level:
 
 3. Searching multiple files:
-```
+```PowerShell
 findstr /s /i "malware" C:\*.log
 ```
 Recursively searches all .log files in C:\ for "malware", ignoring case.
 
 4. Using regular expressions:
-```
+```PowerShell
 findstr /r "^[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}" access.log
 ```
 Searches for IP address patterns in access.log.
 
 5. Excluding lines:
-```
+```PowerShell
 findstr /v "SYSTEM" security.evt
 ```
 Displays all lines from security.evt that don't contain "SYSTEM".
@@ -37,19 +37,19 @@ Displays all lines from security.evt that don't contain "SYSTEM".
 Advanced level:
 
 6. Combining multiple search patterns:
-```
+```PowerShell
 findstr /c:"failed login" /c:"unauthorized access" /c:"brute force attempt" auth.log
 ```
 Searches for multiple specific phrases in auth.log.
 
 7. Piping with other commands:
-```
+```PowerShell
 type iis.log | findstr "POST" | findstr /v "200 OK"
 ```
 Finds all POST requests in iis.log that didn't return a 200 OK status.
 
 8. Using findstr in a batch script for threat hunting:
-```batch
+```PowerShell
 @echo off
 for %%F in (C:\Windows\System32\*.dll) do (
     findstr /m "CreateRemoteThread" "%%F" >nul
@@ -77,7 +77,7 @@ ForEach-Object {
 This PowerShell script uses `findstr` to search for lines starting with "Error" or "Warning" in all .log files recursively.
 
 10. Using findstr in a live incident response scenario:
-```batch
+```PowerShell
 for /f "tokens=2 delims=:" %%a in ('findstr /m /c:"HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" C:\Windows\System32\config\SYSTEM') do (
     echo Potential persistence mechanism found in registry: %%a
 )
