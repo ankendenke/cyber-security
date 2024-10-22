@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Notes/findstr (more).md",
+                "file": "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Notes/findstr (more).md",
+                "file": "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Notes/findstr (more).md",
+                "file": "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Notes/findstr (more).md"
+                "file": "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md"
               }
             }
           },
@@ -200,8 +200,8 @@
   },
   "active": "798f16cc7897a61b",
   "lastOpenFiles": [
-    "Miscellaneous.md",
     "Windows Notes/findstr (more).md",
+    "Miscellaneous.md",
     "Windows Notes/DLL (Advanced).md",
     "Linux Sec Identifying the Footprints.md",
     "Windows Notes/findstr.md",
