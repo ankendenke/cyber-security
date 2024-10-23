@@ -8,64 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2450709e8187212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Sec Identifying the Footprints.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49a7f1d5b468d1e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Notes/net user.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6b769a181dd7938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cross-site scripting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8c9a109cba14318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Priv Esc CVE-2019-1388.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8fa8c31813b6e9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Notes/Certutil.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Notes/Certutil.md",
+                "file": "Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Notes/Certutil.md",
+                "file": "Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Notes/Certutil.md"
+                "file": "Resources.md"
               }
             }
           },
@@ -224,15 +171,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "8fa8c31813b6e9de",
   "lastOpenFiles": [
-    "Windows Priv Esc CVE-2019-1388.md",
     "Windows Notes/Certutil.md",
+    "Miscellaneous.md",
+    "Windows Priv Esc CVE-2019-1388.md",
+    "Linux Sec Identifying the Footprints.md",
+    "Windows Notes/net user.md",
     "Cross-site scripting.md",
     "Common Security Issues.md",
-    "Windows Notes/net user.md",
-    "Miscellaneous.md",
-    "Linux Sec Identifying the Footprints.md",
     "Windows Notes/Windows.md",
     "Understanding and Mitigating Privilege Escalation.md",
     "Windows Notes/DLL (Advanced).md",
