@@ -90,3 +90,6 @@ https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-
 Basic Powershell Commands for Pentest
 
 https://book.hacktricks.xyz/windows-hardening/basic-powershell-for-pentesters
+
+Mounting file Kali Linux
+https://medium.com/@klockw3rk/mounting-vhd-file-on-kali-linux-through-remote-share-f2f9542c1f25
