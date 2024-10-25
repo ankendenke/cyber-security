@@ -6,5 +6,5 @@ THM
 
 HTB
 - Arctic (MS10-059, ColdFusion)
-- Bastion
-- 
+- Bastion (password stored on image vhd to be mounted)
+- Querier

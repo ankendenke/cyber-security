@@ -93,3 +93,10 @@ https://book.hacktricks.xyz/windows-hardening/basic-powershell-for-pentesters
 
 Mounting file Kali Linux
 https://medium.com/@klockw3rk/mounting-vhd-file-on-kali-linux-through-remote-share-f2f9542c1f25
+
+Secretdump
+https://medium.com/@benichmt1/secretsdump-demystified-bfd0f933dd9b
+
+Hash
+https://medium.com/@benichmt1/secretsdump-demystified-bfd0f933dd9b
+
