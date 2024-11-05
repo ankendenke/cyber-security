@@ -28,13 +28,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Privilege Escalation/Linux/Linux Privesc via CVE-2019-18634.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Linux Privesc via CVE-2019-18634"
+            }
+          },
+          {
+            "id": "183867be47f39eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Screenshot Tools.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Screenshot Tools"
+            }
+          },
+          {
+            "id": "23473f880de556f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           },
           {
@@ -53,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,35 +234,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ba3b30275101bb3",
+  "active": "23473f880de556f9",
   "lastOpenFiles": [
+    "Privilege Escalation/Linux/Linux Privesc via CVE-2019-18634.md",
+    "Screenshot Tools.md",
+    "Privilege Escalation/Linux/Linux Privesc Docker.md",
+    "Privilege Escalation/Linux/Linux Priv Esc CVE-2019-14287.md",
+    "Privilege Escalation/Linux/Kernel Exploitation.md",
+    "Privilege Escalation/Linux/Escalation via Weak File Permissions.md",
+    "Privilege Escalation/Linux/Escalation via Stored Passwords.md",
+    "Privilege Escalation/Linux/Escalation via SSH Keys.md",
+    "Privilege Escalation/Linux/Escalation via Shared Object Injection.md",
+    "Privilege Escalation/Linux/Escalation via LD_PRELOAD.md",
+    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 2.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 1.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Family Overview and Use.md",
+    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
+    "Privilege Escalation/Windows/Windows Priv Esc Automated Tool Overview.md",
     "Privilege Escalation/Windows/Windows Practice Machines.md",
+    "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
+    "Privilege Escalation/Windows/Windows Kernel Exploit.md",
+    "Privilege Escalation/Windows/Windows Password Hunting.md",
+    "Windows Notes/Windows PowerShell Level 1 Security Fundamentals.md",
     "Resources.md",
     "Windows Notes/Certutil.md",
-    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
     "Miscellaneous.md",
     "Windows Priv Esc CVE-2019-1388.md",
     "Linux Sec Identifying the Footprints.md",
-    "Windows Notes/net user.md",
-    "Cross-site scripting.md",
-    "Common Security Issues.md",
-    "Windows Notes/Windows.md",
-    "Understanding and Mitigating Privilege Escalation.md",
-    "Windows Notes/DLL (Advanced).md",
-    "Privilege Escalation/Windows/Windows Unquoted service path vulnerability (Basic).md",
-    "Untitled 1.md",
-    "Windows Notes/findstr (more).md",
-    "Windows Notes/findstr.md",
-    "Linux Notes/tor.md",
     "Images/Pasted image 20240728134655.png",
-    "Windows Notes/Windows Unquoted service path vulnerability (Advanced).md",
-    "Windows Notes/DLL (Basic).md",
-    "Windows Notes/Get-Acl.md",
-    "Linux Notes/awk.md",
-    "Windows Notes/Get-Acl (use case).md",
-    "Windows Notes/Windows User Enumeration.md",
-    "Windows Notes/net localgroup.md",
-    "Windows Notes/net.md",
     "Pathways.canvas",
     "Windows Notes",
     "Images/Pasted image 20240924192710.png",
