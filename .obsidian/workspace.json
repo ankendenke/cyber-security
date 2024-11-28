@@ -41,15 +41,22 @@
             "id": "183867be47f39eed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3615152f0c361a05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Networking/OSI Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.7.6"
               },
               "icon": "lucide-file",
-              "title": "OSI Model"
+              "title": "Release Notes 1.7.6"
             }
           },
           {
@@ -125,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -279,12 +286,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "183867be47f39eed",
+  "active": "2f1ce46a3fac3f75",
   "lastOpenFiles": [
+    "Networking/OSI Model.md",
     "Networking/Computer Network.md",
     "Networking/Subnetting.md",
     "Screenshot Tools.md",
-    "Networking/OSI Model.md",
     "Networking",
     "Privilege Escalation/Linux/Linux Privesc via CVE-2019-18634.md",
     "Privilege Escalation/Linux/Linux Privesc Docker.md",
