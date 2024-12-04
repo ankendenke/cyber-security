@@ -102,6 +102,18 @@
             }
           },
           {
+            "id": "ef5e556a6cf97e32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "c3c1a64fc63a8b41",
             "type": "leaf",
             "state": {
@@ -147,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -301,7 +313,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15d569f08418b364",
+  "active": "ef5e556a6cf97e32",
   "lastOpenFiles": [
     "Pasted image 20241128081248.png",
     "Networking/OSI Model.md",
