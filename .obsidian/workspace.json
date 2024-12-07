@@ -105,12 +105,15 @@
             "id": "ef5e556a6cf97e32",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "Miscellaneous.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Miscellaneous"
             }
           },
           {
@@ -315,11 +318,11 @@
   },
   "active": "ef5e556a6cf97e32",
   "lastOpenFiles": [
+    "Networking/Subnetting.md",
     "Pasted image 20241128081248.png",
     "Networking/OSI Model.md",
     "Security Mindset.md",
     "Networking/Computer Network.md",
-    "Networking/Subnetting.md",
     "Screenshot Tools.md",
     "Networking",
     "Privilege Escalation/Linux/Linux Privesc via CVE-2019-18634.md",
@@ -355,7 +358,6 @@
     "Privilege Escalation/Windows",
     "Privilege Escalation/Linux",
     "Images/Pasted image 20240915123945.png",
-    "Images/Pasted image 20240915124356.png",
     "Images",
     "Privilege Escalation",
     "Linux Notes",
