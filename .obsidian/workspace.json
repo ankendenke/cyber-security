@@ -107,13 +107,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous.md",
+                "file": "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miscellaneous"
+              "title": "Gathering Breached Credentials with Breach-Parse"
             }
           },
           {
@@ -318,7 +318,11 @@
   },
   "active": "ef5e556a6cf97e32",
   "lastOpenFiles": [
+    "PEH - Practical Ethical Hacking/Discovering Email Addresses.md",
+    "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
     "Networking/Subnetting.md",
+    "Miscellaneous.md",
+    "PEH - Practical Ethical Hacking",
     "Pasted image 20241128081248.png",
     "Networking/OSI Model.md",
     "Security Mindset.md",
@@ -343,8 +347,6 @@
     "Privilege Escalation/Windows/Windows Practice Machines.md",
     "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
     "Privilege Escalation/Windows/Windows Kernel Exploit.md",
-    "Privilege Escalation/Windows/Windows Password Hunting.md",
-    "Windows Notes/Windows PowerShell Level 1 Security Fundamentals.md",
     "Images/Pasted image 20240728134655.png",
     "Pathways.canvas",
     "Windows Notes",
