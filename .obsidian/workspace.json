@@ -107,13 +107,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
+                "file": "PEH - Practical Ethical Hacking/Hunting Subdomains Part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gathering Breached Credentials with Breach-Parse"
+              "title": "Hunting Subdomains Part 1"
             }
           },
           {
@@ -318,6 +318,8 @@
   },
   "active": "ef5e556a6cf97e32",
   "lastOpenFiles": [
+    "PEH - Practical Ethical Hacking/Hunting Breached Credentials with DeHashed.md",
+    "PEH - Practical Ethical Hacking/Hunting Subdomains Part 1.md",
     "PEH - Practical Ethical Hacking/Discovering Email Addresses.md",
     "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
     "Networking/Subnetting.md",
@@ -345,8 +347,6 @@
     "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
     "Privilege Escalation/Windows/Windows Priv Esc Automated Tool Overview.md",
     "Privilege Escalation/Windows/Windows Practice Machines.md",
-    "Privilege Escalation/Windows/Windows Potatoes Attack - Blue Team.md",
-    "Privilege Escalation/Windows/Windows Kernel Exploit.md",
     "Images/Pasted image 20240728134655.png",
     "Pathways.canvas",
     "Windows Notes",
