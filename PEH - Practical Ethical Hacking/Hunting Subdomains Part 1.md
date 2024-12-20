@@ -1,1 +1,5 @@
 - sublist3r (apt install sublist3r)
+- crt.sh (online)
+- owasp/amass (https://github.com/owasp-amass/amass) 
+- tomnomnom httprobe (https://github.com/tomnomnom/httprobe): This package contains a tool **to test a domains list**. It takes a list of domains and probe for working http and https servers.
+- 

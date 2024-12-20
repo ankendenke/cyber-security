@@ -8,161 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fa8c31813b6e9de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
-            "id": "4ba3b30275101bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation/Linux/Linux Privesc via CVE-2019-18634.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux Privesc via CVE-2019-18634"
-            }
-          },
-          {
-            "id": "183867be47f39eed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "3615152f0c361a05",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
-          },
-          {
-            "id": "23473f880de556f9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
-            "id": "2f1ce46a3fac3f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/OSI Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OSI Model"
-            }
-          },
-          {
-            "id": "15d569f08418b364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Mindset.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security Mindset"
-            }
-          },
-          {
-            "id": "ef5e556a6cf97e32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PEH - Practical Ethical Hacking/Hunting Subdomains Part 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hunting Subdomains Part 1"
-            }
-          },
-          {
-            "id": "c3c1a64fc63a8b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Computer Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Computer Network"
-            }
-          },
-          {
-            "id": "f6d2c0e49c0f9477",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Subnetting.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Subnetting"
-            }
-          },
-          {
             "id": "dcbe8185b93bad97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous.md",
+                "file": "PEH - Practical Ethical Hacking/Google Fu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miscellaneous"
+              "title": "Google Fu"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,19 +176,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef5e556a6cf97e32",
+  "active": "dcbe8185b93bad97",
   "lastOpenFiles": [
-    "PEH - Practical Ethical Hacking/Hunting Breached Credentials with DeHashed.md",
-    "PEH - Practical Ethical Hacking/Hunting Subdomains Part 1.md",
-    "PEH - Practical Ethical Hacking/Discovering Email Addresses.md",
-    "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
-    "Networking/Subnetting.md",
+    "PEH - Practical Ethical Hacking/Utilizing Social Media.md",
+    "PEH - Practical Ethical Hacking/Google Fu.md",
+    "PEH - Practical Ethical Hacking/Information Gathering with Burp Suite.md",
+    "Burpsuite.md",
+    "PEH - Practical Ethical Hacking/Identifying Website Technologies.md",
     "Miscellaneous.md",
+    "Networking/Subnetting.md",
+    "Networking/Computer Network.md",
+    "Security Mindset.md",
+    "PEH - Practical Ethical Hacking/Discovering Email Addresses.md",
+    "PEH - Practical Ethical Hacking/Hunting Subdomains Part 1.md",
+    "PEH - Practical Ethical Hacking/Hunting Breached Credentials with DeHashed.md",
+    "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
     "PEH - Practical Ethical Hacking",
     "Pasted image 20241128081248.png",
     "Networking/OSI Model.md",
-    "Security Mindset.md",
-    "Networking/Computer Network.md",
     "Screenshot Tools.md",
     "Networking",
     "Privilege Escalation/Linux/Linux Privesc via CVE-2019-18634.md",
@@ -342,11 +207,6 @@
     "Privilege Escalation/Linux/Escalation via LD_PRELOAD.md",
     "Privilege Escalation/Windows/Windows Privilege Escalation.md",
     "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 2.md",
-    "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 1.md",
-    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Family Overview and Use.md",
-    "Privilege Escalation/Windows/Windows Priv Escalation - Potatoes Attack.md",
-    "Privilege Escalation/Windows/Windows Priv Esc Automated Tool Overview.md",
-    "Privilege Escalation/Windows/Windows Practice Machines.md",
     "Images/Pasted image 20240728134655.png",
     "Pathways.canvas",
     "Windows Notes",
