@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH - Practical Ethical Hacking/Google Fu.md",
+                "file": "Linux Notes/nmap use - case part 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google Fu"
+              "title": "nmap use - case part 1"
             }
           }
         ]
@@ -178,7 +178,9 @@
   },
   "active": "dcbe8185b93bad97",
   "lastOpenFiles": [
+    "PEH - Practical Ethical Hacking/Kioptrix.md",
     "PEH - Practical Ethical Hacking/Utilizing Social Media.md",
+    "Privilege Escalation/Windows/Windows Kernel Exploit.md",
     "PEH - Practical Ethical Hacking/Google Fu.md",
     "PEH - Practical Ethical Hacking/Information Gathering with Burp Suite.md",
     "Burpsuite.md",
@@ -205,8 +207,6 @@
     "Privilege Escalation/Linux/Escalation via SSH Keys.md",
     "Privilege Escalation/Linux/Escalation via Shared Object Injection.md",
     "Privilege Escalation/Linux/Escalation via LD_PRELOAD.md",
-    "Privilege Escalation/Windows/Windows Privilege Escalation.md",
-    "Privilege Escalation/Windows/Windows Priv Escalation via WSL Part 2.md",
     "Images/Pasted image 20240728134655.png",
     "Pathways.canvas",
     "Windows Notes",
