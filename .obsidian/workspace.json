@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/nmap use - case part 1.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nmap use - case part 1"
+              "title": "Resources"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "dcbe8185b93bad97",
   "lastOpenFiles": [
+    "Linux Notes/nmap use - case part 1.md",
     "PEH - Practical Ethical Hacking/Kioptrix.md",
     "PEH - Practical Ethical Hacking/Utilizing Social Media.md",
     "Privilege Escalation/Windows/Windows Kernel Exploit.md",
@@ -206,7 +207,6 @@
     "Privilege Escalation/Linux/Escalation via Stored Passwords.md",
     "Privilege Escalation/Linux/Escalation via SSH Keys.md",
     "Privilege Escalation/Linux/Escalation via Shared Object Injection.md",
-    "Privilege Escalation/Linux/Escalation via LD_PRELOAD.md",
     "Images/Pasted image 20240728134655.png",
     "Pathways.canvas",
     "Windows Notes",

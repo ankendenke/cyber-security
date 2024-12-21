@@ -100,3 +100,8 @@ https://medium.com/@benichmt1/secretsdump-demystified-bfd0f933dd9b
 Hash
 https://medium.com/@benichmt1/secretsdump-demystified-bfd0f933dd9b
 
+Linux Resource
+https://linuxjourney.com/
+https://linuxsurvival.com/
+https://cmdchallenge.com/
+https://gitlab.com/jarv/cmdchallenge
