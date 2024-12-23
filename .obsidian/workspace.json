@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
+                "file": "Linux Notes/Linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gathering Breached Credentials with Breach-Parse"
+              "title": "Linux"
             }
           },
           {
@@ -193,6 +193,7 @@
   },
   "active": "9392928226393ee7",
   "lastOpenFiles": [
+    "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
     "PEH - Practical Ethical Hacking/Nessus part 1.md",
     "PEH - Practical Ethical Hacking/Nessus part 2.md",
     "PEH - Practical Ethical Hacking/The Five Stages of Ethical Hacking.md",
@@ -218,7 +219,6 @@
     "Linux Notes/nmap use - case part 1.md",
     "PEH - Practical Ethical Hacking/Utilizing Social Media.md",
     "Privilege Escalation/Windows/Windows Kernel Exploit.md",
-    "PEH - Practical Ethical Hacking/Google Fu.md",
     "PEH - Practical Ethical Hacking",
     "Images/Pasted image 20241128081248.png",
     "Networking",
