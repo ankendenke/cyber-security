@@ -1,0 +1,461 @@
+## Basic Syntax: Verb-Noun
+
+PowerShell commands are known as `cmdlets` (pronounced `command-lets`). They are much more powerful than the traditional Windows commands and allow for more advanced data manipulation.
+
+Cmdlets follow a consistent `Verb-Noun` naming convention. This structure makes it easy to understand what each cmdlet does. The `Verb` describes the action, and the `Noun` specifies the object on which action is performed. For example:
+
+- `Get-Content`: Retrieves (gets) the content of a file and displays it in the console.
+- `Set-Location`: Changes (sets) the current working directory.
+
+## Basic Cmdlets
+
+To list all available cmdlets, functions, aliases, and scripts that can be executed in the current PowerShell session, we can use `Get-Command`. It’s an essential tool for discovering what commands one can use.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-Command
+
+CommandType     Name                                               Version    Source 
+-----------     ----                                               -------    ------ 
+
+Alias           Add-AppPackage                                     2.0.1.0    Appx                                                                                                                                       
+Alias           Add-AppPackageVolume                               2.0.1.0    Appx                                                                                                                                       
+Alias           Add-AppProvisionedPackage                          3.0        Dism                                                                                                                                       
+[...]
+Function        A:
+Function        Add-BCDataCacheExtension                           1.0.0.0    BranchCache                                                                                                                                
+Function        Add-DnsClientDohServerAddress                      1.0.0.0    DnsClient
+[...]
+Cmdlet          Add-AppxPackage                                    2.0.1.0    Appx
+Cmdlet          Add-AppxProvisionedPackage                         3.0        Dism                                                                                                                                       
+Cmdlet          Add-AppxVolume                                     2.0.1.0    Appx
+[...]
+```
+
+For each `CommandInfo` object retrieved by the cmdlet, some essential information (properties) is displayed on the console. It’s possible to filter the list of commands based on displayed property values. For example, if we want to display only the available commands of type “function”, we can use `-CommandType "Function"`, as shown below:
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-Command -CommandType "Function"
+
+CommandType     Name                                               Version    Source                                                                                                                                     
+-----------     ----                                               -------    ------
+Function        A:
+Function        Add-BCDataCacheExtension                           1.0.0.0    BranchCache
+Function        Add-DnsClientDohServerAddress                      1.0.0.0    DnsClient
+Function        Add-DnsClientNrptRule                              1.0.0.0    DnsClient
+[...]
+```
+
+We will learn more efficient ways to filter output from cmdlets in the upcoming tasks.
+
+Another essential cmdlet to keep in our tool belt is `Get-Help`: it provides detailed information about cmdlets, including usage, parameters, and examples. It’s the go-to cmdlet for learning how to use PowerShell commands.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-Help Get-Date
+
+NAME
+    Get-Date
+
+SYNOPSIS
+    Gets the current date and time.
+
+SYNTAX
+    Get-Date [[-Date] <System.DateTime>] [-Day <System.Int32>] [-DisplayHint {Date | Time | DateTime}] [-Format <System.String>] [-Hour <System.Int32>] [-Millisecond <System.Int32>] [-Minute <System.Int32>] [-Month <System.Int32>] [-Second <System.Int32>] [-Year <System.Int32>] [<CommonParameters>]
+
+    Get-Date [[-Date] <System.DateTime>] [-Day <System.Int32>] [-DisplayHint {Date | Time | DateTime}] [-Hour <System.Int32>] [-Millisecond <System.Int32>] [-Minute <System.Int32>] [-Month <System.Int32>] [-Second <System.Int32>] [-UFormat <System.String>] [-Year <System.Int32>] [<CommonParameters>]
+
+DESCRIPTION
+        The `Get-Date` cmdlet gets a DateTime object that represents the current date or a date that you specify. `Get-Date` can format the date and time in several .NET and UNIX formats. You can use `Get-Date` to generate a date or time character string, and then send the string to other cmdlets or programs.
+        
+        `Get-Date` uses the current culture settings of the operating system to determine how the output is formatted. To view your computer's settings, use `(Get-Culture).DateTimeFormat`.
+
+RELATED LINKS
+    Online Version: https://learn.microsoft.com/powershell/module/microsoft.powershell.utility/get-date?view=powershell-5.1&WT.mc_id=ps-gethelp
+    ForEach-Object
+    Get-Culture
+    Get-Member
+    New-Item
+    New-TimeSpan
+    Set-Date
+    Set-Culture xref:International.Set-Culture
+
+REMARKS
+    To see the examples, type: "get-help Get-Date -examples".
+    For more information, type: "get-help Get-Date -detailed".
+    For technical information, type: "get-help Get-Date -full".
+    For online help, type: "get-help Get-Date -online".
+```
+
+As shown in the results above, `Get-Help` informs us that we can retrieve other useful information about a cmdlet by appending some options to the basic syntax. For example, by appending `-examples` to the command displayed above, we will be shown a list of common ways in which the chosen cmdlet can be used.
+
+To make the transition easier for IT professionals, PowerShell includes aliases —which are shortcuts or alternative names for cmdlets— for many traditional Windows commands. Indispensable for users already familiar with other command-line tools, `Get-Alias` lists all aliases available. For example, `dir` is an alias for `Get-ChildItem`, and `cd` is an alias for `Set-Location`.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-Alias
+
+CommandType     Name                                               Version    Source 
+-----------     ----                                               -------    ------
+Alias           % -> ForEach-Object
+Alias           ? -> Where-Object
+Alias           ac -> Add-Content
+Alias           asnp -> Add-PSSnapin
+Alias           cat -> Get-Content
+Alias           cd -> Set-Location
+Alias           CFS -> ConvertFrom-String                          3.1.0.0    Microsoft.PowerShell.Utility
+Alias           chdir -> Set-Location 
+Alias           clc -> Clear-Content
+Alias           clear -> Clear-Host
+[...]
+```
+
+## Where to Find and Download Cmdlets
+
+Another powerful feature of PowerShell is the possibility of extending its functionality by downloading additional cmdlets from online repositories.
+
+**NOTE:** Please note that the cmdlets listed in this section require a working internet connection to query online repositories. The attached machine doesn't have access to the internet, therefore these commands won't work in this environment.
+
+To search for modules (collections of cmdlets) in online repositories like the PowerShell Gallery, we can use `Find-Module`. Sometimes, if we don’t know the exact name of the module, it can be useful to search for modules with a similar name. We can achieve this by filtering the `Name` property and appending a wildcard (`*`) to the module’s partial name, using the following standard PowerShell syntax: `Cmdlet -Property "pattern*"`.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Find-Module -Name "PowerShell*"   
+
+Version    Name                                Repository           Description 
+-------    ----                                ----------           ----------- 
+0.4.7      powershell-yaml                     PSGallery            Powershell module for serializing and deserializing YAML
+
+2.2.5      PowerShellGet                       PSGallery            PowerShell module with commands for discovering, installing, updating and publishing the PowerShell artifacts like Modules, DSC Resources, Role Capabilities and Scripts.                                                   
+1.0.80.0   PowerShell.Module.InvokeWinGet      PSGallery            Module to Invoke WinGet and parse the output in PSOjects
+
+0.17.0     PowerShellForGitHub                 PSGallery            PowerShell wrapper for GitHub API  
+```
+
+Once identified, the modules can be downloaded and installed from the repository with `Install-Module`, making new cmdlets contained in the module available for use.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Install-Module -Name "PowerShellGet"
+
+Untrusted repository
+You are installing the modules from an untrusted repository. If you trust this repository, change its InstallationPolicy value by running the Set-PSRepository cmdlet. Are you sure you want to install the modules from 'PSGallery'?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"): 
+```
+
+With these essential tools in our belt, we can now start exploring PowerShell’s capabilities.
+
+PowerShell provides a range of cmdlets for navigating the file system and managing files, many of which have counterparts in the traditional Windows CLI.
+
+Similar to the `dir` command in Command Prompt (or `ls` in Unix-like systems), `Get-ChildItem` lists the files and directories in a location specified with the `-Path` parameter. It can be used to explore directories and view their contents. If no `Path` is specified, the cmdlet will display the content of the current working directory.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-ChildItem 
+
+    Directory: C:\Users\captain
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-r---          5/8/2021   9:15 AM                Desktop
+d-r---          9/4/2024  10:58 AM                Documents
+d-r---          5/8/2021   9:15 AM                Downloads
+d-r---          5/8/2021   9:15 AM                Favorites
+d-r---          5/8/2021   9:15 AM                Links
+d-r---          5/8/2021   9:15 AM                Music
+d-r---          5/8/2021   9:15 AM                Pictures
+d-----          5/8/2021   9:15 AM                Saved Games
+d-r---          5/8/2021   9:15 AM                Videos
+```
+
+To navigate to a different directory, we can use the `Set-Location` cmdlet. It changes the current directory, bringing us to the specified path, akin to the `cd` command in Command Prompt.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Set-Location -Path ".\Documents"
+PS C:\Users\captain\Documents> 
+```
+
+While the traditional Windows CLI uses separate commands to create and manage different items like directories and files, PowerShell simplifies this process by providing a single set of cmdlets to handle the creation and management of both files and directories.
+
+To create an item in PowerShell, we can use `New-Item`. We will need to specify the path of the item and its type (whether it is a file or a directory).
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents> New-Item -Path ".\captain-cabin\captain-wardrobe" -ItemType "Directory"
+
+    Directory: C:\Users\captain\Documents\captain-cabin
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          9/4/2024  12:20 PM                captain-wardrobe
+
+PS C:\Users\captain\Documents> New-Item -Path ".\captain-cabin\captain-wardrobe\captain-boots.txt" -ItemType "File"     
+
+    Directory: C:\Users\captain\Documents\captain-cabin\captain-wardrobe
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/4/2024  11:46 AM              0 captain-boots.txt  
+```
+
+Similarly, the `Remove-Item` cmdlet removes both directories and files, whereas in Windows CLI we have separate commands `rmdir` and `del`.
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents> Remove-Item -Path ".\captain-cabin\captain-wardrobe\captain-boots.txt"
+PS C:\Users\captain\Documents> Remove-Item -Path ".\captain-cabin\captain-wardrobe" 
+```
+
+We can copy or move files and directories alike, using respectively `Copy-Item` (equivalent to `copy`) and `Move-Item` (equivalent to `move`).
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents> Copy-Item -Path .\captain-cabin\captain-hat.txt -Destination .\captain-cabin\captain-hat2.txt
+PS C:\Users\captain\Documents> Get-ChildItem -Path ".\captain-cabin\" 
+
+    Directory: C:\Users\captain\Documents\captain-cabin
+
+Mode                 LastWriteTime         Length Name 
+----                 -------------         ------ ----
+d-----          9/4/2024  12:50 PM                captain-wardrobe
+-a----          9/4/2024  12:50 PM              0 captain-boots.txt
+-a----          9/4/2024  12:14 PM            264 captain-hat.txt
+-a----          9/4/2024  12:14 PM            264 captain-hat2.txt
+-a----          9/4/2024  12:37 PM           2116 ship-flag.txt 
+```
+
+Finally, to read and display the contents of a file, we can use the `Get-Content` cmdlet, which works similarly to the `type` command in Command Prompt (or `cat` in Unix-like systems).
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents\captain-cabin> Get-Content -Path ".\captain-hat.txt"
+ _           _   
+| |         | |
+| |__   __ _| |_
+| '_ \ / _ | __|
+| | | | (_| | |_
+|_| |_|\__,_|\__|
+
+Don't touch my hat!
+```
+
+**Piping** is a technique used in command-line environments that allows the output of one command to be used as the input for another. This creates a sequence of operations where the data flows from one command to the next. Represented by the `|` symbol, piping is widely used in the Windows CLI, as introduced earlier in this module, as well as in Unix-based shells.
+
+In PowerShell, piping is even more powerful because it passes **objects** rather than just text. These objects carry not only the data but also the properties and methods that describe and interact with the data.
+
+For example, if you want to get a list of files in a directory and then sort them by size, you could use the following command in PowerShell:
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents\captain-cabin> Get-ChildItem | Sort-Object Length
+
+    Directory: C:\Users\captain\Documents\captain-cabin
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/4/2024  12:50 PM              0 captain-boots.txt
+-a----          9/4/2024  12:14 PM            264 captain-hat2.txt
+-a----          9/4/2024  12:14 PM            264 captain-hat.txt
+-a----          9/4/2024  12:37 PM           2116 ship-flag.txt
+d-----          9/4/2024  12:50 PM                captain-wardrobe
+```
+
+Here, `Get-ChildItem` retrieves the files (as objects), and the pipe (`|`) sends those file objects to `Sort-Object`, which then sorts them by their `Length` (size) property. This object-based approach allows for more detailed and flexible command sequences.
+
+In the example above, we have leveraged the `Sort-Object` cmdlet to sort objects based on specified properties. Beyond sorting, PowerShell provides a set of cmdlets that, when combined with piping, allow for advanced data manipulation and analysis.
+
+To filter objects based on specified conditions, returning only those that meet the criteria, we can use the `Where-Object` cmdlet. For instance, to list only `.txt` files in a directory, we can use:
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents\captain-cabin> Get-ChildItem | Where-Object -Property "Extension" -eq ".txt" 
+
+    Directory: C:\Users\captain\Documents\captain-cabin
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/4/2024  12:50 PM              0 captain-boots.txt
+-a----          9/4/2024  12:14 PM            264 captain-hat.txt
+-a----          9/4/2024  12:14 PM            264 captain-hat2.txt
+-a----          9/4/2024  12:37 PM           2116 ship-flag.txt
+```
+
+Here, `Where-Object` filters the files by their `Extension` property, ensuring that only files with extension equal (`-eq`) to `.txt` are listed.
+
+The operator `-eq` (i.e. "**equal to**") is part of a set of **comparison operators** that are shared with other scripting languages (e.g. Bash, Python). To show the potentiality of the PowerShell's filtering, we have selected some of the most useful operators from that list:
+
+- `-ne`: "**not equal**". This operator can be used to exclude objects from the results based on specified criteria.
+- `-gt`: "**greater than**". This operator will filter only objects which exceed a specified value. It is important to note that this is a strict comparison, meaning that objects that are equal to the specified value will be excluded from the results.
+- `-ge`: "**greater than or equal to**". This is the non-strict version of the previous operator. A combination of `-gt` and `-eq`.
+- `-lt`: "**less than**". Like its counterpart, "greater than", this is a strict operator. It will include only objects which are strictly below a certain value.
+- `-le`: "**less than or equal to**". Just like its counterpart `-ge`, this is the non-strict version of the previous operator. A combination of `-lt` and `-eq`.
+
+Below, another example shows that objects can also be filtered by selecting properties that match (`-like`) a specified pattern:
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents\captain-cabin> Get-ChildItem | Where-Object -Property "Name" -like "ship*"  
+
+    Directory: C:\Users\captain\Documents\captain-cabin
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/4/2024  12:37 PM           2116 ship-flag.txt
+```
+
+The next filtering cmdlet, `Select-Object`, is used to select specific properties from objects or limit the number of objects returned. It’s useful for refining the output to show only the details one needs.
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents\captain-cabin> Get-ChildItem | Select-Object Name,Length 
+
+Name              Length
+----              ------
+captain-wardrobe
+captain-boots.txt 0
+captain-hat.txt   264
+captain-hat2.txt  264
+ship-flag.txt     2116
+```
+
+The cmdlets pipeline can be extended by adding more commands, as the feature isn’t limited to just piping between two cmdlets. As an exercise, try and build a pipeline of cmdlets to sort and filter the output with the goal of displaying the largest file in the `C:\Users\captain\Documents\captain-cabin` directory.
+
+**Click here to look at a possible solution. Don’t cheat!**
+
+Terminal
+
+```powershell
+Get-ChildItem | Sort-Object Length -Descending | Select-Object -First 1
+
+    Directory: C:\Users\captain\Documents\captain-cabin
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----          9/4/2024  12:37 PM           2116 ship-flag.txt
+```
+
+The last in this set of filtering cmdlets is `Select-String`. This cmdlet searches for text patterns within files, similar to `grep` in Unix-based systems or `findstr` in Windows Command Prompt. It’s commonly used for finding specific content within log files or documents.
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents\captain-cabin> Select-String -Path ".\captain-hat.txt" -Pattern "hat" 
+
+captain-hat.txt:8:Don't touch my hat!
+```
+
+The `Select-String` cmdlet fully supports the use of regular expressions ([regex](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions)). This advanced feature allows for complex pattern matching within files, making it a powerful tool for searching and analysing text data.
+
+PowerShell was created to address a growing need for a powerful automation and management tool to help system administrators and IT professionals. As such, it offers a range of cmdlets that allow the retrieval of detailed information about system configuration and network settings.
+
+The `Get-ComputerInfo` cmdlet retrieves comprehensive system information, including operating system information, hardware specifications, BIOS details, and more. It provides a snapshot of the entire system configuration in a single command. Its traditional counterpart `systeminfo` retrieves only a small set of the same details.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-ComputerInfo
+
+WindowsBuildLabEx                                       : 20348.859.amd64fre.fe_release_svc_prod2.220707-1832
+WindowsCurrentVersion                                   : 6.3
+WindowsEditionId                                        : ServerDatacenter
+WindowsInstallationType                                 : Server Core
+WindowsInstallDateFromRegistry                          : 4/23/2024 6:36:29 PM
+WindowsProductId                                        : 00454-60000-00001-AA763
+WindowsProductName                                      : Windows Server 2022 Datacenter
+[...]
+```
+
+Essential for managing user accounts and understanding the machine’s security configuration, `Get-LocalUser` lists all the local user accounts on the system. The default output displays, for each user, username, account status, and description.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-LocalUser
+
+Name               Enabled Description 
+----               ------- -----------
+Administrator      True    Built-in account for administering the computer/domain
+captain            True    The beloved captain of this pirate ship.
+DefaultAccount     False   A user account managed by the system.
+Guest              False   Built-in account for guest access to the computer/domain
+WDAGUtilityAccount False   A user account managed and used by the system for Windows Defender Application Guard scenarios.
+```
+
+Similar to the traditional `ipconfig` command, the following two cmdlets can be used to retrieve detailed information about the system’s network configuration.
+
+`Get-NetIPConfiguration` provides detailed information about the network interfaces on the system, including IP addresses, DNS servers, and gateway configurations.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-NetIPConfiguration
+
+InterfaceAlias       : Ethernet
+InterfaceIndex       : 5
+InterfaceDescription : Amazon Elastic Network Adapter
+NetProfile.Name      : Network 3
+IPv4Address          : 10.10.178.209
+IPv6DefaultGateway   :
+IPv4DefaultGateway   : 10.10.0.1
+DNSServer            : 10.0.0.2
+```
+
+In case we need specific details about the IP addresses assigned to the network interfaces, the `Get-NetIPAddress` cmdlet will show details for all IP addresses configured on the system, including those that are not currently active.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-NetIPAddress
+
+IPAddress         : fe80::3fef:360c:304:64e%5
+InterfaceIndex    : 5
+InterfaceAlias    : Ethernet
+AddressFamily     : IPv6
+Type              : Unicast
+PrefixLength      : 64
+PrefixOrigin      : WellKnown
+SuffixOrigin      : Link
+AddressState      : Preferred
+ValidLifetime     : Infinite ([TimeSpan]::MaxValue)
+PreferredLifetime : Infinite ([TimeSpan]::MaxValue)
+SkipAsSource      : False
+PolicyStore       : ActiveStore
+
+IPAddress         : ::1
+InterfaceIndex    : 1
+InterfaceAlias    : Loopback Pseudo-Interface 1
+AddressFamily     : IPv6
+[...]
+
+IPAddress         : 10.10.178.209
+InterfaceIndex    : 5
+InterfaceAlias    : Ethernet
+AddressFamily     : IPv4
+[...]
+
+IPAddress         : 127.0.0.1
+InterfaceIndex    : 1
+InterfaceAlias    : Loopback Pseudo-Interface 1
+AddressFamily     : IPv4
+[...]
+```
+
+These cmdlets give IT professionals the ability to quickly access crucial system and network information directly from the command line, making it easier to monitor and manage both local and remote machines.
