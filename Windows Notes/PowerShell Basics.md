@@ -459,3 +459,132 @@ AddressFamily     : IPv4
 ```
 
 These cmdlets give IT professionals the ability to quickly access crucial system and network information directly from the command line, making it easier to monitor and manage both local and remote machines.
+
+To gather more advanced system information, especially concerning dynamic aspects like running processes, services, and active network connections, we can leverage a set of cmdlets that go beyond static machine details.
+
+`Get-Process` provides a detailed view of all currently running processes, including CPU and memory usage, making it a powerful tool for monitoring and troubleshooting.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-Process
+
+Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName 
+-------  ------    -----      -----     ------     --  -- -----------
+     67       5      872        500       0.06   2340   0 AggregatorHost
+     55       5      712       2672       0.02   3024   0 AM_Delta_Patch_1.417.483.0
+    309      13    18312       1256       0.52   1524   0 amazon-ssm-agent
+     78       6     4440        944       0.02    516   0 cmd
+     94       7     1224       1744       0.31    568   0 conhost
+[...]
+```
+
+Similarly, `Get-Service` allows the retrieval of information about the status of services on the machine, such as which services are running, stopped, or paused. It is used extensively in troubleshooting by system administrators, but also by forensics analysts hunting for anomalous services installed on the system.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-Service
+
+Status   Name               DisplayName                           
+------   ----               -----------
+Stopped  Amazon EC2Launch   Amazon EC2Launch
+Running  AmazonSSMAgent     Amazon SSM Agent
+Stopped  AppIDSvc           Application Identity
+Running  BFE                Base Filtering Engine
+Running  CertPropSvc        Certificate Propagation
+Stopped  ClipSVC            Client License Service (ClipSVC)
+[...]
+```
+
+To monitor active network connections, `Get-NetTCPConnection` displays current TCP connections, giving insights into both local and remote endpoints. This cmdlet is particularly handy during an incident response or malware analysis task, as it can uncover hidden backdoors or established connections towards an attacker-controlled server.
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-NetTCPConnection
+
+LocalAddress        LocalPort RemoteAddress       RemotePort State       AppliedSetting OwningProcess 
+------------        --------- -------------       ---------- -----       -------------- -------------
+[...]
+::                  22        ::                  0          Listen                     1444          
+10.10.178.209       49695     199.232.26.172      80         TimeWait                   0
+0.0.0.0             49668     0.0.0.0             0          Listen                     424
+0.0.0.0             49667     0.0.0.0             0          Listen                     652
+0.0.0.0             49666     0.0.0.0             0          Listen                     388
+0.0.0.0             49665     0.0.0.0             0          Listen                     560
+0.0.0.0             49664     0.0.0.0             0          Listen                     672           
+0.0.0.0             3389      0.0.0.0             0          Listen                     980
+10.10.178.209       139       0.0.0.0             0          Listen                     4
+0.0.0.0             135       0.0.0.0             0          Listen                     908
+10.10.178.209       22        10.14.87.60         53523      Established Internet       1444
+0.0.0.0             22        0.0.0.0             0          Listen                     1444
+```
+
+Additionally, we are going to mention `Get-FileHash` as a useful cmdlet for generating file hashes, which is particularly valuable in incident response, threat hunting, and malware analysis, as it helps verify file integrity and detect potential tampering.
+
+Terminal
+
+```powershell
+PS C:\Users\captain\Documents\captain-cabin> Get-FileHash -Path .\ship-flag.txt    
+
+Algorithm       Hash                      Path 
+---------       ----                      ----
+SHA256          54D2EC3C12BF3D[...]       C:\Users\captain\Documents\captain-cabin\ship-flag.txt
+```
+
+These cmdlets collectively provide a comprehensive set of tools for real-time system monitoring and analysis, proving especially useful to incident responders and threat hunters.
+
+**Scripting** is the process of writing and executing a series of commands contained in a text file, known as a script, to automate tasks that one would generally perform manually in a shell, like PowerShell.
+
+Simply speaking, scripting is like giving a computer a to-do list, where each line in the script is a task that the computer will carry out automatically. This saves time, reduces the chance of errors, and allows to perform tasks that are too complex or tedious to do manually. As you learn more about shells and scripting, you’ll discover that scripts can be powerful tools for managing systems, processing data, and much more.
+
+Learning scripting with PowerShell goes beyond the scope of this room. Nonetheless, we must understand that its power makes it a crucial skill across all cyber security roles.
+
+- For **blue team** professionals such as incident responders, malware analysts, and threat hunters, PowerShell scripts can automate many different tasks, including log analysis, detecting anomalies, and extracting indicators of compromise (IOCs). These scripts can also be used to reverse-engineer malicious code (malware) or automate the scanning of systems for signs of intrusion.
+    
+- For the **red team**, including penetration testers and ethical hackers, PowerShell scripts can automate tasks like system enumeration, executing remote commands, and crafting obfuscated scripts to bypass defences. Its deep integration with all types of systems makes it a powerful tool for simulating attacks and testing systems’ resilience against real-world threats.
+    
+- Staying in the context of cyber security, **system administrators** benefit from PowerShell scripting for automating integrity checks, managing system configurations, and securing networks, especially in remote or large-scale environments. PowerShell scripts can be designed to enforce security policies, monitor systems health, and respond automatically to security incidents, thus enhancing the overall security posture.
+    
+
+Whether used defensively or offensively, PowerShell scripting is an essential capability in the cyber security toolkit.
+
+Before concluding this task about scripting, we can’t go without mentioning the `Invoke-Command` cmdlet.
+
+`Invoke-Command` is essential for executing commands on remote systems, making it fundamental for system administrators, security engineers and penetration testers. `Invoke-Command` enables efficient remote management and—combining it with scripting—automation of tasks across multiple machines. It can also be used to execute payloads or commands on target systems during an engagement by penetration testers—or attackers alike.
+
+Let us discover some example usage for this powerful cmdlet by consulting the `Get-Help` "examples" page:
+
+Terminal
+
+```powershell
+PS C:\Users\captain> Get-Help Invoke-Command -examples
+
+NAME
+    Invoke-Command
+    
+SYNOPSIS
+    Runs commands on local and remote computers.
+    
+    ------------- Example 1: Run a script on a server -------------
+    
+    Invoke-Command -FilePath c:\scripts\test.ps1 -ComputerName Server01
+    
+    The FilePath parameter specifies a script that is located on the local computer. The script runs on the remote computer and the results are returned to the local computer.
+
+    --------- Example 2: Run a command on a remote server ---------
+
+    Invoke-Command -ComputerName Server01 -Credential Domain01\User01 -ScriptBlock { Get-Culture }
+
+    The ComputerName parameter specifies the name of the remote computer. The Credential parameter is used to run the command in the security context of Domain01\User01, a user who has permission to run commands. The ScriptBlock parameter specifies the command to be run on the remote computer.
+
+    In response, PowerShell requests the password and an authentication method for the User01 account. It then runs the command on the Server01 computer and returns the result.
+[...]
+```
+
+The first two examples provided by the `Get-Help` "examples" page and reported above are enough to grasp the simplicity and power of the `Invoke-Command` cmdlet.
+
+The first example shows how the cmdlet can be very easily combined with any custom script to automate tasks on remote computers.
+
+The second example demonstrates that we don't need to know how to script to benefit from the power of `Invoke-Command`. In fact, by appending the `-ScriptBlock { ... }` parameter to the cmdlet's syntax, we can execute any command (or sequence of commands) on the remote computer. The result would be the same as if we were typing the commands in a local PowerShell session on the remote computer itself.
