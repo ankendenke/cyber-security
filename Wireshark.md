@@ -235,40 +235,98 @@ Task 5Packet Filtering
 
 ![Wireshark - follow stream](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/d578e89a1f4a526fb8ede6fdf1a5f1b5.png)
 
-  
+\
+**Packet Numbers**
+
+Wireshark calculates the number of investigated packets and assigns a unique number for each packet. This helps the analysis process for big captures and makes it easy to go back to a specific point of an event. 
+
+![Wireshark - packet numbers](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/d52507e87088deb1597042d50900eef0.png)
+
+Go to Packet
+
+Packet numbers do not only help to count the total number of packets or make it easier to find/investigate specific packets. This feature not only navigates between packets up and down; it also provides in-frame packet tracking and finds the next packet in the particular part of the conversation. You can use the **"Go"** menu and toolbar to view specific packets.  
+
+![Wireshark - go to packet](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/cdb1e1d12c63fc831c7d94db634bbe0d.png)  
 
   
 
-Task 6Conclusion
+Find Packets
 
-**[](https://tryhackme.com/jr/wiresharkpacketoperations)**
+Apart from packet number, Wireshark can find packets by packet content. You can use the **"Edit --> Find Packet"** menu to make a search inside the packets for a particular event of interest. This helps analysts and administrators to find specific intrusion patterns or failure traces.
 
-Created by
+There are two crucial points in finding packets. The first is knowing the input type. This functionality accepts four types of inputs (Display filter, Hex, String and Regex). String and regex searches are the most commonly used search types. Searches are case insensitive, but you can set the case sensitivity in your search by clicking the radio button.
 
-![User avatar](https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png "TryHackMe")
+The second point is choosing the search field. You can conduct searches in the three panes (packet list, packet details, and packet bytes), and it is important to know the available information in each pane to find the event of interest. For example, if you try to find the information available in the packet details pane and conduct the search in the packet list pane, Wireshark won't find it even if it exists.  
 
-[tryhackme](https://tryhackme.com/p/tryhackme)
+![Wireshark - find packets](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/c8811df8ea0fa2b70fa90831d1ec9278.png)  
 
-Room Type
+  
 
-Only subscribers can deploy virtual machines in this room! Go to your [profile](https://tryhackme.com/profile) page to subscribe (if you have not already).
+Mark Packets
 
-Users in Room
+Marking packets is another helpful functionality for analysts. You can find/point to a specific packet for further investigation by marking it. It helps analysts point to an event of interest or export particular packets from the capture. You can use the "Edit" or the "right-click" menu to mark/unmark packets.
 
-96,792
+Marked packets will be shown in black regardless of the original colour representing the connection type. Note that marked packet information is renewed every file session, so marked packets will be lost after closing the capture file. 
 
-Created
+![Wireshark - mark packets](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/2c290f2f3c7b07223c86cd066751d19b.png)  
 
-906 days ago
+  
 
-Copyright TryHackMe 2018-2024
+Packet Comments
 
-[](https://twitter.com/realtryhackme)[](https://www.linkedin.com/company/tryhackme/)[](https://discord.com/invite/tryhackme)[](https://www.facebook.com/people/Tryhackme/100069557747714/)[](https://www.youtube.com/channel/UCRnWD3BsY5Co2MMETB7lHQw)[](https://instagram.com/realtryhackme)[](https://www.pinterest.co.uk/RealTryHackMe/)
+Similar to packet marking, commenting is another helpful feature for analysts. You can add comments for particular packets that will help the further investigation or remind and point out important/suspicious points for other layer analysts. Unlike packet marking, the comments can stay within the capture file until the operator removes them.
 
-Wireshark-TheBasics_PROD_v0.6
+![Wireshark - packet comments](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/844bedc49bdd7dcaf26861a9cd2658fd.png)  
 
-1h 29min 33s
+  
 
-[](https://tryhackme.com/r/legal/terms-of-use)
+Export Packets
 
+Capture files can contain thousands of packets in a single file. As mentioned earlier, Wireshark is not an IDS, so sometimes, it is necessary to separate specific packages from the file and dig deeper to resolve an incident. This functionality helps analysts share the only suspicious packages (decided scope). Thus redundant information is not included in the analysis process. You can use the **"File"** menu to export packets.  
+
+![Wireshark - export packets](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/86daa70b6cb8b93cb11535787222fb26.png)  
+
+  
+
+Export Objects (Files)
+
+Wireshark can extract files transferred through the wire. For a security analyst, it is vital to discover shared files and save them for further investigation. Exporting objects are available only for selected protocol's streams (DICOM, HTTP, IMF, SMB and TFTP).
+
+![Wireshark - export objects](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/16c22447c36bff2e415ea75a764854c8.png)  
+
+  
+
+Time Display Format
+
+Wireshark lists the packets as they are captured, so investigating the default flow is not always the best option. By default, Wireshark shows the time in "Seconds Since Beginning of Capture", the common usage is using the UTC Time Display Format for a better view. You can use the "View --> Time Display Format" menu to change the time display format.
+
+![](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/53bb9769af677eede39a3ec9e1b368a3.png)  
+
+![Wireshark - time display format](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/d2333318ff4df99df252c6ee1c236619.png)  
+
+  
+
+Expert Info  
+
+Wireshark also detects specific states of protocols to help analysts easily spot possible anomalies and problems. Note that these are only suggestions, and there is always a chance of having false positives/negatives. Expert info can provide a group of categories in three different severities. Details are shown in the table below.
+
+|   |   |   |
+|---|---|---|
+|**Severity**|**Colour**|**Info**|
+|**Chat**|**Blue**|Information on usual workflow.|
+|**Note**|**Cyan**|Notable events like application error codes.|
+|**Warn**|**Yellow**|Warnings like unusual error codes or problem statements.|
+|**Error**|**Red**|Problems like malformed packets.|
+
+Frequently encountered information groups are listed in the table below. You can refer to Wireshark's official documentation for more information on the expert information entries.
+
+|   |   |   |   |
+|---|---|---|---|
+|**Group**|**Info**|**Group**|**Info**|
+|**Checksum**|Checksum errors.|**Deprecated**|Deprecated protocol usage.|
+|**Comment**|Packet comment detection.|**Malformed**|Malformed packet detection.|
+
+You can use the **"lower left bottom section"** in the status bar or **"Analyse --> Expert Information"** menu to view all available information entries via a dialogue box. It will show the packet number, summary, group protocol and total occurrence.
+
+![Wireshark - expert info](https://tryhackme-images.s3.amazonaws.com/user-uploads/6131132af49360005df01ae3/room-content/31917b6f1e846d3383218cabf1c07caf.png)
 ![](https://downloads.intercomcdn.com/i/o/378475/452a29d68866e874f9ddccf0/9e0f012f15b6fc981dde2f1f5198d728.png)
