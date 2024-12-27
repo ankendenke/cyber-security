@@ -464,8 +464,6 @@ To gather more advanced system information, especially concerning dynamic aspect
 
 `Get-Process` provides a detailed view of all currently running processes, including CPU and memory usage, making it a powerful tool for monitoring and troubleshooting.
 
-Terminal
-
 ```powershell
 PS C:\Users\captain> Get-Process
 
@@ -480,8 +478,6 @@ Handles  NPM(K)    PM(K)      WS(K)     CPU(s)     Id  SI ProcessName
 ```
 
 Similarly, `Get-Service` allows the retrieval of information about the status of services on the machine, such as which services are running, stopped, or paused. It is used extensively in troubleshooting by system administrators, but also by forensics analysts hunting for anomalous services installed on the system.
-
-Terminal
 
 ```powershell
 PS C:\Users\captain> Get-Service
@@ -498,8 +494,6 @@ Stopped  ClipSVC            Client License Service (ClipSVC)
 ```
 
 To monitor active network connections, `Get-NetTCPConnection` displays current TCP connections, giving insights into both local and remote endpoints. This cmdlet is particularly handy during an incident response or malware analysis task, as it can uncover hidden backdoors or established connections towards an attacker-controlled server.
-
-Terminal
 
 ```powershell
 PS C:\Users\captain> Get-NetTCPConnection
@@ -522,8 +516,6 @@ LocalAddress        LocalPort RemoteAddress       RemotePort State       Applied
 ```
 
 Additionally, we are going to mention `Get-FileHash` as a useful cmdlet for generating file hashes, which is particularly valuable in incident response, threat hunting, and malware analysis, as it helps verify file integrity and detect potential tampering.
-
-Terminal
 
 ```powershell
 PS C:\Users\captain\Documents\captain-cabin> Get-FileHash -Path .\ship-flag.txt    
@@ -556,7 +548,6 @@ Before concluding this task about scripting, we can’t go without mentioning th
 
 Let us discover some example usage for this powerful cmdlet by consulting the `Get-Help` "examples" page:
 
-Terminal
 
 ```powershell
 PS C:\Users\captain> Get-Help Invoke-Command -examples
