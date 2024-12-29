@@ -8,18 +8,78 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ebea2072cea16e3",
+            "id": "ab54110c768441bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tcpdump - Basic Packet Capture.md",
+                "file": "THM/Hashing Basics/Recognising Password Hashes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recognising Password Hashes"
+            }
+          },
+          {
+            "id": "aa8039ad06d316b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Notes/tcpdump - Basic Packet Capture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
               "title": "tcpdump - Basic Packet Capture"
+            }
+          },
+          {
+            "id": "007b489cd5e09eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM/Hashing Basics/Password Cracking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Password Cracking"
+            }
+          },
+          {
+            "id": "654ff2a0ba70dc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM/Hashing Basics/Hashing for Integrity Checking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hashing for Integrity Checking"
+            }
+          },
+          {
+            "id": "f76427bc3b0c2f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM/Hashing Basics/Conclusion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conclusion"
             }
           },
           {
@@ -36,38 +96,9 @@
               "icon": "lucide-file",
               "title": "Interesting Practice Websites"
             }
-          },
-          {
-            "id": "5b56313973dfdb6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Notes/Linux account creation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux account creation"
-            }
-          },
-          {
-            "id": "8d0f470f742e8cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tcpdump - Basic Packet Capture.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tcpdump - Basic Packet Capture"
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,14 +252,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ebea2072cea16e3",
+  "active": "8f8fa09d1fe074cf",
   "lastOpenFiles": [
-    "PEH - Practical Ethical Hacking/Staged vs Non-Staged Payloads.md",
+    "THM/Hashing Basics/Hashing for Integrity Checking.md",
+    "THM/Hashing Basics/Conclusion.md",
+    "THM/Hashing Basics/Hash Functions.md",
+    "THM/Hashing Basics/Password Cracking.md",
+    "Linux Notes/tcpdump - Basic Packet Capture.md",
+    "THM/Hashing Basics/Recognising Password Hashes.md",
+    "THM/Hashing Basics/Insecure Password Storage for Authentication.md",
+    "THM",
+    "THM/Hashing Basics",
     "Interesting Practice Websites.md",
     "Linux Notes/Linux account creation.md",
-    "tcpdump - Basic Packet Capture.md",
-    "Hash Functions.md",
-    "Insecure Password Storage for Authentication.md",
+    "PEH - Practical Ethical Hacking/Staged vs Non-Staged Payloads.md",
     "Linux Logs.md",
     "Linux Notes/nmap.md",
     "PEH - Practical Ethical Hacking/Nessus part 1.md",
@@ -247,10 +284,6 @@
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Windows Notes/Authentication Methods.md",
-    "Windows Notes/System Information.md",
-    "Windows Notes/Resource Monitor.md",
-    "Windows Notes/Settings and the Control Panel.md",
-    "Windows Notes/Computer Management.md",
     "PEH - Practical Ethical Hacking",
     "Images/Pasted image 20241128081248.png",
     "Networking",
@@ -267,7 +300,6 @@
     "Privilege Escalation/Linux",
     "Images",
     "Privilege Escalation",
-    "Linux Notes",
-    "Resources"
+    "Linux Notes"
   ]
 }
