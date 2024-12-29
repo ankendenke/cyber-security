@@ -1,7 +1,6 @@
 Logs in every digital device play an important role in understanding what happened. Similarly, logs in Linux are essential for monitoring and tracking system activities, detecting attacks, and identifying incident surfaces. The logs contain records of each event or activity on the system, which could be valuable when identifying and investigating security-related incidents.  
 
 In the earlier task, we examined auth.log to check the user creation-related logs.  
-
 Let's explore some common incidents to understand the importance of logs and how they can be examined for potential incident traits.
 
 Important logs are covered below:  

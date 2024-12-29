@@ -11,8 +11,6 @@ Let’s check an example. In the terminal below, we can see two files; the first
 
 Consequently, the following two files differ by a single bit. However, if we compare their MD5 (Message-Digest Algorithm 5) hashes, their SHA1 (Secure Hash Algorithm 1) hashes, or their SHA-256 (Secure Hash Algorithm 256) hashes, we will notice that they are entirely different. We recommend that you try the commands below yourself. The files are located in `~/Hashing-Basics/Task-2/`.  
 
-Terminal
-
 ```shell-session
 strategos@g5000 ~> cat file1.txt 
 T⏎
