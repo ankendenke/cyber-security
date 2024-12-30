@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/nmap.md",
+                "file": "THM/Windows/Windows Internal/Thread.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nmap"
+              "title": "Thread"
             }
           },
           {
@@ -284,6 +284,12 @@
   },
   "active": "d783975dc80ede14",
   "lastOpenFiles": [
+    "THM/Windows/Windows Internal/Processes.md",
+    "THM/Windows/Windows Internal/Thread.md",
+    "THM/Windows/Windows Internal",
+    "THM/Windows",
+    "Wireshark.md",
+    "Linux Notes/nmap.md",
     "Linux Notes/nmap use - case part 1.md",
     "THM/Cryptography/Public Key Cryptography Basics/Digital Signatures and Certificates.md",
     "THM/Cryptography/Public Key Cryptography Basics/PGP and GPG.md",
@@ -309,12 +315,8 @@
     "THM/Cryptography/Hashing Basics/Hashing for Integrity Checking.md",
     "THM/Cryptography/Hashing Basics/Hash Functions.md",
     "THM/Cryptography/Hashing Basics/Password Cracking.md",
-    "Linux Notes/tcpdump - Basic Packet Capture.md",
-    "THM/Cryptography/Hashing Basics/Recognising Password Hashes.md",
-    "THM/Cryptography/Hashing Basics/Insecure Password Storage for Authentication.md",
     "THM",
     "THM/Cryptography/Hashing Basics",
-    "Linux Notes/Linux account creation.md",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "PEH - Practical Ethical Hacking",
@@ -328,8 +330,6 @@
     "Images/Pasted image 20240924192643.png",
     "Images/Pasted image 20240924192617.png",
     "Images/Pasted image 20240924192553.png",
-    "Images/Pasted image 20240924192520.png",
-    "Privilege Escalation/Windows",
-    "Privilege Escalation/Linux"
+    "Images/Pasted image 20240924192520.png"
   ]
 }
