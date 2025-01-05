@@ -263,7 +263,6 @@ nmap -p$ports -Pn -sC -sV <target>
 Or
 ```
  nmap -sC -sV -p- -T4 --min-rate=9326 -vv [MACHINE IP]
-
 ```
 Let’s break this command if it just passed up from your head 😅
 
