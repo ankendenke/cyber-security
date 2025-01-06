@@ -13,122 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Hashing Basics/Recognising Password Hashes.md",
+                "file": "THM/Windows Incident Response/Post-Incident Activity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recognising Password Hashes"
-            }
-          },
-          {
-            "id": "aa8039ad06d316b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Notes/tcpdump - Basic Packet Capture.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tcpdump - Basic Packet Capture"
-            }
-          },
-          {
-            "id": "007b489cd5e09eff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Hashing Basics/Password Cracking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Password Cracking"
-            }
-          },
-          {
-            "id": "654ff2a0ba70dc34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Hashing Basics/Hashing for Integrity Checking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hashing for Integrity Checking"
-            }
-          },
-          {
-            "id": "f76427bc3b0c2f8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/John the Ripper/Cracking etc shadow Hashes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cracking etc shadow Hashes"
-            }
-          },
-          {
-            "id": "7f05edbcbc746cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/John the Ripper/Cracking Password-Protected RAR Archives.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cracking Password-Protected RAR Archives"
-            }
-          },
-          {
-            "id": "d783975dc80ede14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Windows Incident Response/Containment, Eradication, and Recovery.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Containment, Eradication, and Recovery"
-            }
-          },
-          {
-            "id": "d87a2cedb2a5fc9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interesting Practice Websites.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interesting Practice Websites"
+              "title": "Post-Incident Activity"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,10 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d783975dc80ede14",
+  "active": "ab54110c768441bd",
   "lastOpenFiles": [
-    "THM/Windows Incident Response/Detection and Analysis.md",
+    "Linux Notes/tcpdump - Basic Packet Capture.md",
+    "THM/John the Ripper/Cracking etc shadow Hashes.md",
+    "THM/John the Ripper/Cracking Password-Protected RAR Archives.md",
+    "THM/Windows Incident Response/Post-Incident Activity.md",
     "THM/Windows Incident Response/Containment, Eradication, and Recovery.md",
+    "THM/Windows Incident Response/Detection and Analysis.md",
     "THM/Windows Incident Response/Incident Response Lifecycle.md",
     "Linux Notes/dirsearch.md",
     "THM/Windows Incident Response",
@@ -311,10 +209,6 @@
     "Cracking SSH Keys with John.md",
     "THM/Cryptography",
     "THM/Untitled.md",
-    "THM/John the Ripper/Cracking Password-Protected RAR Archives.md",
-    "THM/John the Ripper/Cracking Password Protected Zip Files.md",
-    "THM/John the Ripper/Custom Rules.md",
-    "THM/John the Ripper/Single Crack Mode.md",
     "THM/John the Ripper",
     "THM",
     "THM/Cryptography/Hashing Basics",
