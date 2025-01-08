@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/OWASP/10. Server-Side Request Forgery (SSRF).md",
+                "file": "THM/Offensive Sec Tools/Hydra/Hydra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Server-Side Request Forgery (SSRF)"
+              "title": "Hydra"
             }
           }
         ]
@@ -176,10 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4208cc5b3299b99b",
+  "active": "8f8fa09d1fe074cf",
   "lastOpenFiles": [
-    "THM/OWASP/9. Security Logging and Monitoring Failures.md",
+    "THM/Offensive Sec Tools/Untitled",
     "THM/OWASP/10. Server-Side Request Forgery (SSRF).md",
+    "THM/Offensive Sec Tools/Hydra/Hydra.md",
+    "THM/Offensive Sec Tools/Hydra",
+    "THM/Offensive Sec Tools",
+    "THM/OWASP/9. Security Logging and Monitoring Failures.md",
     "THM/OWASP/8.2 Data Integrity Failures.md",
     "THM/OWASP/8.1 Software Integrity Failures.md",
     "THM/OWASP/8. Software and Data Integrity Failures.md",
@@ -203,8 +207,6 @@
     "THM/Web Application Basics/Web Application Overview.md",
     "PEH - Practical Ethical Hacking/nikto.md",
     "THM/Web Application Basics",
-    "THM/Windows Incident Response/3. Post-Incident Activity.md",
-    "THM/Windows Incident Response/2. Containment, Eradication, and Recovery.md",
     "THM/OWASP",
     "THM/Windows Incident Response",
     "THM/Windows/Windows Internal",
@@ -212,8 +214,6 @@
     "THM/Cryptography/Public Key Cryptography Basics",
     "THM/Cryptography",
     "THM/John the Ripper",
-    "THM",
-    "THM/Cryptography/Hashing Basics",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
