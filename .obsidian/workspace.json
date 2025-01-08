@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Offensive Sec Tools/GoBuster/Use Case - Directory and File Enumeration.md",
+                "file": "THM/Offensive Sec Tools/Shell Overview/6. Web Shell.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use Case - Directory and File Enumeration"
+              "title": "6. Web Shell"
             }
           }
         ]
@@ -178,8 +178,19 @@
   },
   "active": "4208cc5b3299b99b",
   "lastOpenFiles": [
-    "THM/Offensive Sec Tools/GoBuster/Introduction.md",
-    "THM/Offensive Sec Tools/GoBuster/Use Case - Directory and File Enumeration.md",
+    "THM/Offensive Sec Tools/Shell Overview/5. Shell Payload.md",
+    "THM/Offensive Sec Tools/Shell Overview/6. Web Shell.md",
+    "THM/Offensive Sec Tools/Shell Overview/4. Shell Listeners.md",
+    "THM/Offensive Sec Tools/Shell Overview/3. Bind Shell.md",
+    "THM/Offensive Sec Tools/Shell Overview/8. Conclusion.md",
+    "THM/Offensive Sec Tools/Shell Overview/2. Reverse Shell.md",
+    "THM/Offensive Sec Tools/GoBuster/5. Conclusion.md",
+    "THM/Offensive Sec Tools/GoBuster/4. Use Case - VHOST Enum.md",
+    "THM/Offensive Sec Tools/GoBuster/3. Use Case - Subdomains.md",
+    "THM/Offensive Sec Tools/GoBuster/2. Use Case - Directory and File Enumeration.md",
+    "THM/Offensive Sec Tools/GoBuster/1. Introduction.md",
+    "THM/Offensive Sec Tools/Shell Overview/1. Introduction.md",
+    "THM/Offensive Sec Tools/Shell Overview",
     "THM/Offensive Sec Tools/Hydra/Hydra.md",
     "THM/Offensive Sec Tools/GoBuster",
     "THM/OWASP/10. Server-Side Request Forgery (SSRF).md",
@@ -197,23 +208,12 @@
     "THM/OWASP/1.1 Broken Access Control (IDOR Challenge).md",
     "THM/OWASP/5. Security Misconfiguration.md",
     "THM/OWASP/4. Insecure Design.md",
-    "Linux Notes/Version check.md",
-    "THM/Web Application Basics/Conclusion.md",
-    "THM/Web Application Basics/Security Headers.md",
-    "THM/Web Application Basics/HTTP Response - Headers and Body.md",
-    "THM/Web Application Basics/HTTP Response - Status Line and Status Codes.md",
-    "THM/Web Application Basics/HTTP Request - Headers and Body.md",
-    "THM/Web Application Basics/HTTP Request - Request Line and Method.md",
-    "THM/Web Application Basics/Uniform Resource Locator.md",
-    "THM/Web Application Basics/HTTP Messages.md",
-    "THM/Web Application Basics/Web Application Overview.md",
     "THM/Web Application Basics",
     "THM/OWASP",
     "THM/Windows Incident Response",
     "THM/Windows/Windows Internal",
     "THM/Windows",
     "THM/Cryptography/Public Key Cryptography Basics",
-    "THM/Cryptography",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
