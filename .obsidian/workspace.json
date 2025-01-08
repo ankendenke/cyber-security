@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Offensive Sec Tools/Hydra/Hydra.md",
+                "file": "THM/Offensive Sec Tools/GoBuster/Use Case - Directory and File Enumeration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hydra"
+              "title": "Use Case - Directory and File Enumeration"
             }
           }
         ]
@@ -176,11 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "4208cc5b3299b99b",
   "lastOpenFiles": [
-    "THM/Offensive Sec Tools/Untitled",
-    "THM/OWASP/10. Server-Side Request Forgery (SSRF).md",
+    "THM/Offensive Sec Tools/GoBuster/Introduction.md",
+    "THM/Offensive Sec Tools/GoBuster/Use Case - Directory and File Enumeration.md",
     "THM/Offensive Sec Tools/Hydra/Hydra.md",
+    "THM/Offensive Sec Tools/GoBuster",
+    "THM/OWASP/10. Server-Side Request Forgery (SSRF).md",
     "THM/Offensive Sec Tools/Hydra",
     "THM/Offensive Sec Tools",
     "THM/OWASP/9. Security Logging and Monitoring Failures.md",
@@ -205,7 +207,6 @@
     "THM/Web Application Basics/Uniform Resource Locator.md",
     "THM/Web Application Basics/HTTP Messages.md",
     "THM/Web Application Basics/Web Application Overview.md",
-    "PEH - Practical Ethical Hacking/nikto.md",
     "THM/Web Application Basics",
     "THM/OWASP",
     "THM/Windows Incident Response",
@@ -213,7 +214,6 @@
     "THM/Windows",
     "THM/Cryptography/Public Key Cryptography Basics",
     "THM/Cryptography",
-    "THM/John the Ripper",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
