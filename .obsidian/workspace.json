@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Offensive Sec Tools/GoBuster/2. Use Case - Directory and File Enumeration.md",
+                "file": "THM/Defensive Tools/Logs Fundamentals/4. Web Server Access Logs Analysis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Use Case - Directory and File Enumeration"
+              "title": "4. Web Server Access Logs Analysis"
             }
           }
         ]
@@ -178,6 +178,13 @@
   },
   "active": "4208cc5b3299b99b",
   "lastOpenFiles": [
+    "THM/Defensive Tools/Logs Fundamentals/3. Windows Event Logs Analysis.md",
+    "THM/Defensive Tools/Logs Fundamentals/4. Web Server Access Logs Analysis.md",
+    "THM/Defensive Tools/Logs Fundamentals/2. Types of Logs.md",
+    "THM/Defensive Tools/Logs Fundamentals/1. Introduction.md",
+    "THM/Defensive Tools/Logs Fundamentals",
+    "THM/Offensive Sec Tools/GoBuster/2. Use Case - Directory and File Enumeration.md",
+    "THM/Defensive Tools",
     "Linux Notes/nmap.md",
     "THM/Web Hacking Basics/OWASP/3.1. Command Injection.md",
     "THM/Web Hacking Basics/OWASP/3. Injection.md",
@@ -201,19 +208,12 @@
     "THM/Offensive Sec Tools/Shell Overview/4. Shell Listeners.md",
     "THM/Offensive Sec Tools/Shell Overview/3. Bind Shell.md",
     "THM/Offensive Sec Tools/Shell Overview/8. Conclusion.md",
-    "THM/Offensive Sec Tools/Shell Overview/2. Reverse Shell.md",
-    "THM/Offensive Sec Tools/GoBuster/5. Conclusion.md",
-    "THM/Offensive Sec Tools/GoBuster/4. Use Case - VHOST Enum.md",
-    "THM/Offensive Sec Tools/GoBuster/3. Use Case - Subdomains.md",
-    "THM/Offensive Sec Tools/GoBuster/2. Use Case - Directory and File Enumeration.md",
     "THM/Offensive Sec Tools/Shell Overview",
     "THM/Offensive Sec Tools/GoBuster",
     "THM/Offensive Sec Tools/Hydra",
     "THM/Offensive Sec Tools",
     "THM/Web Application Basics",
     "THM/Web Hacking Basics/OWASP",
-    "THM/Windows Incident Response",
-    "THM/Windows/Windows Internal",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
