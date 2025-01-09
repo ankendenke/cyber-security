@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Defensive Tools/Logs Fundamentals/4. Web Server Access Logs Analysis.md",
+                "file": "THM/SOC Fundamentals/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Web Server Access Logs Analysis"
+              "title": "Untitled"
             }
           }
         ]
@@ -178,10 +178,13 @@
   },
   "active": "4208cc5b3299b99b",
   "lastOpenFiles": [
+    "THM/SOC Fundamentals/1. Introduction.md",
+    "THM/SOC Fundamentals/Untitled.md",
+    "THM/Defensive Tools/Logs Fundamentals/1. Introduction.md",
+    "THM/SOC Fundamentals",
+    "THM/Defensive Tools/Logs Fundamentals/2. Types of Logs.md",
     "THM/Defensive Tools/Logs Fundamentals/3. Windows Event Logs Analysis.md",
     "THM/Defensive Tools/Logs Fundamentals/4. Web Server Access Logs Analysis.md",
-    "THM/Defensive Tools/Logs Fundamentals/2. Types of Logs.md",
-    "THM/Defensive Tools/Logs Fundamentals/1. Introduction.md",
     "THM/Defensive Tools/Logs Fundamentals",
     "THM/Offensive Sec Tools/GoBuster/2. Use Case - Directory and File Enumeration.md",
     "THM/Defensive Tools",
@@ -206,14 +209,11 @@
     "THM/Offensive Sec Tools/SQLMap - The Basics",
     "THM/Offensive Sec Tools/Shell Overview/5. Shell Payload.md",
     "THM/Offensive Sec Tools/Shell Overview/4. Shell Listeners.md",
-    "THM/Offensive Sec Tools/Shell Overview/3. Bind Shell.md",
-    "THM/Offensive Sec Tools/Shell Overview/8. Conclusion.md",
     "THM/Offensive Sec Tools/Shell Overview",
     "THM/Offensive Sec Tools/GoBuster",
     "THM/Offensive Sec Tools/Hydra",
     "THM/Offensive Sec Tools",
     "THM/Web Application Basics",
-    "THM/Web Hacking Basics/OWASP",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
