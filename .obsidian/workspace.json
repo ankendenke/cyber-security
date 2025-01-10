@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/SOC Fundamentals/5. Technology.md",
+                "file": "THM/Digital Forensics Fundamentals/2. Digital Forensics Methodology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Technology"
+              "title": "2. Digital Forensics Methodology"
             }
           }
         ]
@@ -178,8 +178,11 @@
   },
   "active": "4208cc5b3299b99b",
   "lastOpenFiles": [
-    "THM/SOC Fundamentals/4. Process.md",
+    "THM/Digital Forensics Fundamentals/1. Introduction to Digital Forensics.md",
+    "THM/Digital Forensics Fundamentals/2. Digital Forensics Methodology.md",
     "THM/SOC Fundamentals/5. Technology.md",
+    "THM/Digital Forensics Fundamentals",
+    "THM/SOC Fundamentals/4. Process.md",
     "THM/SOC Fundamentals/3. People.md",
     "THM/SOC Fundamentals/2. Purpose and Components.md",
     "THM/SOC Fundamentals/1. Introduction.md",
@@ -206,14 +209,11 @@
     "THM/John the Ripper/3. Cracking etc shadow Hashes.md",
     "THM/John the Ripper/2. Cracking Basic Hashes.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics/3. Automated SQL Injection Tool.md",
-    "THM/Offensive Sec Tools/SQLMap - The Basics/2. SQL Injection Vulnerability.md",
-    "THM/Offensive Sec Tools/SQLMap - The Basics/1. Introduction.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics",
     "THM/Offensive Sec Tools/Shell Overview",
     "THM/Offensive Sec Tools/GoBuster",
     "THM/Offensive Sec Tools/Hydra",
     "THM/Offensive Sec Tools",
-    "THM/Web Application Basics",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
