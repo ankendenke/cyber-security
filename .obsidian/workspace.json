@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/IDS Fundamentals/3. IDS Example - Snort.md",
+                "file": "THM/Security Solutions/Vulnerability Scanner Overview/2. Vulnerability Scanning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. IDS Example - Snort"
+              "title": "2. Vulnerability Scanning"
             }
           }
         ]
@@ -178,8 +178,12 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/Security Solutions/IDS Fundamentals/2. Types of IDS.md",
+    "THM/Security Solutions/Vulnerability Scanner Overview/1. What Are Vulnerabilities.md",
+    "THM/Security Solutions/Vulnerability Scanner Overview/2. Vulnerability Scanning.md",
+    "THM/Security Solutions/IDS Fundamentals/4. Snort Usage.md",
+    "THM/Security Solutions/Vulnerability Scanner Overview",
     "THM/Security Solutions/IDS Fundamentals/3. IDS Example - Snort.md",
+    "THM/Security Solutions/IDS Fundamentals/2. Types of IDS.md",
     "THM/Security Solutions/IDS Fundamentals/1. What Is an IDS.md",
     "THM/Security Solutions/Firewall Fundamentals/5. Linux iptables Firewall.md",
     "THM/Security Solutions/IDS Fundamentals",
@@ -207,13 +211,9 @@
     "THM/Digital Forensics Fundamentals/1. Introduction to Digital Forensics.md",
     "THM/SOC Fundamentals/5. Technology.md",
     "THM/Digital Forensics Fundamentals",
-    "THM/SOC Fundamentals/4. Process.md",
-    "THM/SOC Fundamentals/3. People.md",
-    "THM/SOC Fundamentals/2. Purpose and Components.md",
     "THM/SOC Fundamentals",
     "THM/Defensive Tools/Logs Fundamentals",
     "THM/Defensive Tools",
-    "THM/Web Hacking Basics",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
