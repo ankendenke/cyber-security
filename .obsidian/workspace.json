@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Defense Security Tooling/Cyber Chief - The Basics/1. Introduction.md",
+                "file": "THM/Defense Security Tooling/Cyber Chief - The Basics/5. Practice, Practice, Practice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "5. Practice, Practice, Practice"
             }
           }
         ]
@@ -178,8 +178,12 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/Security Solutions/Vulnerability Scanner Overview/5. OpenVAS.md",
+    "THM/Defense Security Tooling/Cyber Chief - The Basics/4. Before Anything Else.md",
+    "THM/Defense Security Tooling/Cyber Chief - The Basics/5. Practice, Practice, Practice.md",
+    "THM/Defense Security Tooling/Cyber Chief - The Basics/3. Navigating the Interface.md",
+    "THM/Defense Security Tooling/Cyber Chief - The Basics/2. Accessing the Tool.md",
     "THM/Defense Security Tooling/Cyber Chief - The Basics/1. Introduction.md",
+    "THM/Security Solutions/Vulnerability Scanner Overview/5. OpenVAS.md",
     "THM/Defense Security Tooling/Cyber Chief - The Basics",
     "THM/Defense Security Tooling",
     "THM/Security Solutions/Vulnerability Scanner Overview/4.CVE & CVSS.md",
@@ -207,10 +211,6 @@
     "THM/Security Solutions/SIEM",
     "THM/Security Solutions",
     "THM/Incident Response Fundamentals/4. Incident Response Process.md",
-    "THM/Incident Response Fundamentals/3. Types of Incidents.md",
-    "THM/Incident Response Fundamentals/2. What are Incidents.md",
-    "THM/Digital Forensics Fundamentals/4. Windows Forensics.md",
-    "THM/Incident Response Fundamentals/1. Introduction to Incident Response.md",
     "THM/Incident Response Fundamentals",
     "THM/Digital Forensics Fundamentals",
     "THM/SOC Fundamentals",
