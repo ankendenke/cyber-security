@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/MITRE/4. CAR Knowledge Base.md",
+                "file": "THM/MITRE/8. ATT&CK® and Threat Intelligence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. CAR Knowledge Base"
+              "title": "8. ATT&CK® and Threat Intelligence"
             }
           }
         ]
@@ -178,8 +178,12 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/MITRE/3. ATT&CK® Framework..md",
+    "THM/MITRE/7. ATT&CK® Emulation Plans.md",
+    "THM/MITRE/8. ATT&CK® and Threat Intelligence.md",
+    "THM/MITRE/6. MITRE D3FEND.md",
+    "THM/MITRE/5. MITRE Engage.md",
     "THM/MITRE/4. CAR Knowledge Base.md",
+    "THM/MITRE/3. ATT&CK® Framework..md",
     "THM/MITRE/2. Basic Terminology.md",
     "THM/MITRE/1. Introduction to MITRE.md",
     "THM/Defense Security Tooling/CAPA - The Basics/2..md",
@@ -206,10 +210,6 @@
     "THM/Security Solutions/Firewall Fundamentals/5. Linux iptables Firewall.md",
     "THM/Security Solutions/IDS Fundamentals",
     "THM/Security Solutions/Firewall Fundamentals/4. Windows Defender Firewall.md",
-    "THM/Security Solutions/Firewall Fundamentals/3. Rules in Firewalls.md",
-    "THM/Security Solutions/Firewall Fundamentals/2. Types of Firewalls.md",
-    "THM/Security Solutions/Firewall Fundamentals/1. What Is the Purpose of a Firewall.md",
-    "THM/Security Solutions/SIEM/5. Analysing Logs and Alert.md",
     "THM/Security Solutions/Firewall Fundamentals",
     "THM/Security Solutions/SIEM",
     "THM/Security Solutions",
