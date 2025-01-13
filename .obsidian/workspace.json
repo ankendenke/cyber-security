@@ -11,10 +11,15 @@
             "id": "dc7bc5c14e683212",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "THM/MITRE/4. CAR Knowledge Base.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. CAR Knowledge Base"
             }
           }
         ]
@@ -173,6 +178,12 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
+    "THM/MITRE/3. ATT&CK® Framework..md",
+    "THM/MITRE/4. CAR Knowledge Base.md",
+    "THM/MITRE/2. Basic Terminology.md",
+    "THM/MITRE/1. Introduction to MITRE.md",
+    "THM/Defense Security Tooling/CAPA - The Basics/2..md",
+    "THM/MITRE",
     "THM/Defense Security Tooling/CAPA - The Basics/1. Introduction.md",
     "THM/Defense Security Tooling/Cyber Chief - The Basics/5. Practice, Practice, Practice.md",
     "THM/Defense Security Tooling/CAPA - The Basics",
@@ -200,15 +211,9 @@
     "THM/Security Solutions/Firewall Fundamentals/1. What Is the Purpose of a Firewall.md",
     "THM/Security Solutions/SIEM/5. Analysing Logs and Alert.md",
     "THM/Security Solutions/Firewall Fundamentals",
-    "THM/Security Solutions/SIEM/4. Why SIEM.md",
-    "THM/Security Solutions/SIEM/3. Log Sources and Log Ingestion.md",
-    "THM/Security Solutions/SIEM/2. Network Visibility through SIEM.md",
-    "THM/Security Solutions/SIEM/1.Introduction to SIEM.md",
-    "THM/Incident Response Fundamentals/5. Incident Response Techniques.md",
     "THM/Security Solutions/SIEM",
     "THM/Security Solutions",
     "THM/Incident Response Fundamentals",
-    "THM/Digital Forensics Fundamentals",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
