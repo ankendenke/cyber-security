@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/MITRE/8. ATT&CK® and Threat Intelligence.md",
+                "file": "THM/Defense Security Tooling/CAPA - The Basics/4. Dissecting CAPA Results Part 2 - Malware Behavior Catalogue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. ATT&CK® and Threat Intelligence"
+              "title": "4. Dissecting CAPA Results Part 2 - Malware Behavior Catalogue"
             }
           }
         ]
@@ -178,17 +178,19 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/MITRE/7. ATT&CK® Emulation Plans.md",
+    "THM/Defense Security Tooling/CAPA - The Basics/3. Dissecting CAPA Results Part 1 - General Information, MITRE and MAEC.md",
+    "THM/Defense Security Tooling/CAPA - The Basics/4. Dissecting CAPA Results Part 2 - Malware Behavior Catalogue.md",
+    "THM/Defense Security Tooling/CAPA - The Basics/2. Tool Overview How CAPA Works.md",
+    "THM/Defense Security Tooling/CAPA - The Basics/1. Introduction.md",
     "THM/MITRE/8. ATT&CK® and Threat Intelligence.md",
+    "THM/MITRE/7. ATT&CK® Emulation Plans.md",
     "THM/MITRE/6. MITRE D3FEND.md",
     "THM/MITRE/5. MITRE Engage.md",
     "THM/MITRE/4. CAR Knowledge Base.md",
     "THM/MITRE/3. ATT&CK® Framework..md",
     "THM/MITRE/2. Basic Terminology.md",
     "THM/MITRE/1. Introduction to MITRE.md",
-    "THM/Defense Security Tooling/CAPA - The Basics/2..md",
     "THM/MITRE",
-    "THM/Defense Security Tooling/CAPA - The Basics/1. Introduction.md",
     "THM/Defense Security Tooling/Cyber Chief - The Basics/5. Practice, Practice, Practice.md",
     "THM/Defense Security Tooling/CAPA - The Basics",
     "THM/Defense Security Tooling/Cyber Chief - The Basics/4. Before Anything Else.md",
@@ -207,9 +209,7 @@
     "THM/Security Solutions/IDS Fundamentals/3. IDS Example - Snort.md",
     "THM/Security Solutions/IDS Fundamentals/2. Types of IDS.md",
     "THM/Security Solutions/IDS Fundamentals/1. What Is an IDS.md",
-    "THM/Security Solutions/Firewall Fundamentals/5. Linux iptables Firewall.md",
     "THM/Security Solutions/IDS Fundamentals",
-    "THM/Security Solutions/Firewall Fundamentals/4. Windows Defender Firewall.md",
     "THM/Security Solutions/Firewall Fundamentals",
     "THM/Security Solutions/SIEM",
     "THM/Security Solutions",
