@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Defense Security Tooling/FlareVM - Arsenal of Tools/2. Commonly Used Tools for Investigation - Overview.md",
+                "file": "THM/Defense Security Tooling/FlareVM - Arsenal of Tools/3. Analyzing Malicious Files!.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Commonly Used Tools for Investigation - Overview"
+              "title": "3. Analyzing Malicious Files!"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/Defense Security Tooling/FlareVM - Arsenal of Tools/1. Introduction.md",
     "THM/Defense Security Tooling/FlareVM - Arsenal of Tools/2. Commonly Used Tools for Investigation - Overview.md",
+    "THM/Defense Security Tooling/FlareVM - Arsenal of Tools/3. Analyzing Malicious Files!.md",
+    "THM/Defense Security Tooling/FlareVM - Arsenal of Tools/1. Introduction.md",
     "THM/Defense Security Tooling/REMnux - Getting Started/2. File Analysis.md",
     "THM/Defense Security Tooling/FlareVM - Arsenal of Tools",
     "THM/Defense Security Tooling/REMnux - Getting Started/1. Introduction.md",
@@ -209,7 +210,6 @@
     "THM/Security Solutions/Vulnerability Scanner Overview/5. OpenVAS.md",
     "THM/Defense Security Tooling/Cyber Chief - The Basics",
     "THM/Defense Security Tooling",
-    "THM/Security Solutions/Vulnerability Scanner Overview/4.CVE & CVSS.md",
     "THM/Security Solutions/Vulnerability Scanner Overview",
     "THM/Security Solutions/IDS Fundamentals",
     "THM/Security Solutions/Firewall Fundamentals",
