@@ -11,10 +11,15 @@
             "id": "dc7bc5c14e683212",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/6. Developer Tools - Network.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Developer Tools - Network"
             }
           }
         ]
@@ -173,6 +178,9 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/5. Developer Tools - Debugger.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/6. Developer Tools - Network.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/4. Developer Tools - Inspector.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/3. Viewing The Page Source.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/2. Exploring The Website.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/1. Introduction.md",
@@ -204,9 +212,6 @@
     "THM/Defense Security Tooling/CAPA - The Basics/4. Dissecting CAPA Results Part 2 - Malware Behavior Catalogue.md",
     "THM/Defense Security Tooling/CAPA - The Basics/3. Dissecting CAPA Results Part 1 - General Information, MITRE and MAEC.md",
     "THM/Defense Security Tooling/CAPA - The Basics/2. Tool Overview How CAPA Works.md",
-    "THM/Defense Security Tooling/CAPA - The Basics/1. Introduction.md",
-    "THM/MITRE/8. ATT&CK® and Threat Intelligence.md",
-    "THM/MITRE/7. ATT&CK® Emulation Plans.md",
     "THM/MITRE",
     "THM/Defense Security Tooling/CAPA - The Basics",
     "Images/Pasted image 20241227095454.png",
