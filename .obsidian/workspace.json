@@ -11,10 +11,15 @@
             "id": "dc7bc5c14e683212",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/2. Username Enumeration.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Username Enumeration"
             }
           }
         ]
@@ -173,6 +178,16 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/1. Brief.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/2. Username Enumeration.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/6. Virtual Hosts.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass",
+    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/5. OSINT - Sublist3r.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/4. DNS Bruteforce.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/3. OSINT - Search Engines.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/2. OSINT - SSL-TLS Certificates.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/1. Brief.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/12. Automated Discovery.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/11. OSINT - S3 Buckets.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/10. OSINT - GitHub.md",
@@ -193,22 +208,12 @@
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/2. Exploring The Website.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/1. Introduction.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application",
-    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/5. Threat Modelling & Incident Response.md",
     "THM/Jr Pentester/Introduction to Web Hacking",
-    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/4. Security Models Continued.md",
-    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/3. Principles of Privileges.md",
-    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/2. The CIA Triad.md",
-    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/1. Introduction.md",
-    "THM/Jr Pentester/Introduction to Pentesting/Pentesting Fundamentals/4. Black box, White box, Grey box Penetration Testing.md",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security",
-    "THM/Jr Pentester/Introduction to Pentesting/Pentesting Fundamentals/3. Penetration Testing Methodologies.md",
-    "THM/Jr Pentester/Introduction to Pentesting/Pentesting Fundamentals/2. Penetration Testing Ethics.md",
     "THM/Jr Pentester/Introduction to Pentesting/Pentesting Fundamentals",
     "THM/Jr Pentester/Introduction to Pentesting",
     "THM/Jr Pentester",
     "THM/Defense Security Tooling/FlareVM - Arsenal of Tools",
-    "THM/Defense Security Tooling/REMnux - Getting Started",
-    "THM/MITRE",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
