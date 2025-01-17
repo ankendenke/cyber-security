@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/2. Username Enumeration.md",
+                "file": "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/4. Logic Flaw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Username Enumeration"
+              "title": "4. Logic Flaw"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/1. Brief.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/3. Brute Force.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/4. Logic Flaw.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/2. Username Enumeration.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/1. Brief.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/6. Virtual Hosts.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass",
     "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/5. OSINT - Sublist3r.md",
@@ -205,8 +207,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/5. Developer Tools - Debugger.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/4. Developer Tools - Inspector.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/3. Viewing The Page Source.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/2. Exploring The Website.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/1. Introduction.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application",
     "THM/Jr Pentester/Introduction to Web Hacking",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security",
