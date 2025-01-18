@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/5. Cookie Tampering.md",
+                "file": "THM/Jr Pentester/Introduction to Web Hacking/IDOR/5. Where are IDORs located.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Cookie Tampering"
+              "title": "5. Where are IDORs located"
             }
           }
         ]
@@ -178,8 +178,15 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/4. Logic Flaw.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/IDOR/4. Finding IDORs in Unpredictable IDs.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/IDOR/5. Where are IDORs located.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/IDOR/4. Finding IDORs in Hashed IDs.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/IDOR/3. Finding IDORs in Encoded IDs.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/IDOR/2. An IDOR Example.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/IDOR/1. Introduction.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/5. Cookie Tampering.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/IDOR",
+    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/4. Logic Flaw.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/3. Brute Force.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/2. Username Enumeration.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/1. Brief.md",
@@ -200,20 +207,13 @@
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/6. Manual Discovery - Framework Stack.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/5. Manual Discovery - HTTP Headers.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/4. Manual Discovery - Sitemap.xml.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/3. Manual Discovery - Favicon.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/2. Manual Discovery - Robots.txt.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/1. What Is Content Discovery....md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/6. Developer Tools - Network.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery",
-    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/5. Developer Tools - Debugger.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application/4. Developer Tools - Inspector.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application",
     "THM/Jr Pentester/Introduction to Web Hacking",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security",
     "THM/Jr Pentester/Introduction to Pentesting/Pentesting Fundamentals",
     "THM/Jr Pentester/Introduction to Pentesting",
     "THM/Jr Pentester",
-    "THM/Defense Security Tooling/FlareVM - Arsenal of Tools",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
