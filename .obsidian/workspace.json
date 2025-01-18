@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion/3. Local File Inclusion - LFI.md",
+                "file": "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion/4. Local File Inclusion - LFI 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Local File Inclusion - LFI"
+              "title": "4. Local File Inclusion - LFI 2"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "dc7bc5c14e683212",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion/2. Path Traversal.md",
     "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion/3. Local File Inclusion - LFI.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion/4. Local File Inclusion - LFI 2.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion/2. Path Traversal.md",
     "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion/1. Introduction.md",
     "THM/Jr Pentester/Introduction to Web Hacking/IDOR/5. Where are IDORs located.md",
     "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion",
@@ -207,7 +208,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/10. OSINT - GitHub.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/9. OSINT - Wayback Machine.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/8. OSINT - Wappalyzer.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery/7. OSINT - Google Hacking - Dorking.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application",
     "THM/Jr Pentester/Introduction to Web Hacking",
