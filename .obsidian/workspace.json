@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery/3. Defeating Common SSRF Defenses.md",
+                "file": "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting/2. XSS Payloads.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Defeating Common SSRF Defenses"
+              "title": "2. XSS Payloads"
             }
           }
         ]
@@ -178,8 +178,11 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Offensive Sec Tools/Shell Overview/4. Shell Listeners.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting/1. Brief.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting/2. XSS Payloads.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery/3. Defeating Common SSRF Defenses.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
+    "THM/Offensive Sec Tools/Shell Overview/4. Shell Listeners.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery/2. Finding an SSRF.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery/1. Brief.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/5. OSINT - Sublist3r.md",
@@ -205,15 +208,12 @@
     "THM/Jr Pentester/Introduction to Web Hacking/IDOR",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/4. Logic Flaw.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/3. Brute Force.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/2. Username Enumeration.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass/1. Brief.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass",
     "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration",
     "THM/Jr Pentester/Introduction to Web Hacking/Content Discovery",
     "THM/Jr Pentester/Introduction to Web Hacking/Walking the Application",
     "THM/Jr Pentester/Introduction to Web Hacking",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security",
-    "THM/Jr Pentester/Introduction to Pentesting/Pentesting Fundamentals",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
