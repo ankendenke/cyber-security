@@ -105,3 +105,9 @@ https://linuxjourney.com/
 https://linuxsurvival.com/
 https://cmdchallenge.com/
 https://gitlab.com/jarv/cmdchallenge
+
+Command Injection Resource
+https://github.com/payloadbox/command-injection-payload-list
+
+XSS Hunter
+https://github.com/mandatoryprogrammer/xsshunter-express
