@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/8. Blind SQLi - Time Based.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "8. Blind SQLi - Time Based"
             }
           }
         ]
@@ -178,11 +178,15 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/7. Blind SQLi - Boolean Based.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/8. Blind SQLi - Time Based.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/6. Blind SQLi - Authentication Bypass.md",
+    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/5. In-Band SQLi.md",
+    "Resources.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/4. What is SQL Injection.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/3. What is SQL.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/2. What is a Database.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/1. Brief.md",
-    "Resources.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection/4. Remediating Command Injection.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection/3. Exploiting Command Injection.md",
@@ -203,10 +207,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting/1. Brief.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery/3. Defeating Common SSRF Defenses.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
-    "THM/Offensive Sec Tools/Shell Overview/4. Shell Listeners.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery/2. Finding an SSRF.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery/1. Brief.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration/5. OSINT - Sublist3r.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery",
     "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion",
     "THM/Jr Pentester/Introduction to Web Hacking/IDOR",
