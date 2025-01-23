@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/What the Shell/11. Next Steps.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Next Steps"
+              "title": "3. Enumeration"
             }
           }
         ]
@@ -178,8 +178,12 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/10. WebShells.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/1. Introduction.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/11. Next Steps.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
+    "THM/Jr Pentester/Privilege Escalation/What the Shell/10. WebShells.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/9. Metasploit multi-handler.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/8. msfvenom.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/7. Socat Encrypted Shells.md",
@@ -203,17 +207,13 @@
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/4. What is SQL Injection.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/3. What is SQL.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/2. What is a Database.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/1. Brief.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
-    "THM/Jr Pentester/Introduction to Web Hacking/Command Injection/4. Remediating Command Injection.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Command Injection/3. Exploiting Command Injection.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery",
     "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion",
     "THM/Jr Pentester/Introduction to Web Hacking/IDOR",
     "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass",
-    "THM/Jr Pentester/Introduction to Web Hacking/Subdomain Enumeration",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
