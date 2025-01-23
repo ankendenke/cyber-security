@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/What the Shell/10. WebShells.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/What the Shell/11. Next Steps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. WebShells"
+              "title": "11. Next Steps"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/9. Metasploit multi-handler.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/10. WebShells.md",
+    "THM/Jr Pentester/Privilege Escalation/What the Shell/11. Next Steps.md",
+    "THM/Jr Pentester/Privilege Escalation/What the Shell/9. Metasploit multi-handler.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/8. msfvenom.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/7. Socat Encrypted Shells.md",
     "Resources.md",
@@ -206,7 +207,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection/4. Remediating Command Injection.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection/3. Exploiting Command Injection.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/Command Injection/2. Discovering Command Injection.md",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery",
