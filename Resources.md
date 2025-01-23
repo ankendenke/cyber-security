@@ -111,3 +111,6 @@ https://github.com/payloadbox/command-injection-payload-list
 
 XSS Hunter
 https://github.com/mandatoryprogrammer/xsshunter-express
+
+Named Pipes
+https://www.linuxjournal.com/article/2156
