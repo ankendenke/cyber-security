@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Enumeration"
+              "title": "4. Automated Enumeration Tools"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
+    "Linux Notes/grep.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/1. Introduction.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/11. Next Steps.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
@@ -205,8 +207,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/6. Blind SQLi - Authentication Bypass.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/5. In-Band SQLi.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/4. What is SQL Injection.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/3. What is SQL.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/2. What is a Database.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
