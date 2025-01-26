@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/find.md",
+                "file": "THM/MBR and GPT Analysis/1. Introduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "find"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
     "Linux Notes/find.md",
+    "THM/MBR and GPT Analysis/1. Introduction.md",
+    "THM/MBR and GPT Analysis",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
     "Linux Notes/grep.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
@@ -206,14 +208,12 @@
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/8. Blind SQLi - Time Based.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/7. Blind SQLi - Boolean Based.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/6. Blind SQLi - Authentication Bypass.md",
-    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection/5. In-Band SQLi.md",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery",
     "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion",
     "THM/Jr Pentester/Introduction to Web Hacking/IDOR",
-    "THM/Jr Pentester/Introduction to Web Hacking/Authentication Bypass",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
