@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/3. Harvesting Passwords from Usual Spots.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/4. Other Quick Wins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Harvesting Passwords from Usual Spots"
+              "title": "4. Other Quick Wins"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/2. Windows Privilege Escalation.md",
+    "Windows Notes/findstr.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/4. Other Quick Wins.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/3. Harvesting Passwords from Usual Spots.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/2. Windows Privilege Escalation.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/1. Introduction.md",
     "Linux Notes/Version check.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
@@ -215,8 +217,6 @@
     "THM/Jr Pentester/Privilege Escalation/What the Shell/11. Next Steps.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/10. WebShells.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/9. Metasploit multi-handler.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/8. msfvenom.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "THM/Jr Pentester/Privilege Escalation",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
