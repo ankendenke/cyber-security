@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
+                "file": "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/2. The CIA Triad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Automated Enumeration Tools"
-            }
-          },
-          {
-            "id": "ee5045529a1548da",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "2. The CIA Triad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,12 +186,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee5045529a1548da",
+  "active": "238eabac3151315d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/1. Introduction.md",
+    "THM/Offensive Sec Tools/SQLMap - The Basics/sqlmap tutorial.md",
+    "THM/Offensive Sec Tools/SQLMap - The Basics/3. Automated SQL Injection Tool.md",
+    "THM/Offensive Sec Tools/SQLMap - The Basics/2. SQL Injection Vulnerability.md",
+    "THM/Offensive Sec Tools/SQLMap - The Basics/1. Introduction.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/1. Introduction.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
     "THM/MBR and GPT Analysis/6. What if GPT.md",
     "THM/MBR and GPT Analysis/5. MBR Tampering Case.md",
     "THM/MBR and GPT Analysis/4. Threats Targeting MBR.md",
@@ -224,11 +216,6 @@
     "THM/Jr Pentester/Privilege Escalation/What the Shell/8. Common Shell Payloads.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/6. Socat.md",
     "_Windows.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/5. Netcat Shell Stabilisation.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/4. Netcat.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/3. Types of Shell.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/2. Tools.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/1. Introduction.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "THM/Jr Pentester/Privilege Escalation",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
