@@ -13,16 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/MBR and GPT Analysis/6. What if GPT.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "6. What if GPT"
+              "title": "4. Automated Enumeration Tools"
+            }
+          },
+          {
+            "id": "ee5045529a1548da",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,21 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "238eabac3151315d",
+  "active": "ee5045529a1548da",
   "lastOpenFiles": [
-    "THM/MBR and GPT Analysis/5. MBR Tampering Case.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/1. Introduction.md",
+    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
     "THM/MBR and GPT Analysis/6. What if GPT.md",
+    "THM/MBR and GPT Analysis/5. MBR Tampering Case.md",
     "THM/MBR and GPT Analysis/4. Threats Targeting MBR.md",
     "THM/MBR and GPT Analysis/3. What if MBR.md",
     "THM/MBR and GPT Analysis/2. Boot Process.md",
     "THM/MBR and GPT Analysis/1. Introduction.md",
     "Linux Notes/find.md",
     "THM/MBR and GPT Analysis",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
     "Linux Notes/grep.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/1. Introduction.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/11. Next Steps.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/10. WebShells.md",
