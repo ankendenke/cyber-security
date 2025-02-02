@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/2. Windows Privilege Escalation.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/3. Harvesting Passwords from Usual Spots.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Windows Privilege Escalation"
+              "title": "3. Harvesting Passwords from Usual Spots"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/1. Introduction.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/2. Windows Privilege Escalation.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/3. Harvesting Passwords from Usual Spots.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/1. Introduction.md",
     "Linux Notes/Version check.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/2. The CIA Triad.md",
@@ -216,7 +217,6 @@
     "THM/Jr Pentester/Privilege Escalation/What the Shell/10. WebShells.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/9. Metasploit multi-handler.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/8. msfvenom.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/7. Socat Encrypted Shells.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "THM/Jr Pentester/Privilege Escalation",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
