@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/2. The CIA Triad.md",
+                "file": "Linux Notes/Version check.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. The CIA Triad"
+              "title": "Version check"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/2. The CIA Triad.md",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/1. Introduction.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics/sqlmap tutorial.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics/3. Automated SQL Injection Tool.md",
@@ -215,7 +216,6 @@
     "Resources.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/8. Common Shell Payloads.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/6. Socat.md",
-    "_Windows.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "THM/Jr Pentester/Privilege Escalation",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
