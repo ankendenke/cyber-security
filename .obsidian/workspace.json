@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/Version check.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/2. Windows Privilege Escalation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Version check"
+              "title": "2. Windows Privilege Escalation"
             }
           }
         ]
@@ -188,6 +188,10 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/1. Introduction.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/2. Windows Privilege Escalation.md",
+    "Linux Notes/Version check.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/2. The CIA Triad.md",
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/1. Introduction.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics/sqlmap tutorial.md",
@@ -213,9 +217,6 @@
     "THM/Jr Pentester/Privilege Escalation/What the Shell/9. Metasploit multi-handler.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/8. msfvenom.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell/7. Socat Encrypted Shells.md",
-    "Resources.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/8. Common Shell Payloads.md",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell/6. Socat.md",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "THM/Jr Pentester/Privilege Escalation",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
@@ -223,7 +224,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery",
     "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion",
-    "THM/Jr Pentester/Introduction to Web Hacking/IDOR",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
