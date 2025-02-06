@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/9. Tools of the Trade.md",
+                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/7. Abusing vulnerable software.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. Tools of the Trade"
+              "title": "7. Abusing vulnerable software"
             }
           }
         ]
@@ -189,6 +189,7 @@
   "active": "238eabac3151315d",
   "lastOpenFiles": [
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/6. Abusing dangerous privileges.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/7. Abusing vulnerable software.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/9. Tools of the Trade.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/5. Abusing Service Misconfigurations.md",
     "Windows Notes/sc.md",
@@ -214,7 +215,6 @@
     "THM/MBR and GPT Analysis/4. Threats Targeting MBR.md",
     "THM/MBR and GPT Analysis/3. What if MBR.md",
     "THM/MBR and GPT Analysis/2. Boot Process.md",
-    "THM/MBR and GPT Analysis/1. Introduction.md",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
