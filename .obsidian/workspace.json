@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/7. Abusing vulnerable software.md",
+                "file": "THM/Jr Pentester/Vulnerabilities 101/4. Vulnerability Databases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Abusing vulnerable software"
+              "title": "4. Vulnerability Databases"
             }
           }
         ]
@@ -188,9 +188,14 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/6. Abusing dangerous privileges.md",
+    "THM/Jr Pentester/Vulnerabilities 101/3. Scoring Vulnerabilities (CVSS & VPR).md",
+    "THM/Jr Pentester/Vulnerabilities 101/4. Vulnerability Databases.md",
+    "THM/Jr Pentester/Vulnerabilities 101/2. Introduction to Vulnerabilities.md",
+    "THM/Jr Pentester/Vulnerabilities 101/1. Introduction.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/8. Tools of the Trade.md",
+    "THM/Jr Pentester/Vulnerabilities 101",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/7. Abusing vulnerable software.md",
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/9. Tools of the Trade.md",
+    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/6. Abusing dangerous privileges.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/5. Abusing Service Misconfigurations.md",
     "Windows Notes/sc.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/4. Other Quick Wins.md",
@@ -211,10 +216,6 @@
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/1. Introduction.md",
     "THM/MBR and GPT Analysis/6. What if GPT.md",
-    "THM/MBR and GPT Analysis/5. MBR Tampering Case.md",
-    "THM/MBR and GPT Analysis/4. Threats Targeting MBR.md",
-    "THM/MBR and GPT Analysis/3. What if MBR.md",
-    "THM/MBR and GPT Analysis/2. Boot Process.md",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
@@ -223,7 +224,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
     "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery",
-    "THM/Jr Pentester/Introduction to Web Hacking/File Inclusion",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
