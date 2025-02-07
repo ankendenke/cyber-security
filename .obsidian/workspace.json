@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Vulnerabilities 101/5. An Example of Finding a Vulnerability.md",
+                "file": "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/3. Finding Manual Exploits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. An Example of Finding a Vulnerability"
+              "title": "3. Finding Manual Exploits"
             }
           }
         ]
@@ -188,8 +188,12 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Vulnerabilities 101/4. Vulnerability Databases.md",
+    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/2. Automated Vs. Manual Vulnerability Research.md",
+    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/3. Finding Manual Exploits.md",
+    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/1. Introduction.md",
     "THM/Jr Pentester/Vulnerabilities 101/5. An Example of Finding a Vulnerability.md",
+    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities",
+    "THM/Jr Pentester/Vulnerabilities 101/4. Vulnerability Databases.md",
     "THM/Jr Pentester/Vulnerabilities 101/3. Scoring Vulnerabilities (CVSS & VPR).md",
     "THM/Jr Pentester/Vulnerabilities 101/2. Introduction to Vulnerabilities.md",
     "THM/Jr Pentester/Vulnerabilities 101/1. Introduction.md",
@@ -213,9 +217,6 @@
     "THM/Offensive Sec Tools/SQLMap - The Basics/2. SQL Injection Vulnerability.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics/1. Introduction.md",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/3. Enumeration.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/2. What is it.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/1. Introduction.md",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
@@ -223,7 +224,6 @@
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Command Injection",
     "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
-    "THM/Jr Pentester/Introduction to Web Hacking/SSRF - Server Side Request Forgery",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
