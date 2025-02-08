@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "THM/Jr Pentester/Net Security/Passive Reconnaissance/2. Passive Versus Active Recon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "2. Passive Versus Active Recon"
             }
           }
         ]
@@ -188,6 +188,11 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/1. Intro.md",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/2. Passive Versus Active Recon.md",
+    "Resources.md",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance",
+    "THM/Jr Pentester/Net Security",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/3. Finding Manual Exploits.md",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/2. Automated Vs. Manual Vulnerability Research.md",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/1. Introduction.md",
@@ -214,16 +219,11 @@
     "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/1. Introduction.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics/sqlmap tutorial.md",
     "THM/Offensive Sec Tools/SQLMap - The Basics/3. Automated SQL Injection Tool.md",
-    "THM/Offensive Sec Tools/SQLMap - The Basics/2. SQL Injection Vulnerability.md",
-    "THM/Offensive Sec Tools/SQLMap - The Basics/1. Introduction.md",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation/4. Automated Enumeration Tools.md",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "THM/Jr Pentester/Privilege Escalation",
     "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
-    "THM/Jr Pentester/Introduction to Web Hacking/Command Injection",
-    "THM/Jr Pentester/Introduction to Web Hacking/Intro to Cross-site Scripting",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
