@@ -78,6 +78,8 @@ https://github.com/DominicBreuker/pspy
 
 Windows Priv Esc TCM Resources
 [https://github.com/Gr1mmie/Windows-Priviledge-Escalation-Resources](https://github.com/Gr1mmie/Windows-Priviledge-Escalation-Resources)
+https://github.com/christinec-dev/TryHackMe_Writeups/tree/main/WindowsPrivesc
+
 
 Linux Admin Tutorials:
 https://www.baeldung.com/linux/start-here

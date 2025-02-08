@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/3. Finding Manual Exploits.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Finding Manual Exploits"
+              "title": "Resources"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/2. Automated Vs. Manual Vulnerability Research.md",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/3. Finding Manual Exploits.md",
+    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/2. Automated Vs. Manual Vulnerability Research.md",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/1. Introduction.md",
     "THM/Jr Pentester/Vulnerabilities 101/5. An Example of Finding a Vulnerability.md",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities",
