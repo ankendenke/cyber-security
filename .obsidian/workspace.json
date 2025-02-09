@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/4. TCP Connect Scan.md",
+                "file": "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/6. Fine-Tuning Scope and Performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. TCP Connect Scan"
+              "title": "6. Fine-Tuning Scope and Performance"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/3. TCP Flags.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/7. Summary.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/6. Fine-Tuning Scope and Performance.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/5. TCP SYN Scan.md",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/4. TCP Connect Scan.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/3. TCP Flags.md",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/2. TCP and UDP Ports.md",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/9. Summary.md",
@@ -214,9 +217,6 @@
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/7. Summary.md",
     "THM/Jr Pentester/Net Security/Active Reconnaissance",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/6. Shodan.io.md",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/5. DNSDumpster.md",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/4. Nslookup and dig.md",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/3. Whois.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
     "THM/Jr Pentester/Net Security",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities",
