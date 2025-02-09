@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Defensive Tools/Logs Fundamentals/2. Types of Logs.md",
+                "file": "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/3. Enumerating Targets.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Types of Logs"
+              "title": "3. Enumerating Targets"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/2. Subnetworks.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/3. Enumerating Targets.md",
+    "THM/Defensive Tools/Logs Fundamentals/2. Types of Logs.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Active Reconnaissance/7. Putting It All Together.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
@@ -216,10 +219,7 @@
     "THM/Jr Pentester/Vulnerabilities 101/4. Vulnerability Databases.md",
     "THM/Jr Pentester/Vulnerabilities 101/3. Scoring Vulnerabilities (CVSS & VPR).md",
     "THM/Jr Pentester/Vulnerabilities 101/2. Introduction to Vulnerabilities.md",
-    "THM/Jr Pentester/Vulnerabilities 101/1. Introduction.md",
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/8. Tools of the Trade.md",
     "THM/Jr Pentester/Vulnerabilities 101",
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/7. Abusing vulnerable software.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
