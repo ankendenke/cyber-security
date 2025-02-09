@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/9. Summary.md",
+                "file": "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/4. TCP Connect Scan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. Summary"
+              "title": "4. TCP Connect Scan"
             }
           }
         ]
@@ -188,7 +188,12 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/3. TCP Flags.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/4. TCP Connect Scan.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/2. TCP and UDP Ports.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/9. Summary.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/8. Using Reverse-DNS Lookup.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/7. Nmap Host Discovery Using TCP and UDP.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/6. Nmap Host Discovery Using ICMP.md",
@@ -212,18 +217,13 @@
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/5. DNSDumpster.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/4. Nslookup and dig.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/3. Whois.md",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/2. Passive Versus Active Recon.md",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/1. Intro.md",
-    "Resources.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
     "THM/Jr Pentester/Net Security",
-    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/3. Finding Manual Exploits.md",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities",
     "THM/Jr Pentester/Vulnerabilities 101",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
-    "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
