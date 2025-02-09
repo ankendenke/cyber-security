@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7ae2999254d7cb",
+        "id": "6f0b808c1c778843",
         "type": "tabs",
         "children": [
           {
-            "id": "238eabac3151315d",
+            "id": "fdb3b619cae7b64d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/3. Enumerating Targets.md",
+                "file": "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/9. Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Enumerating Targets"
+              "title": "9. Summary"
             }
           }
         ]
@@ -186,10 +186,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "238eabac3151315d",
+  "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/2. Subnetworks.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/9. Summary.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/8. Using Reverse-DNS Lookup.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/7. Nmap Host Discovery Using TCP and UDP.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/6. Nmap Host Discovery Using ICMP.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/5. Nmap Host Discovery Using ARP.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/4. Discovering Live Hosts.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/3. Enumerating Targets.md",
+    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/2. Subnetworks.md",
     "THM/Defensive Tools/Logs Fundamentals/2. Types of Logs.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Active Reconnaissance/7. Putting It All Together.md",
@@ -212,13 +218,7 @@
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
     "THM/Jr Pentester/Net Security",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/3. Finding Manual Exploits.md",
-    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/2. Automated Vs. Manual Vulnerability Research.md",
-    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities/1. Introduction.md",
-    "THM/Jr Pentester/Vulnerabilities 101/5. An Example of Finding a Vulnerability.md",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities",
-    "THM/Jr Pentester/Vulnerabilities 101/4. Vulnerability Databases.md",
-    "THM/Jr Pentester/Vulnerabilities 101/3. Scoring Vulnerabilities (CVSS & VPR).md",
-    "THM/Jr Pentester/Vulnerabilities 101/2. Introduction to Vulnerabilities.md",
     "THM/Jr Pentester/Vulnerabilities 101",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
     "THM/MBR and GPT Analysis",
