@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Passive Reconnaissance/2. Passive Versus Active Recon.md",
+                "file": "THM/Jr Pentester/Net Security/Active Reconnaissance/2. Web Browser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Passive Versus Active Recon"
+              "title": "2. Web Browser"
             }
           }
         ]
@@ -188,8 +188,16 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/1. Intro.md",
+    "THM/Jr Pentester/Net Security/Active Reconnaissance/1. Introduction.md",
+    "THM/Jr Pentester/Net Security/Active Reconnaissance/2. Web Browser.md",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/7. Summary.md",
+    "THM/Jr Pentester/Net Security/Active Reconnaissance",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/6. Shodan.io.md",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/5. DNSDumpster.md",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/4. Nslookup and dig.md",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/3. Whois.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/2. Passive Versus Active Recon.md",
+    "THM/Jr Pentester/Net Security/Passive Reconnaissance/1. Intro.md",
     "Resources.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
     "THM/Jr Pentester/Net Security",
@@ -211,19 +219,11 @@
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/4. Other Quick Wins.md",
     "Windows Notes/findstr.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/3. Harvesting Passwords from Usual Spots.md",
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/2. Windows Privilege Escalation.md",
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/1. Introduction.md",
-    "Linux Notes/Version check.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
-    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/2. The CIA Triad.md",
-    "THM/Jr Pentester/Introduction to Pentesting/Principles of Security/1. Introduction.md",
-    "THM/Offensive Sec Tools/SQLMap - The Basics/sqlmap tutorial.md",
-    "THM/Offensive Sec Tools/SQLMap - The Basics/3. Automated SQL Injection Tool.md",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "THM/Jr Pentester/Privilege Escalation/What the Shell",
     "THM/Jr Pentester/Privilege Escalation",
-    "THM/Jr Pentester/Introduction to Web Hacking/SQL Injection",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
