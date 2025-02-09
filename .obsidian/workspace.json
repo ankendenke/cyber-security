@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Active Reconnaissance/2. Web Browser.md",
+                "file": "THM/Jr Pentester/Net Security/Active Reconnaissance/3. Ping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Web Browser"
+              "title": "3. Ping"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "238eabac3151315d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Net Security/Active Reconnaissance/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Active Reconnaissance/2. Web Browser.md",
+    "THM/Jr Pentester/Net Security/Active Reconnaissance/3. Ping.md",
+    "THM/Jr Pentester/Net Security/Active Reconnaissance/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/7. Summary.md",
     "THM/Jr Pentester/Net Security/Active Reconnaissance",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance/6. Shodan.io.md",
@@ -218,7 +219,6 @@
     "Windows Notes/sc.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/4. Other Quick Wins.md",
     "Windows Notes/findstr.md",
-    "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation/3. Harvesting Passwords from Usual Spots.md",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
     "THM/MBR and GPT Analysis",
     "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
