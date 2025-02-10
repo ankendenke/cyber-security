@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/6. Fine-Tuning Scope and Performance.md",
+                "file": "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/4. TCP ACK, Window, and Custom Scan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Fine-Tuning Scope and Performance"
+              "title": "4. TCP ACK, Window, and Custom Scan"
             }
           }
         ]
@@ -188,8 +188,15 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/7. Summary.md",
+    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/Summary.md",
+    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/4. TCP ACK, Window, and Custom Scan.md",
+    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/2. TCP Null Scan, FIN Scan, and Xmas Scan.md",
+    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/3. TCP Maimon Scan.md",
+    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/1. Introduction.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/Nmap Advanced Port Scans.md",
+    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/6. Fine-Tuning Scope and Performance.md",
+    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/7. Summary.md",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/5. TCP SYN Scan.md",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/4. TCP Connect Scan.md",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans/3. TCP Flags.md",
@@ -210,20 +217,13 @@
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
     "THM/Jr Pentester/Net Security/Active Reconnaissance/6. Netcat.md",
     "THM/Jr Pentester/Net Security/Active Reconnaissance/5. Telnet.md",
-    "THM/Jr Pentester/Net Security/Active Reconnaissance/4. Traceroute.md",
-    "THM/Jr Pentester/Net Security/Active Reconnaissance/3. Ping.md",
-    "THM/Jr Pentester/Net Security/Active Reconnaissance/2. Web Browser.md",
-    "THM/Jr Pentester/Net Security/Active Reconnaissance/1. Introduction.md",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/7. Summary.md",
     "THM/Jr Pentester/Net Security/Active Reconnaissance",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance/6. Shodan.io.md",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
     "THM/Jr Pentester/Net Security",
     "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities",
     "THM/Jr Pentester/Vulnerabilities 101",
     "THM/Jr Pentester/Privilege Escalation/Windows Privilege Escalation",
     "THM/MBR and GPT Analysis",
-    "THM/Jr Pentester/Privilege Escalation/Linux Privilege Escalation",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
