@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Nmap Post Port Scans/1. Introduction.md",
+                "file": "THM/Jr Pentester/Net Security/Nmap Post Port Scans/4. Nmap Scripting Engine (NSE).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "4. Nmap Scripting Engine (NSE)"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/3. OS Detection and Traceroute.md",
+    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/4. Nmap Scripting Engine (NSE).md",
+    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/2. Service Detection.md",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans/Summary.md",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/8. Getting More Details.md",
@@ -214,9 +217,6 @@
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/8. Using Reverse-DNS Lookup.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/7. Nmap Host Discovery Using TCP and UDP.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/6. Nmap Host Discovery Using ICMP.md",
-    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/5. Nmap Host Discovery Using ARP.md",
-    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/4. Discovering Live Hosts.md",
-    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery/3. Enumerating Targets.md",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
     "THM/Jr Pentester/Net Security/Active Reconnaissance",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
