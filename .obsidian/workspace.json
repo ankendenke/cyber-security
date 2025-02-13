@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cryptography/Public Key Cryptography Basics/Common Use of Asymmetric Encryption.md",
+                "file": "THM/Cryptography/Cryptography Basics/1. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Common Use of Asymmetric Encryption"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -188,6 +188,15 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Cryptography/Cryptography Basics/Summary.md",
+    "THM/Cryptography/Cryptography Basics/6. Basic Math.md",
+    "THM/Cryptography/Cryptography Basics/5. Types of Encryption.md",
+    "THM/Cryptography/Cryptography Basics/4. Historical Ciphers.md",
+    "THM/Cryptography/Cryptography Basics/3. Plaintext and Cypher.md",
+    "THM/Cryptography/Cryptography Basics/2. Importance of Cryptography.md",
+    "THM/Cryptography/Cryptography Basics/1. Introduction.md",
+    "THM/Cryptography/Public Key Cryptography Basics/Common Use of Asymmetric Encryption.md",
+    "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/6. Password Attack.md",
     "Linux Notes/nmap.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/5. Secure Shell (SSH).md",
@@ -208,22 +217,13 @@
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans/4. Nmap Scripting Engine (NSE).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans/3. OS Detection and Traceroute.md",
-    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/2. Service Detection.md",
-    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/1. Introduction.md",
-    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/Summary.md",
-    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/8. Getting More Details.md",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
-    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/7. Idle - Zombie Scan.md",
-    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/6. Fragmented Packets.md",
-    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/5. Spoofing and Decoys.md",
-    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/4. TCP ACK, Window, and Custom Scan.md",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
     "THM/Jr Pentester/Net Security/Active Reconnaissance",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
     "THM/Jr Pentester/Net Security",
-    "THM/Jr Pentester/Vulnerabilities 101/Exploit Vulnerabilities",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
