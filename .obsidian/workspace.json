@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/Net Security/Protocols and Servers 2/6. Password Attack.md",
+                "file": "THM/Cryptography/Public Key Cryptography Basics/Common Use of Asymmetric Encryption.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Password Attack"
+              "title": "Common Use of Asymmetric Encryption"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2/5. Secure Shell (SSH).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/6. Password Attack.md",
+    "Linux Notes/nmap.md",
+    "THM/Jr Pentester/Net Security/Protocols and Servers 2/5. Secure Shell (SSH).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/Summary.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/4. Transport Layer Security (TLS).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/3. Man-in-the-Middle (MITM) Attack.md",
@@ -216,7 +217,6 @@
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/6. Fragmented Packets.md",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/5. Spoofing and Decoys.md",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/4. TCP ACK, Window, and Custom Scan.md",
-    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans/Summary.md",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
