@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Videos.md",
+                "file": "THM/Cryptography/Hashing Basics/7. Conclusion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Videos"
+              "title": "7. Conclusion"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,8 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67742768b497d687",
+  "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Cryptography/Hashing Basics/6. Hashing for Integrity Checking.md",
+    "THM/Cryptography/Hashing Basics/5. Password Cracking.md",
+    "THM/Cryptography/Hashing Basics/4. Recognizing Password Hashes.md",
+    "THM/Cryptography/Hashing Basics/3. Using Hashing for Secure Password Storage.md",
+    "THM/Cryptography/Hashing Basics/2. Insecure Password Storage for Authentication.md",
+    "THM/Cryptography/Hashing Basics/1. Hash Functions.md",
+    "Videos.md",
     "Resources.md",
     "THM/Cryptography/Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Cryptography Basics/Summary.md",
@@ -210,13 +216,6 @@
     "THM/Jr Pentester/Net Security/Protocols and Servers/7. Internet Message Access Protocol (IMAP).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers/6. Post Office Protocol 3 (POP3).md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/5. Simple Mail Transfer Protocol (SMTP).md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/Summary.md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/4. File Transfer Protocol (FTP).md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/3. Hypertext Transfer Protocol (HTTP).md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/2. Telnet.md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/1. Introduction.md",
-    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/4. Nmap Scripting Engine (NSE).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
