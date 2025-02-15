@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cryptography/Cryptography Basics/1. Introduction.md",
+                "file": "Videos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "Videos"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resour",
+                "query": "youtube download",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,15 +187,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb3b619cae7b64d",
+  "active": "67742768b497d687",
   "lastOpenFiles": [
+    "Resources.md",
+    "THM/Cryptography/Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Cryptography Basics/Summary.md",
     "THM/Cryptography/Cryptography Basics/6. Basic Math.md",
     "THM/Cryptography/Cryptography Basics/5. Types of Encryption.md",
     "THM/Cryptography/Cryptography Basics/4. Historical Ciphers.md",
     "THM/Cryptography/Cryptography Basics/3. Plaintext and Cypher.md",
     "THM/Cryptography/Cryptography Basics/2. Importance of Cryptography.md",
-    "THM/Cryptography/Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Public Key Cryptography Basics/Common Use of Asymmetric Encryption.md",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/6. Password Attack.md",
@@ -216,7 +218,6 @@
     "THM/Jr Pentester/Net Security/Protocols and Servers/1. Introduction.md",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans/4. Nmap Scripting Engine (NSE).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
-    "THM/Jr Pentester/Net Security/Nmap Post Port Scans/3. OS Detection and Traceroute.md",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
