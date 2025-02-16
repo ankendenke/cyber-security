@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cryptography/Hashing Basics/7. Conclusion.md",
+                "file": "THM/Cryptography/Extension Attack/1. Hash Function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Conclusion"
+              "title": "1. Hash Function"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Cryptography/Hashing Basics/7. Conclusion.md",
+    "THM/Cryptography/Extension Attack/1. Hash Function.md",
+    "THM/Cryptography/Extension Attack",
     "THM/Cryptography/Hashing Basics/6. Hashing for Integrity Checking.md",
     "THM/Cryptography/Hashing Basics/5. Password Cracking.md",
     "THM/Cryptography/Hashing Basics/4. Recognizing Password Hashes.md",
@@ -213,9 +216,7 @@
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/3. Man-in-the-Middle (MITM) Attack.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/2. Sniffing Attack.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/1. Introduction.md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/7. Internet Message Access Protocol (IMAP).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
-    "THM/Jr Pentester/Net Security/Protocols and Servers/6. Post Office Protocol 3 (POP3).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
@@ -223,7 +224,6 @@
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
     "THM/Jr Pentester/Net Security/Active Reconnaissance",
     "THM/Jr Pentester/Net Security/Passive Reconnaissance",
-    "THM/Jr Pentester/Net Security",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
