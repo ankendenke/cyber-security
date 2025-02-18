@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cryptography/Extension Attack/2. Hashing Internals.md",
+                "file": "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Hashing Internals"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Cryptography/Extension Attack/1. Hash Function.md",
+    "THM/Cryptography/Public Key Cryptography Basics/2. Common Use of Asymmetric Encryption.md",
+    "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
+    "THM/Cryptography/Public Key Cryptography Basics/Diffie-Hellman Key Exchange.md",
     "THM/Cryptography/Extension Attack/2. Hashing Internals.md",
+    "THM/Cryptography/Extension Attack/1. Hash Function.md",
     "THM/Cryptography/Hashing Basics/7. Conclusion.md",
     "THM/Cryptography/Extension Attack",
     "THM/Cryptography/Hashing Basics/6. Hashing for Integrity Checking.md",
@@ -207,15 +210,12 @@
     "THM/Cryptography/Cryptography Basics/4. Historical Ciphers.md",
     "THM/Cryptography/Cryptography Basics/3. Plaintext and Cypher.md",
     "THM/Cryptography/Cryptography Basics/2. Importance of Cryptography.md",
-    "THM/Cryptography/Public Key Cryptography Basics/Common Use of Asymmetric Encryption.md",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/6. Password Attack.md",
     "Linux Notes/nmap.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/5. Secure Shell (SSH).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/Summary.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/4. Transport Layer Security (TLS).md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2/3. Man-in-the-Middle (MITM) Attack.md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2/2. Sniffing Attack.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
