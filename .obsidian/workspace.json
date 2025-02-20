@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "find -examples.md",
+                "file": "THM/Linux File System Analysis/Conclusion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "find -examples"
+              "title": "Conclusion"
             }
           }
         ],
@@ -237,8 +237,16 @@
   },
   "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
-    "Linux Notes/find.md",
+    "THM/Linux File System Analysis/5. Rootkits.md",
+    "THM/Linux File System Analysis/Conclusion.md",
+    "THM/Linux File System Analysis/4. Binaries and Executables.md",
+    "THM/Linux File System Analysis/3. User Directories and Files.md",
+    "THM/Linux File System Analysis/2. Users and Groups.md",
+    "THM/Linux File System Analysis/2. Files, Permissions, Timestamps.md",
+    "THM/Linux File System Analysis/1. Introduction.md",
     "find -examples.md",
+    "THM/Linux File System Analysis",
+    "Linux Notes/find.md",
     "THM/Cryptography/Public Key Cryptography Basics/2. Common Use of Asymmetric Encryption.md",
     "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Public Key Cryptography Basics/Diffie-Hellman Key Exchange.md",
@@ -257,14 +265,7 @@
     "THM/Cryptography/Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Cryptography Basics/Summary.md",
     "THM/Cryptography/Cryptography Basics/6. Basic Math.md",
-    "THM/Cryptography/Cryptography Basics/5. Types of Encryption.md",
-    "THM/Cryptography/Cryptography Basics/4. Historical Ciphers.md",
-    "THM/Cryptography/Cryptography Basics/3. Plaintext and Cypher.md",
-    "THM/Cryptography/Cryptography Basics/2. Importance of Cryptography.md",
     "THM/Cryptography/Cryptography Basics",
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2/6. Password Attack.md",
-    "Linux Notes/nmap.md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2/5. Secure Shell (SSH).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
@@ -272,7 +273,6 @@
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
     "THM/Jr Pentester/Net Security/Active Reconnaissance",
-    "THM/Jr Pentester/Net Security/Passive Reconnaissance",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
