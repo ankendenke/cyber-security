@@ -35,16 +35,52 @@
             "id": "14867fe7cf922ab7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Linux Notes/find.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "find"
+            }
+          },
+          {
+            "id": "0b98a6534cb7ad36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "find -examples.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "find -examples"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,8 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14867fe7cf922ab7",
+  "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
+    "Linux Notes/find.md",
+    "find -examples.md",
     "THM/Cryptography/Public Key Cryptography Basics/2. Common Use of Asymmetric Encryption.md",
     "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Public Key Cryptography Basics/Diffie-Hellman Key Exchange.md",
@@ -227,8 +265,6 @@
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/6. Password Attack.md",
     "Linux Notes/nmap.md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2/5. Secure Shell (SSH).md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2/Summary.md",
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2/4. Transport Layer Security (TLS).md",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
