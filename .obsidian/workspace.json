@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux File System Analysis/Conclusion.md",
+                "file": "THM/Linux System Hardening/3. Filesystem Partitioning and Encryption.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conclusion"
+              "title": "3. Filesystem Partitioning and Encryption"
             }
           }
         ],
@@ -237,8 +237,13 @@
   },
   "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
-    "THM/Linux File System Analysis/5. Rootkits.md",
+    "THM/Digital Forensics Fundamentals/4. Windows Forensics.md",
+    "THM/Linux System Hardening/3. Filesystem Partitioning and Encryption.md",
+    "THM/Linux System Hardening/2. Physical Security.md",
+    "THM/Linux System Hardening/1. Introduction.md",
     "THM/Linux File System Analysis/Conclusion.md",
+    "THM/Linux System Hardening",
+    "THM/Linux File System Analysis/5. Rootkits.md",
     "THM/Linux File System Analysis/4. Binaries and Executables.md",
     "THM/Linux File System Analysis/3. User Directories and Files.md",
     "THM/Linux File System Analysis/2. Users and Groups.md",
@@ -261,10 +266,6 @@
     "THM/Cryptography/Hashing Basics/2. Insecure Password Storage for Authentication.md",
     "THM/Cryptography/Hashing Basics/1. Hash Functions.md",
     "Videos.md",
-    "Resources.md",
-    "THM/Cryptography/Cryptography Basics/1. Introduction.md",
-    "THM/Cryptography/Cryptography Basics/Summary.md",
-    "THM/Cryptography/Cryptography Basics/6. Basic Math.md",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
@@ -272,7 +273,6 @@
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
-    "THM/Jr Pentester/Net Security/Active Reconnaissance",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
