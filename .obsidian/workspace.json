@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux System Hardening/3. Filesystem Partitioning and Encryption.md",
+                "file": "THM/Linux System Hardening/4. Firewall.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Filesystem Partitioning and Encryption"
+              "title": "4. Firewall"
             }
           }
         ],
@@ -237,8 +237,9 @@
   },
   "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
-    "THM/Digital Forensics Fundamentals/4. Windows Forensics.md",
     "THM/Linux System Hardening/3. Filesystem Partitioning and Encryption.md",
+    "THM/Linux System Hardening/4. Firewall.md",
+    "THM/Digital Forensics Fundamentals/4. Windows Forensics.md",
     "THM/Linux System Hardening/2. Physical Security.md",
     "THM/Linux System Hardening/1. Introduction.md",
     "THM/Linux File System Analysis/Conclusion.md",
@@ -265,7 +266,6 @@
     "THM/Cryptography/Hashing Basics/3. Using Hashing for Secure Password Storage.md",
     "THM/Cryptography/Hashing Basics/2. Insecure Password Storage for Authentication.md",
     "THM/Cryptography/Hashing Basics/1. Hash Functions.md",
-    "Videos.md",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
