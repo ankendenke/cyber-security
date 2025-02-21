@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cryptography/Intro to Cryptography/2. Symmetric Encryption.md",
+                "file": "THM/Cryptography/Intro to Cryptography/3. Asymmetric Encryption.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Symmetric Encryption"
+              "title": "3. Asymmetric Encryption"
             }
           }
         ],
@@ -237,8 +237,9 @@
   },
   "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
-    "THM/Cryptography/Intro to Cryptography/1. Introduction.md",
     "THM/Cryptography/Intro to Cryptography/2. Symmetric Encryption.md",
+    "THM/Cryptography/Intro to Cryptography/3. Asymmetric Encryption.md",
+    "THM/Cryptography/Intro to Cryptography/1. Introduction.md",
     "THM/Linux System Hardening/9. Audit and Log Configuration.md",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening/8. Update and Upgrade Policies.md",
@@ -265,7 +266,6 @@
     "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Public Key Cryptography Basics/Diffie-Hellman Key Exchange.md",
     "THM/Cryptography/Extension Attack/2. Hashing Internals.md",
-    "THM/Cryptography/Extension Attack/1. Hash Function.md",
     "THM/Cryptography/Extension Attack",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
