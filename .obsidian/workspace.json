@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux System Hardening/9. Audit and Log Configuration.md",
+                "file": "THM/Cryptography/Intro to Cryptography/2. Symmetric Encryption.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. Audit and Log Configuration"
+              "title": "2. Symmetric Encryption"
             }
           }
         ],
@@ -237,8 +237,11 @@
   },
   "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
-    "THM/Linux System Hardening/8. Update and Upgrade Policies.md",
+    "THM/Cryptography/Intro to Cryptography/1. Introduction.md",
+    "THM/Cryptography/Intro to Cryptography/2. Symmetric Encryption.md",
     "THM/Linux System Hardening/9. Audit and Log Configuration.md",
+    "THM/Cryptography/Intro to Cryptography",
+    "THM/Linux System Hardening/8. Update and Upgrade Policies.md",
     "THM/Linux System Hardening/7. Software and Services.md",
     "THM/Linux System Hardening/6. Securing User Accounts.md",
     "THM/Linux System Hardening/5. Remote Access.md",
@@ -263,16 +266,13 @@
     "THM/Cryptography/Public Key Cryptography Basics/Diffie-Hellman Key Exchange.md",
     "THM/Cryptography/Extension Attack/2. Hashing Internals.md",
     "THM/Cryptography/Extension Attack/1. Hash Function.md",
-    "THM/Cryptography/Hashing Basics/7. Conclusion.md",
     "THM/Cryptography/Extension Attack",
-    "THM/Cryptography/Hashing Basics/6. Hashing for Integrity Checking.md",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
     "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
-    "THM/Jr Pentester/Net Security/Nmap Live Host Discovery",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
