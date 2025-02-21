@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux System Hardening/6. Securing User Accounts.md",
+                "file": "THM/Linux System Hardening/9. Audit and Log Configuration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Securing User Accounts"
+              "title": "9. Audit and Log Configuration"
             }
           }
         ],
@@ -237,8 +237,11 @@
   },
   "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
-    "THM/Linux System Hardening/5. Remote Access.md",
+    "THM/Linux System Hardening/8. Update and Upgrade Policies.md",
+    "THM/Linux System Hardening/9. Audit and Log Configuration.md",
+    "THM/Linux System Hardening/7. Software and Services.md",
     "THM/Linux System Hardening/6. Securing User Accounts.md",
+    "THM/Linux System Hardening/5. Remote Access.md",
     "THM/Linux System Hardening/4. Firewall.md",
     "THM/Linux System Hardening/3. Filesystem Partitioning and Encryption.md",
     "THM/Digital Forensics Fundamentals/4. Windows Forensics.md",
@@ -263,9 +266,6 @@
     "THM/Cryptography/Hashing Basics/7. Conclusion.md",
     "THM/Cryptography/Extension Attack",
     "THM/Cryptography/Hashing Basics/6. Hashing for Integrity Checking.md",
-    "THM/Cryptography/Hashing Basics/5. Password Cracking.md",
-    "THM/Cryptography/Hashing Basics/4. Recognizing Password Hashes.md",
-    "THM/Cryptography/Hashing Basics/3. Using Hashing for Secure Password Storage.md",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
