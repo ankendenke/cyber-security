@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cryptography/Intro to Cryptography/6. PKI and SSL-TLS.md",
+                "file": "THM/Cryptography/Intro to Cryptography/8. Cryptography and Data - Example.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. PKI and SSL-TLS"
+              "title": "8. Cryptography and Data - Example"
             }
           }
         ],
@@ -237,8 +237,10 @@
   },
   "active": "0b98a6534cb7ad36",
   "lastOpenFiles": [
-    "THM/Cryptography/Intro to Cryptography/5. Hashing.md",
+    "THM/Cryptography/Intro to Cryptography/7. Authenticating with Passwords.md",
+    "THM/Cryptography/Intro to Cryptography/8. Cryptography and Data - Example.md",
     "THM/Cryptography/Intro to Cryptography/6. PKI and SSL-TLS.md",
+    "THM/Cryptography/Intro to Cryptography/5. Hashing.md",
     "THM/Cryptography/Intro to Cryptography/4. Diffie-Hellman Key Exchange.md",
     "THM/Cryptography/Intro to Cryptography/3. Asymmetric Encryption.md",
     "THM/Cryptography/Intro to Cryptography/2. Symmetric Encryption.md",
@@ -264,8 +266,6 @@
     "THM/Linux File System Analysis/1. Introduction.md",
     "find -examples.md",
     "THM/Linux File System Analysis",
-    "Linux Notes/find.md",
-    "THM/Cryptography/Public Key Cryptography Basics/2. Common Use of Asymmetric Encryption.md",
     "THM/Cryptography/Extension Attack",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
