@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/find.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "find"
-            }
-          },
-          {
-            "id": "0b98a6534cb7ad36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Cryptography/Intro to Cryptography/8. Cryptography and Data - Example.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "8. Cryptography and Data - Example"
+              "title": "Resources"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,10 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b98a6534cb7ad36",
+  "active": "14867fe7cf922ab7",
   "lastOpenFiles": [
-    "THM/Cryptography/Intro to Cryptography/7. Authenticating with Passwords.md",
+    "Linux Notes/find.md",
     "THM/Cryptography/Intro to Cryptography/8. Cryptography and Data - Example.md",
+    "THM/Cryptography/Intro to Cryptography/7. Authenticating with Passwords.md",
     "THM/Cryptography/Intro to Cryptography/6. PKI and SSL-TLS.md",
     "THM/Cryptography/Intro to Cryptography/5. Hashing.md",
     "THM/Cryptography/Intro to Cryptography/4. Diffie-Hellman Key Exchange.md",
@@ -264,7 +241,6 @@
     "THM/Linux File System Analysis/2. Users and Groups.md",
     "THM/Linux File System Analysis/2. Files, Permissions, Timestamps.md",
     "THM/Linux File System Analysis/1. Introduction.md",
-    "find -examples.md",
     "THM/Linux File System Analysis",
     "THM/Cryptography/Extension Attack",
     "THM/Cryptography/Cryptography Basics",

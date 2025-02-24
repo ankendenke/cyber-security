@@ -116,3 +116,6 @@ https://github.com/mandatoryprogrammer/xsshunter-express
 
 Named Pipes
 https://www.linuxjournal.com/article/2156
+
+Linux Timestomping:
+https://www.inversecos.com/2022/08/detecting-linux-anti-forensics.html
