@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
+                "file": "THM/Computer Forensics/Windows Forensics 1/2. Windows Registry and Forensics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
-            }
-          },
-          {
-            "id": "14867fe7cf922ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
+              "title": "2. Windows Registry and Forensics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +186,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14867fe7cf922ab7",
+  "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Computer Forensics/Windows Forensics 1/1. Introduction.md",
+    "THM/Computer Forensics/Windows Forensics 1/2. Windows Registry and Forensics.md",
+    "PEH - Practical Ethical Hacking/nikto.md",
+    "THM/Computer Forensics/Windows Forensics 1",
+    "THM/Computer Forensics",
+    "PEH - Practical Ethical Hacking/Nessus part 1.md",
+    "PEH - Practical Ethical Hacking/Reverse Shells vs Bind Shells.md",
+    "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
+    "PEH - Practical Ethical Hacking/Discovering Email Addresses.md",
+    "PEH - Practical Ethical Hacking/Google Fu.md",
+    "PEH - Practical Ethical Hacking/Kioptrix.md",
+    "Cracking SSH Keys with John.md",
+    "CVE.md",
+    "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
+    "THM/SOC Fundamentals/5. Technology.md",
+    "Resources.md",
     "Linux Notes/find.md",
     "THM/Cryptography/Intro to Cryptography/8. Cryptography and Data - Example.md",
     "THM/Cryptography/Intro to Cryptography/7. Authenticating with Passwords.md",
@@ -226,29 +217,13 @@
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening/8. Update and Upgrade Policies.md",
     "THM/Linux System Hardening/7. Software and Services.md",
-    "THM/Linux System Hardening/6. Securing User Accounts.md",
-    "THM/Linux System Hardening/5. Remote Access.md",
-    "THM/Linux System Hardening/4. Firewall.md",
-    "THM/Linux System Hardening/3. Filesystem Partitioning and Encryption.md",
-    "THM/Digital Forensics Fundamentals/4. Windows Forensics.md",
-    "THM/Linux System Hardening/2. Physical Security.md",
-    "THM/Linux System Hardening/1. Introduction.md",
-    "THM/Linux File System Analysis/Conclusion.md",
     "THM/Linux System Hardening",
-    "THM/Linux File System Analysis/5. Rootkits.md",
-    "THM/Linux File System Analysis/4. Binaries and Executables.md",
-    "THM/Linux File System Analysis/3. User Directories and Files.md",
-    "THM/Linux File System Analysis/2. Users and Groups.md",
-    "THM/Linux File System Analysis/2. Files, Permissions, Timestamps.md",
-    "THM/Linux File System Analysis/1. Introduction.md",
     "THM/Linux File System Analysis",
     "THM/Cryptography/Extension Attack",
     "THM/Cryptography/Cryptography Basics",
     "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "THM/Jr Pentester/Net Security/Protocols and Servers",
     "THM/Jr Pentester/Net Security/Nmap Post Port Scans",
-    "THM/Jr Pentester/Net Security/Nmap Advanced Port Scans",
-    "THM/Jr Pentester/Net Security/Nmap Basic Port Scans",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
