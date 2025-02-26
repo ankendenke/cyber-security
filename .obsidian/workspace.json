@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Windows Forensics 1/6. System Information and System Accounts.md",
+                "file": "THM/Computer Forensics/Windows Forensics 1/7. Usage or knowledge of files - folders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. System Information and System Accounts"
+              "title": "7. Usage or knowledge of files - folders"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Windows Forensics 1/5. Exploring Windows Registry.md",
+    "THM/Computer Forensics/Windows Forensics 1/7. Usage or knowledge of files - folders.md",
     "THM/Computer Forensics/Windows Forensics 1/6. System Information and System Accounts.md",
+    "THM/Computer Forensics/Windows Forensics 1/5. Exploring Windows Registry.md",
     "THM/Computer Forensics/Windows Forensics 1/4. Data Acquisition.md",
     "THM/Computer Forensics/Windows Forensics 1/3. Accessing registry hives offline.md",
     "THM/Computer Forensics/Windows Forensics 1/2. Windows Registry and Forensics.md",
@@ -215,7 +216,6 @@
     "THM/Cryptography/Intro to Cryptography/5. Hashing.md",
     "THM/Cryptography/Intro to Cryptography/4. Diffie-Hellman Key Exchange.md",
     "THM/Cryptography/Intro to Cryptography/3. Asymmetric Encryption.md",
-    "THM/Cryptography/Intro to Cryptography/2. Symmetric Encryption.md",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening",
     "THM/Linux File System Analysis",
