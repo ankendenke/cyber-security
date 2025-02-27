@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Windows Forensics 2/2. The FAT file systems.md",
+                "file": "THM/Computer Forensics/Windows Forensics 2/3. The NTFS File System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. The FAT file systems"
+              "title": "3. The NTFS File System"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Windows Forensics 2/1. Introduction.md",
     "THM/Computer Forensics/Windows Forensics 2/2. The FAT file systems.md",
+    "THM/Computer Forensics/Windows Forensics 2/3. The NTFS File System.md",
+    "THM/Computer Forensics/Windows Forensics 2/1. Introduction.md",
     "THM/Computer Forensics/Windows Forensics 1/9. External DevicesUSB device forensics.md",
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
@@ -217,7 +218,6 @@
     "Resources.md",
     "Linux Notes/find.md",
     "THM/Cryptography/Intro to Cryptography/8. Cryptography and Data - Example.md",
-    "THM/Cryptography/Intro to Cryptography/7. Authenticating with Passwords.md",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening",
     "THM/Linux File System Analysis",
