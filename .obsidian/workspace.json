@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
+                "file": "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. Evidence of Execution"
+              "title": "7. External Devices - USB device forensics"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
+    "THM/Computer Forensics/Windows Forensics 2/6. File - folder knowledge.md",
+    "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
     "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
+    "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
     "THM/Computer Forensics/Windows Forensics 2/3. The NTFS File System.md",
     "THM/Computer Forensics/Windows Forensics 2/2. The FAT file systems.md",
     "THM/Computer Forensics/Windows Forensics 2/1. Introduction.md",
@@ -216,8 +218,6 @@
     "Cracking SSH Keys with John.md",
     "CVE.md",
     "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
-    "THM/SOC Fundamentals/5. Technology.md",
-    "Resources.md",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening",
     "THM/Linux File System Analysis",
