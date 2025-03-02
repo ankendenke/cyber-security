@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
+                "file": "THM/Computer Forensics/Windows Forensics 1/8. Evidence of Execution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. External Devices - USB device forensics"
+              "title": "8. Evidence of Execution"
             }
           }
         ]
@@ -188,8 +188,13 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Windows Forensics 2/6. File - folder knowledge.md",
+    "THM/Computer Forensics/Windows Forensics 1/7. Usage or knowledge of files - folders.md",
+    "Windows Notes/Registry.md",
+    "Windows Notes/Registry Editor.md",
+    "Windows Notes/Resource Monitor.md",
+    "Windows Notes/findstr.md",
     "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
+    "THM/Computer Forensics/Windows Forensics 2/6. File - folder knowledge.md",
     "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
     "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
     "THM/Computer Forensics/Windows Forensics 2/3. The NTFS File System.md",
@@ -199,7 +204,6 @@
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
     "THM/Computer Forensics/Windows Forensics 1/8. Evidence of Execution.md",
-    "THM/Computer Forensics/Windows Forensics 1/7. Usage or knowledge of files - folders.md",
     "THM/Computer Forensics/Windows Forensics 1/6. System Information and System Accounts.md",
     "THM/Computer Forensics/Windows Forensics 1/5. Exploring Windows Registry.md",
     "THM/Computer Forensics/Windows Forensics 1/4. Data Acquisition.md",
@@ -214,10 +218,6 @@
     "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
     "PEH - Practical Ethical Hacking/Discovering Email Addresses.md",
     "PEH - Practical Ethical Hacking/Google Fu.md",
-    "PEH - Practical Ethical Hacking/Kioptrix.md",
-    "Cracking SSH Keys with John.md",
-    "CVE.md",
-    "THM/Cryptography/Public Key Cryptography Basics/1. Introduction.md",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening",
     "THM/Linux File System Analysis",
