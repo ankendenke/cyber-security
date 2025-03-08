@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Windows Forensics 1/9. External DevicesUSB device forensics.md",
+                "file": "Miscellaneous.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. External DevicesUSB device forensics"
+              "title": "Miscellaneous"
+            }
+          },
+          {
+            "id": "c175f3d640756f8a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ]
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtube download",
+                "query": "download",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +96,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,6 +201,10 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Windows/Windows Internal/Processes.md",
+    "Resources.md",
+    "Videos.md",
+    "THM/Computer Forensics/Windows Forensics 1/9. External DevicesUSB device forensics.md",
     "THM/Computer Forensics/Windows Forensics 1/8. Evidence of Execution.md",
     "THM/Computer Forensics/Windows Forensics 1/7. Usage or knowledge of files - folders.md",
     "Windows Notes/Registry.md",
@@ -201,7 +218,6 @@
     "THM/Computer Forensics/Windows Forensics 2/3. The NTFS File System.md",
     "THM/Computer Forensics/Windows Forensics 2/2. The FAT file systems.md",
     "THM/Computer Forensics/Windows Forensics 2/1. Introduction.md",
-    "THM/Computer Forensics/Windows Forensics 1/9. External DevicesUSB device forensics.md",
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
     "THM/Computer Forensics/Windows Forensics 1/6. System Information and System Accounts.md",
@@ -215,9 +231,6 @@
     "THM/Computer Forensics",
     "PEH - Practical Ethical Hacking/Nessus part 1.md",
     "PEH - Practical Ethical Hacking/Reverse Shells vs Bind Shells.md",
-    "PEH - Practical Ethical Hacking/Gathering Breached Credentials with Breach-Parse.md",
-    "PEH - Practical Ethical Hacking/Discovering Email Addresses.md",
-    "PEH - Practical Ethical Hacking/Google Fu.md",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening",
     "THM/Linux File System Analysis",
