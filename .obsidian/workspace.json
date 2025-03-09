@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous.md",
+                "file": "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,22 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Miscellaneous"
+              "title": "7. External Devices - USB device forensics"
             }
           },
           {
             "id": "c175f3d640756f8a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/9.Connecting through the Proxy (FoxyProxy).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "9.Connecting through the Proxy (FoxyProxy)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "download",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,8 +211,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb3b619cae7b64d",
+  "active": "c175f3d640756f8a",
   "lastOpenFiles": [
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/8.Introduction to the Burp Proxy.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/9.Connecting through the Proxy (FoxyProxy).md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/7.Options.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/6.Navigation.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/5.The Dashboard.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/4.Installation.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/3.Features of Burp Community.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/2.What is Burp Suite.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/1.Introduction.md",
+    "THM/Jr Pentester/Untitled.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
+    "THM/Jr Pentester/BurpSuite",
+    "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
+    "Miscellaneous.md",
     "THM/Windows/Windows Internal/Processes.md",
     "Resources.md",
     "Videos.md",
@@ -211,32 +237,18 @@
     "Windows Notes/Registry Editor.md",
     "Windows Notes/Resource Monitor.md",
     "Windows Notes/findstr.md",
-    "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
     "THM/Computer Forensics/Windows Forensics 2/6. File - folder knowledge.md",
     "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
     "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
     "THM/Computer Forensics/Windows Forensics 2/3. The NTFS File System.md",
-    "THM/Computer Forensics/Windows Forensics 2/2. The FAT file systems.md",
-    "THM/Computer Forensics/Windows Forensics 2/1. Introduction.md",
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
-    "THM/Computer Forensics/Windows Forensics 1/6. System Information and System Accounts.md",
-    "THM/Computer Forensics/Windows Forensics 1/5. Exploring Windows Registry.md",
-    "THM/Computer Forensics/Windows Forensics 1/4. Data Acquisition.md",
-    "THM/Computer Forensics/Windows Forensics 1/3. Accessing registry hives offline.md",
-    "THM/Computer Forensics/Windows Forensics 1/2. Windows Registry and Forensics.md",
-    "THM/Computer Forensics/Windows Forensics 1/1. Introduction.md",
-    "PEH - Practical Ethical Hacking/nikto.md",
     "THM/Computer Forensics/Windows Forensics 1",
     "THM/Computer Forensics",
-    "PEH - Practical Ethical Hacking/Nessus part 1.md",
-    "PEH - Practical Ethical Hacking/Reverse Shells vs Bind Shells.md",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening",
     "THM/Linux File System Analysis",
     "THM/Cryptography/Extension Attack",
-    "THM/Cryptography/Cryptography Basics",
-    "THM/Jr Pentester/Net Security/Protocols and Servers 2",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
