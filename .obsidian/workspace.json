@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/4. Payloads.md",
+                "file": "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/10. Practical Example.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Payloads"
+              "title": "10. Practical Example"
             }
           }
         ]
@@ -188,8 +188,14 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/9. Cluster Bomb.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/10. Practical Example.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/8. Pitchfork.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/7. Battering Ram.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/6. Sniper.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/5. Introduction to Attack Types.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/4. Payloads.md",
+    "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/3. Positions.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/2. What is Intruder.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/1.Intro.md",
@@ -212,12 +218,6 @@
     "Resources.md",
     "Videos.md",
     "THM/Computer Forensics/Windows Forensics 1/9. External DevicesUSB device forensics.md",
-    "THM/Computer Forensics/Windows Forensics 1/8. Evidence of Execution.md",
-    "THM/Computer Forensics/Windows Forensics 1/7. Usage or knowledge of files - folders.md",
-    "Windows Notes/Registry.md",
-    "Windows Notes/Registry Editor.md",
-    "Windows Notes/Resource Monitor.md",
-    "Windows Notes/findstr.md",
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
     "THM/Computer Forensics/Windows Forensics 1",
