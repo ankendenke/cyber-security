@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
+                "file": "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/4. Payloads.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. External Devices - USB device forensics"
-            }
-          },
-          {
-            "id": "c175f3d640756f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/9.Connecting through the Proxy (FoxyProxy).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "9.Connecting through the Proxy (FoxyProxy)"
+              "title": "4. Payloads"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +186,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/4. Payloads.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/3. Positions.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/2. What is Intruder.md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/1.Intro.md",
+    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/9.Connecting through the Proxy (FoxyProxy).md",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/8.Introduction to the Burp Proxy.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/9.Connecting through the Proxy (FoxyProxy).md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/7.Options.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/6.Navigation.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/5.The Dashboard.md",
@@ -226,7 +207,6 @@
     "THM/Jr Pentester/Untitled.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
     "THM/Jr Pentester/BurpSuite",
-    "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
     "Miscellaneous.md",
     "THM/Windows/Windows Internal/Processes.md",
     "Resources.md",
@@ -238,17 +218,12 @@
     "Windows Notes/Registry Editor.md",
     "Windows Notes/Resource Monitor.md",
     "Windows Notes/findstr.md",
-    "THM/Computer Forensics/Windows Forensics 2/6. File - folder knowledge.md",
-    "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
-    "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
     "THM/Computer Forensics/Windows Forensics 1",
     "THM/Computer Forensics",
     "THM/Cryptography/Intro to Cryptography",
     "THM/Linux System Hardening",
-    "THM/Linux File System Analysis",
-    "THM/Cryptography/Extension Attack",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
