@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/10. Practical Example.md",
+                "file": "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10. Practical Example"
+              "title": "10. Organizer - Overview"
             }
           }
         ]
@@ -188,8 +188,19 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/9. Cluster Bomb.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/9. Sequencer - Analysis.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/7. Sequencer - Overview.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/8. Sequencer - Live Capture.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/6. Comparer - Example.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/5. Comparer - Overview.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/4. Decoder - Hashing.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/3. Decoder- Encoding Decoding.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/2. Decoder Overview.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/1- Introduction.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/10. Practical Example.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
+    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/9. Cluster Bomb.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/8. Pitchfork.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/7. Battering Ram.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/6. Sniper.md",
@@ -206,24 +217,13 @@
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/7.Options.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/6.Navigation.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/5.The Dashboard.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/4.Installation.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/3.Features of Burp Community.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/2.What is Burp Suite.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/1.Introduction.md",
-    "THM/Jr Pentester/Untitled.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
     "THM/Jr Pentester/BurpSuite",
-    "Miscellaneous.md",
-    "THM/Windows/Windows Internal/Processes.md",
-    "Resources.md",
-    "Videos.md",
-    "THM/Computer Forensics/Windows Forensics 1/9. External DevicesUSB device forensics.md",
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
     "THM/Computer Forensics/Windows Forensics 1",
     "THM/Computer Forensics",
     "THM/Cryptography/Intro to Cryptography",
-    "THM/Linux System Hardening",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
