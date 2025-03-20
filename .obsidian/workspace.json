@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Intro to Cold System Forensics/1. Introduction.md",
+                "file": "THM/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "4. Forensic Tools and Techniques"
             }
           }
         ]
@@ -186,10 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb3b619cae7b64d",
+  "active": "8f8fa09d1fe074cf",
   "lastOpenFiles": [
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
+    "THM/Intro to Cold System Forensics/3. Data Acquisition and Preservation.md",
+    "THM/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
+    "THM/Intro to Cold System Forensics/2. Challenges and Opportunities.md",
     "THM/Intro to Cold System Forensics/1. Introduction.md",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
     "THM/Intro to Cold System Forensics",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/9. Sequencer - Analysis.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/7. Sequencer - Overview.md",
@@ -215,9 +218,6 @@
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/9.Connecting through the Proxy (FoxyProxy).md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/8.Introduction to the Burp Proxy.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/7.Options.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/6.Navigation.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
     "THM/Jr Pentester/BurpSuite",
     "THM/Computer Forensics/Windows Forensics 2",
