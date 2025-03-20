@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
+                "file": "THM/Intro to Cold System Forensics/1. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10. Organizer - Overview"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/9. Sequencer - Analysis.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
+    "THM/Intro to Cold System Forensics/1. Introduction.md",
+    "THM/Intro to Cold System Forensics",
+    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/9. Sequencer - Analysis.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/7. Sequencer - Overview.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/8. Sequencer - Live Capture.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/6. Comparer - Example.md",
@@ -216,14 +218,12 @@
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/8.Introduction to the Burp Proxy.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/7.Options.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/6.Navigation.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/5.The Dashboard.md",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
     "THM/Jr Pentester/BurpSuite",
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
     "THM/Computer Forensics/Windows Forensics 1",
     "THM/Computer Forensics",
-    "THM/Cryptography/Intro to Cryptography",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
