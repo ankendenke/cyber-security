@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
+                "file": "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. Evidence of Execution"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
+    "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
+    "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
+    "THM/Computer Forensics/Linux Forensics",
     "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
     "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
     "THM/Computer Forensics/Intro to Cold System Forensics/3. Data Acquisition and Preservation.md",
@@ -214,8 +217,6 @@
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/4. Payloads.md",
     "THM/Computer Forensics/Windows Forensics 2/7. External Devices - USB device forensics.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/3. Positions.md",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/2. What is Intruder.md",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/1.Intro.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
@@ -223,7 +224,6 @@
     "THM/Computer Forensics/Windows Forensics 2",
     "THM/Computer Forensics/Windows Forensics 1/Untitled",
     "THM/Computer Forensics/Windows Forensics 1",
-    "THM/Computer Forensics",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
