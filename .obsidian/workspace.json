@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
+                "file": "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Forensic Tools and Techniques"
+              "title": "5. Evidence of Execution"
             }
           }
         ]
@@ -186,14 +186,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f8fa09d1fe074cf",
+  "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Intro to Cold System Forensics/3. Data Acquisition and Preservation.md",
-    "THM/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
-    "THM/Intro to Cold System Forensics/2. Challenges and Opportunities.md",
-    "THM/Intro to Cold System Forensics/1. Introduction.md",
+    "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
+    "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
+    "THM/Computer Forensics/Intro to Cold System Forensics/3. Data Acquisition and Preservation.md",
+    "THM/Computer Forensics/Intro to Cold System Forensics/2. Challenges and Opportunities.md",
+    "THM/Computer Forensics/Intro to Cold System Forensics/1. Introduction.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
-    "THM/Intro to Cold System Forensics",
+    "THM/Computer Forensics/Intro to Cold System Forensics",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/9. Sequencer - Analysis.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/7. Sequencer - Overview.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/8. Sequencer - Live Capture.md",
@@ -215,7 +216,6 @@
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/3. Positions.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/2. What is Intruder.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/1.Intro.md",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite/9.Connecting through the Proxy (FoxyProxy).md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
