@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Linux Forensics/3. OS and account information.md",
+                "file": "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. OS and account information"
+              "title": "4. System Configuration"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Linux Forensics/2. Linux Forensics.md",
     "THM/Computer Forensics/Linux Forensics/3. OS and account information.md",
+    "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
+    "THM/Computer Forensics/Linux Forensics/2. Linux Forensics.md",
     "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
     "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
     "THM/Computer Forensics/Linux Forensics",
@@ -216,7 +217,6 @@
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/7. Battering Ram.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/6. Sniper.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/5. Introduction to Attack Types.md",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/4. Payloads.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
