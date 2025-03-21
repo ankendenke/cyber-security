@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
+                "file": "THM/Computer Forensics/Linux Forensics/7. Log files.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. Persistence mechanisms"
+              "title": "7. Log files"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
+    "THM/Computer Forensics/Linux Forensics/6. Evidence of Execution.md",
+    "THM/Computer Forensics/Linux Forensics/7. Log files.md",
     "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
+    "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
     "THM/Computer Forensics/Linux Forensics/3. OS and account information.md",
     "THM/Computer Forensics/Linux Forensics/2. Linux Forensics.md",
     "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
@@ -215,8 +217,6 @@
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/9. Cluster Bomb.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/8. Pitchfork.md",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/7. Battering Ram.md",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/6. Sniper.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
