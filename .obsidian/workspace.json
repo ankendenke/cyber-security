@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Forensic Imaging/1. Introduction.md",
+                "file": "THM/Computer Forensics/Forensic Imaging/2. Preparation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "2. Preparation"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Linux Forensics/7. Log files.md",
     "THM/Computer Forensics/Forensic Imaging/1. Introduction.md",
+    "THM/Computer Forensics/Forensic Imaging/2. Preparation.md",
+    "THM/Computer Forensics/Linux Forensics/7. Log files.md",
     "THM/Computer Forensics/Forensic Imaging",
     "THM/Computer Forensics/Linux Forensics/6. Evidence of Execution.md",
     "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
@@ -217,7 +218,6 @@
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/1- Introduction.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/10. Practical Example.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder/9. Cluster Bomb.md",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
