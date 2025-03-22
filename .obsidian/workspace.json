@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Intro to Digital Forensics/1. Introduction.md",
+                "file": "THM/Computer Forensics/Intro to Digital Forensics/4. Other Types of Imaging.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "4. Other Types of Imaging"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "fdb3b619cae7b64d",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Forensic Imaging/2. Preparation.md",
+    "THM/Computer Forensics/Intro to Digital Forensics/3. Integrity Checking.md",
+    "THM/Computer Forensics/Intro to Digital Forensics/4. Other Types of Imaging.md",
+    "THM/Computer Forensics/Intro to Digital Forensics/2. Creating a Forensic Image.md",
     "THM/Computer Forensics/Intro to Digital Forensics/1. Introduction.md",
+    "THM/Computer Forensics/Forensic Imaging/2. Preparation.md",
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Forensic Imaging/1. Introduction.md",
     "THM/Computer Forensics/Linux Forensics/7. Log files.md",
@@ -215,9 +218,6 @@
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/6. Comparer - Example.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/5. Comparer - Overview.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/4. Decoder - Hashing.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/3. Decoder- Encoding Decoding.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/2. Decoder Overview.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/1- Introduction.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
