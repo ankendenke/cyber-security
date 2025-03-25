@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f0b808c1c778843",
+        "id": "1a0d567e3ce968b1",
         "type": "tabs",
         "children": [
           {
-            "id": "fdb3b619cae7b64d",
+            "id": "95ba4e110c0ae3c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Intro to Digital Forensics/4. Other Types of Imaging.md",
+                "file": "THM/Computer Forensics/Intro to Digital Forensics/X. Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Other Types of Imaging"
+              "title": "X. Tasks"
             }
           }
         ]
@@ -186,20 +186,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdb3b619cae7b64d",
+  "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Intro to Digital Forensics/3. Integrity Checking.md",
-    "THM/Computer Forensics/Intro to Digital Forensics/4. Other Types of Imaging.md",
-    "THM/Computer Forensics/Intro to Digital Forensics/2. Creating a Forensic Image.md",
+    "THM/Computer Forensics/Digital Forensics Fundamentals/2. Digital Forensics Methodology.md",
+    "THM/Computer Forensics/Intro to Digital Forensics/X. Tasks.md",
+    "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
+    "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
     "THM/Computer Forensics/Intro to Digital Forensics/1. Introduction.md",
+    "THM/Computer Forensics/Intro to Digital Forensics/4. Other Types of Imaging.md",
+    "THM/Computer Forensics/Forensic Imaging/5. Other Types of Imaging.md",
+    "THM/Computer Forensics/Forensic Imaging/4. Integrity Checking.md",
+    "THM/Computer Forensics/Forensic Imaging/3. Creating a Forensic Image.md",
     "THM/Computer Forensics/Forensic Imaging/2. Preparation.md",
-    "THM/Computer Forensics/Intro to Digital Forensics",
+    "THM/Computer Forensics/Legal Considerations in DFIR",
     "THM/Computer Forensics/Forensic Imaging/1. Introduction.md",
+    "THM/Computer Forensics/Digital Forensics Fundamentals/4. Windows Forensics.md",
+    "THM/Computer Forensics/Digital Forensics Fundamentals/1. Introduction to Digital Forensics.md",
+    "THM/Computer Forensics/Intro to Digital Forensics/2. Creating a Forensic Image.md",
+    "THM/Computer Forensics/Intro to Digital Forensics/3. Integrity Checking.md",
+    "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Linux Forensics/7. Log files.md",
     "THM/Computer Forensics/Forensic Imaging",
     "THM/Computer Forensics/Linux Forensics/6. Evidence of Execution.md",
-    "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
-    "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
     "THM/Computer Forensics/Linux Forensics/3. OS and account information.md",
     "THM/Computer Forensics/Linux Forensics/2. Linux Forensics.md",
     "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
@@ -210,20 +218,12 @@
     "THM/Computer Forensics/Intro to Cold System Forensics/3. Data Acquisition and Preservation.md",
     "THM/Computer Forensics/Intro to Cold System Forensics/2. Challenges and Opportunities.md",
     "THM/Computer Forensics/Intro to Cold System Forensics/1. Introduction.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/10. Organizer - Overview.md",
     "THM/Computer Forensics/Intro to Cold System Forensics",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/9. Sequencer - Analysis.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/7. Sequencer - Overview.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/8. Sequencer - Live Capture.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/6. Comparer - Example.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/5. Comparer - Overview.md",
-    "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules/4. Decoder - Hashing.md",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
     "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
     "THM/Jr Pentester/BurpSuite",
-    "THM/Computer Forensics/Windows Forensics 2",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
