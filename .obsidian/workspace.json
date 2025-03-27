@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Legal Considerations in DFIR/3. Ethical Decision-Making and Legal Compliance.md",
+                "file": "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Ethical Decision-Making and Legal Compliance"
+              "title": "4. Chain of Custody and Court Admissibility"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Legal Considerations in DFIR/2. Incident Detection and Initial Response.md",
+    "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
+    "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/3. Ethical Decision-Making and Legal Compliance.md",
+    "THM/Computer Forensics/Legal Considerations in DFIR/2. Incident Detection and Initial Response.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/1. Introduction.md",
     "THM/Computer Forensics/Digital Forensics Fundamentals/1. Introduction to Digital Forensics.md",
     "THM/Computer Forensics/Digital Forensics Fundamentals/2. Digital Forensics Methodology.md",
@@ -216,8 +218,6 @@
     "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
     "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
     "THM/Computer Forensics/Linux Forensics",
-    "THM/Computer Forensics/Windows Forensics 2/4. Recovering deleted files.md",
-    "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
     "THM/Computer Forensics/Intro to Cold System Forensics",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
