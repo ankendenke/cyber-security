@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
+                "file": "Burpsuite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Chain of Custody and Court Admissibility"
+              "title": "Burpsuite"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
+    "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/3. Ethical Decision-Making and Legal Compliance.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/2. Incident Detection and Initial Response.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/1. Introduction.md",
