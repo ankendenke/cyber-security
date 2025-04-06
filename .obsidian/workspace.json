@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Burpsuite.md",
+                "file": "Linux Notes/tee.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Burpsuite"
+              "title": "tee"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
+    "Linux Notes/curl.md",
+    "Burpsuite.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
     "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/3. Ethical Decision-Making and Legal Compliance.md",
@@ -215,8 +217,6 @@
     "THM/Computer Forensics/Linux Forensics/6. Evidence of Execution.md",
     "THM/Computer Forensics/Linux Forensics/3. OS and account information.md",
     "THM/Computer Forensics/Linux Forensics/2. Linux Forensics.md",
-    "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
-    "THM/Computer Forensics/Windows Forensics 2/5. Evidence of Execution.md",
     "THM/Computer Forensics/Linux Forensics",
     "THM/Computer Forensics/Intro to Cold System Forensics",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
