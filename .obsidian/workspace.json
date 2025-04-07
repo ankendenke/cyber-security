@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/tee.md",
+                "file": "THM/Web Application Pentest/Authentication/Enum Brute Force/2. Authentication Enumeration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tee"
+              "title": "2. Authentication Enumeration"
             }
           }
         ]
@@ -188,6 +188,12 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/1. Introduction.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/2. Authentication Enumeration.md",
+    "Linux Notes/tee.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force",
+    "THM/Web Application Pentest/Authentication",
+    "THM/Web Application Pentest",
     "Linux Notes/curl.md",
     "Burpsuite.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
@@ -214,16 +220,10 @@
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Linux Forensics/7. Log files.md",
     "THM/Computer Forensics/Forensic Imaging",
-    "THM/Computer Forensics/Linux Forensics/6. Evidence of Execution.md",
-    "THM/Computer Forensics/Linux Forensics/3. OS and account information.md",
-    "THM/Computer Forensics/Linux Forensics/2. Linux Forensics.md",
     "THM/Computer Forensics/Linux Forensics",
     "THM/Computer Forensics/Intro to Cold System Forensics",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
     "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Repeater",
-    "THM/Jr Pentester/BurpSuite/Intro to Burpsuite",
-    "THM/Jr Pentester/BurpSuite",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
