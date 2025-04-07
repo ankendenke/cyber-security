@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Authentication/Enum Brute Force/3. Enumerating Users via Verbose Errors.md",
+                "file": "THM/Web Application Pentest/Authentication/Enum Brute Force/5. Exploiting HTTP Basic Authentication.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Enumerating Users via Verbose Errors"
+              "title": "5. Exploiting HTTP Basic Authentication"
             }
           }
         ]
@@ -188,10 +188,13 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/2. Authentication Enumeration.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/4. Exploiting Vulnerable Password Reset Logic.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/5. Exploiting HTTP Basic Authentication.md",
     "THM/Web Application Pentest/Authentication/Enum Brute Force/3. Enumerating Users via Verbose Errors.md",
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/1. Introduction.md",
     "Linux Notes/tee.md",
+    "Linux Notes/tee - other usage.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/2. Authentication Enumeration.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/1. Introduction.md",
     "THM/Web Application Pentest/Authentication/Enum Brute Force",
     "THM/Web Application Pentest/Authentication",
     "THM/Web Application Pentest",
@@ -215,9 +218,6 @@
     "THM/Computer Forensics/Forensic Imaging/2. Preparation.md",
     "THM/Computer Forensics/Legal Considerations in DFIR",
     "THM/Computer Forensics/Forensic Imaging/1. Introduction.md",
-    "THM/Computer Forensics/Digital Forensics Fundamentals/4. Windows Forensics.md",
-    "THM/Computer Forensics/Intro to Digital Forensics/2. Creating a Forensic Image.md",
-    "THM/Computer Forensics/Intro to Digital Forensics/3. Integrity Checking.md",
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Forensic Imaging",
     "THM/Computer Forensics/Linux Forensics",
