@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Authentication/Enum Brute Force/5. Exploiting HTTP Basic Authentication.md",
+                "file": "THM/Web Application Pentest/Authentication/Session Management/5. Securing the Session Lifecycle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. Exploiting HTTP Basic Authentication"
+              "title": "5. Securing the Session Lifecycle"
             }
           }
         ]
@@ -188,8 +188,15 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/4. Exploiting Vulnerable Password Reset Logic.md",
+    "THM/Web Application Pentest/Authentication/Session Management/3. Authentication vs Authorization.md",
+    "THM/Web Application Pentest/Authentication/Session Management/5. Securing the Session Lifecycle.md",
+    "THM/Web Application Pentest/Authentication/Session Management/2. What is Session Management.md",
+    "THM/Web Application Pentest/Authentication/Session Management/4. Cookies vs Tokens.md",
+    "THM/Web Application Pentest/Authentication/Session Management/1. Introduction.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/6. OSINT.md",
+    "THM/Web Application Pentest/Authentication/Session Management",
     "THM/Web Application Pentest/Authentication/Enum Brute Force/5. Exploiting HTTP Basic Authentication.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/4. Exploiting Vulnerable Password Reset Logic.md",
     "THM/Web Application Pentest/Authentication/Enum Brute Force/3. Enumerating Users via Verbose Errors.md",
     "Linux Notes/tee.md",
     "Linux Notes/tee - other usage.md",
@@ -211,19 +218,12 @@
     "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
     "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
     "THM/Computer Forensics/Intro to Digital Forensics/1. Introduction.md",
-    "THM/Computer Forensics/Intro to Digital Forensics/4. Other Types of Imaging.md",
-    "THM/Computer Forensics/Forensic Imaging/5. Other Types of Imaging.md",
-    "THM/Computer Forensics/Forensic Imaging/4. Integrity Checking.md",
-    "THM/Computer Forensics/Forensic Imaging/3. Creating a Forensic Image.md",
-    "THM/Computer Forensics/Forensic Imaging/2. Preparation.md",
     "THM/Computer Forensics/Legal Considerations in DFIR",
-    "THM/Computer Forensics/Forensic Imaging/1. Introduction.md",
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Forensic Imaging",
     "THM/Computer Forensics/Linux Forensics",
     "THM/Computer Forensics/Intro to Cold System Forensics",
     "THM/Jr Pentester/BurpSuite/Burp Suite - Other Modules",
-    "THM/Jr Pentester/BurpSuite/BurpSuite Intruder",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
