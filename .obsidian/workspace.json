@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Authentication/Enum Brute Force/2. Authentication Enumeration.md",
+                "file": "THM/Web Application Pentest/Authentication/Enum Brute Force/3. Enumerating Users via Verbose Errors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Authentication Enumeration"
+              "title": "3. Enumerating Users via Verbose Errors"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/1. Introduction.md",
     "THM/Web Application Pentest/Authentication/Enum Brute Force/2. Authentication Enumeration.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/3. Enumerating Users via Verbose Errors.md",
+    "THM/Web Application Pentest/Authentication/Enum Brute Force/1. Introduction.md",
     "Linux Notes/tee.md",
     "THM/Web Application Pentest/Authentication/Enum Brute Force",
     "THM/Web Application Pentest/Authentication",
@@ -218,7 +219,6 @@
     "THM/Computer Forensics/Intro to Digital Forensics/2. Creating a Forensic Image.md",
     "THM/Computer Forensics/Intro to Digital Forensics/3. Integrity Checking.md",
     "THM/Computer Forensics/Intro to Digital Forensics",
-    "THM/Computer Forensics/Linux Forensics/7. Log files.md",
     "THM/Computer Forensics/Forensic Imaging",
     "THM/Computer Forensics/Linux Forensics",
     "THM/Computer Forensics/Intro to Cold System Forensics",
