@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Authentication/JWT Security/3. JSON Web Tokens.md",
+                "file": "THM/Web Application Pentest/Authentication/JWT Security/4. Sensitive Information Disclosure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. JSON Web Tokens"
+              "title": "4. Sensitive Information Disclosure"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Authentication/JWT Security/2. Token-Based Authentication.md",
     "THM/Web Application Pentest/Authentication/JWT Security/3. JSON Web Tokens.md",
+    "THM/Web Application Pentest/Authentication/JWT Security/4. Sensitive Information Disclosure.md",
+    "THM/Web Application Pentest/Authentication/JWT Security/2. Token-Based Authentication.md",
     "THM/Web Application Pentest/Authentication/JWT Security/1. Introduction.md",
     "Resources.md",
     "THM/Web Application Pentest/Authentication/JWT Security",
@@ -218,7 +219,6 @@
     "THM/Computer Forensics/Legal Considerations in DFIR/2. Incident Detection and Initial Response.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/1. Introduction.md",
     "THM/Computer Forensics/Digital Forensics Fundamentals/1. Introduction to Digital Forensics.md",
-    "THM/Computer Forensics/Digital Forensics Fundamentals/2. Digital Forensics Methodology.md",
     "THM/Computer Forensics/Legal Considerations in DFIR",
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Forensic Imaging",
