@@ -119,3 +119,6 @@ https://www.linuxjournal.com/article/2156
 
 Linux Timestomping:
 https://www.inversecos.com/2022/08/detecting-linux-anti-forensics.html
+
+File Signature
+https://en.wikipedia.org/wiki/List_of_file_signatures
