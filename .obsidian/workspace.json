@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
+                "file": "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.1 Gobuster Modes"
+              "title": "3.2 Useful Wordlists"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
     "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
+    "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
+    "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
     "THM/Web Application Pentest/Web Enumeration/2. Manual Enumeration.md",
     "THM/Web Application Pentest/Web Enumeration/1. Introduction.md",
     "THM/Web Application Pentest/Authentication/JWT Security/5. Signature Validation Mistakes.md",
@@ -219,7 +220,6 @@
     "THM/Web Application Pentest",
     "Linux Notes/curl.md",
     "Burpsuite.md",
-    "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
     "THM/Computer Forensics/Legal Considerations in DFIR",
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Forensic Imaging",
