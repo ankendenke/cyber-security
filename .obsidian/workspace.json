@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
+                "file": "THM/Web Application Pentest/Web Enumeration/5.1  Nikto Modes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.2 Useful Wordlists"
+              "title": "5.1  Nikto Modes"
             }
           }
         ]
@@ -188,8 +188,12 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
+    "THM/Web Application Pentest/Web Enumeration/5. Introduction to Nikto.md",
+    "THM/Web Application Pentest/Web Enumeration/5.1  Nikto Modes.md",
+    "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
+    "THM/Web Application Pentest/Web Enumeration/4. Introduction to WPScan.md",
     "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
+    "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
     "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
     "THM/Web Application Pentest/Web Enumeration/2. Manual Enumeration.md",
     "THM/Web Application Pentest/Web Enumeration/1. Introduction.md",
@@ -213,13 +217,9 @@
     "THM/Web Application Pentest/Authentication/Enum Brute Force/3. Enumerating Users via Verbose Errors.md",
     "Linux Notes/tee.md",
     "Linux Notes/tee - other usage.md",
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/2. Authentication Enumeration.md",
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/1. Introduction.md",
     "THM/Web Application Pentest/Authentication/Enum Brute Force",
     "THM/Web Application Pentest/Authentication",
     "THM/Web Application Pentest",
-    "Linux Notes/curl.md",
-    "Burpsuite.md",
     "THM/Computer Forensics/Legal Considerations in DFIR",
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Forensic Imaging",
