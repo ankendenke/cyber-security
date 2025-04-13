@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Authentication/JWT Security/5. Signature Validation Mistakes.md",
+                "file": "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. Signature Validation Mistakes"
+              "title": "3.1 Gobuster Modes"
             }
           }
         ]
@@ -188,8 +188,13 @@
   },
   "active": "95ba4e110c0ae3c0",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Authentication/JWT Security/4. Sensitive Information Disclosure.md",
+    "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
+    "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
+    "THM/Web Application Pentest/Web Enumeration/2. Manual Enumeration.md",
+    "THM/Web Application Pentest/Web Enumeration/1. Introduction.md",
     "THM/Web Application Pentest/Authentication/JWT Security/5. Signature Validation Mistakes.md",
+    "THM/Web Application Pentest/Web Enumeration",
+    "THM/Web Application Pentest/Authentication/JWT Security/4. Sensitive Information Disclosure.md",
     "THM/Web Application Pentest/Authentication/JWT Security/3. JSON Web Tokens.md",
     "THM/Web Application Pentest/Authentication/JWT Security/2. Token-Based Authentication.md",
     "THM/Web Application Pentest/Authentication/JWT Security/1. Introduction.md",
@@ -215,15 +220,10 @@
     "Linux Notes/curl.md",
     "Burpsuite.md",
     "THM/Computer Forensics/Legal Considerations in DFIR/4. Chain of Custody and Court Admissibility.md",
-    "THM/Computer Forensics/Intro to Cold System Forensics/4. Forensic Tools and Techniques.md",
-    "THM/Computer Forensics/Legal Considerations in DFIR/3. Ethical Decision-Making and Legal Compliance.md",
-    "THM/Computer Forensics/Legal Considerations in DFIR/2. Incident Detection and Initial Response.md",
-    "THM/Computer Forensics/Legal Considerations in DFIR/1. Introduction.md",
     "THM/Computer Forensics/Legal Considerations in DFIR",
     "THM/Computer Forensics/Intro to Digital Forensics",
     "THM/Computer Forensics/Forensic Imaging",
     "THM/Computer Forensics/Linux Forensics",
-    "THM/Computer Forensics/Intro to Cold System Forensics",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
