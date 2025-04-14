@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0d567e3ce968b1",
+        "id": "5c6e6a044b9ec19e",
         "type": "tabs",
         "children": [
           {
-            "id": "95ba4e110c0ae3c0",
+            "id": "eac2eb4661ca9372",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THM/Web Application Pentest/Web Enumeration/5.1  Nikto Modes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5.1  Nikto Modes"
+              "title": "New tab"
             }
           }
         ]
@@ -186,10 +172,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95ba4e110c0ae3c0",
+  "active": "eac2eb4661ca9372",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Web Enumeration/5. Introduction to Nikto.md",
+    "Linux Logs.md",
+    "THM/Computer Forensics/Linux Forensics/7. Log files.md",
+    "THM/Computer Forensics/Linux Forensics/6. Evidence of Execution.md",
+    "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
+    "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
+    "THM/Computer Forensics/Linux Forensics/3. OS and account information.md",
+    "THM/Computer Forensics/Linux Forensics/2. Linux Forensics.md",
+    "THM/Computer Forensics/Linux Forensics/1. Introduction.md",
+    "THM/Security Solutions/Vulnerability Scanner Overview/4. CVE & CVSS.md",
+    "THM/Linux File System Analysis/6. Conclusion.md",
     "THM/Web Application Pentest/Web Enumeration/5.1  Nikto Modes.md",
+    "THM/Web Application Pentest/Web Enumeration/5. Introduction to Nikto.md",
     "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
     "THM/Web Application Pentest/Web Enumeration/4. Introduction to WPScan.md",
     "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
@@ -206,17 +202,7 @@
     "Resources.md",
     "THM/Web Application Pentest/Authentication/JWT Security",
     "THM/Web Application Pentest/Authentication/Session Management/5. Securing the Session Lifecycle.md",
-    "THM/Web Application Pentest/Authentication/Session Management/3. Authentication vs Authorization.md",
-    "THM/Web Application Pentest/Authentication/Session Management/2. What is Session Management.md",
-    "THM/Web Application Pentest/Authentication/Session Management/4. Cookies vs Tokens.md",
-    "THM/Web Application Pentest/Authentication/Session Management/1. Introduction.md",
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/6. OSINT.md",
     "THM/Web Application Pentest/Authentication/Session Management",
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/5. Exploiting HTTP Basic Authentication.md",
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/4. Exploiting Vulnerable Password Reset Logic.md",
-    "THM/Web Application Pentest/Authentication/Enum Brute Force/3. Enumerating Users via Verbose Errors.md",
-    "Linux Notes/tee.md",
-    "Linux Notes/tee - other usage.md",
     "THM/Web Application Pentest/Authentication/Enum Brute Force",
     "THM/Web Application Pentest/Authentication",
     "THM/Web Application Pentest",
