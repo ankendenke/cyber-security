@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/XDR - Introduction/8. Lab - Creating Custom Unified RBAC Roles.md",
+                "file": "THM/Security Solutions/Windows Event Logs/1. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8. Lab - Creating Custom Unified RBAC Roles"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "2145c603394ee28c",
   "lastOpenFiles": [
-    "THM/Security Solutions/XDR - Introduction/7. Lab - Navigating Defender XDR Portal.md",
     "THM/Security Solutions/XDR - Introduction/8. Lab - Creating Custom Unified RBAC Roles.md",
+    "THM/Security Solutions/Windows Event Logs/1. Introduction.md",
+    "THM/Security Solutions/Windows Event Logs",
+    "THM/Security Solutions/XDR - Introduction/7. Lab - Navigating Defender XDR Portal.md",
     "THM/Security Solutions/XDR - Introduction/6. Microsoft Defender XDR Unified Role Based Access Control (RBAC).md",
     "THM/Security Solutions/XDR - Introduction/5. Microsoft Defender XDR Roles and Permissions.md",
     "THM/Security Solutions/XDR - Introduction/4. Microsoft Defender XDR Settings.md",
@@ -215,7 +217,6 @@
     "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
     "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
     "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
-    "THM/Web Application Pentest/Web Enumeration/2. Manual Enumeration.md",
     "THM/Web Application Pentest/Web Enumeration",
     "THM/Web Application Pentest/Authentication/JWT Security",
     "THM/Web Application Pentest/Authentication/Session Management",
@@ -223,7 +224,6 @@
     "THM/Web Application Pentest/Authentication",
     "THM/Web Application Pentest",
     "THM/Computer Forensics/Legal Considerations in DFIR",
-    "THM/Computer Forensics/Intro to Digital Forensics",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
