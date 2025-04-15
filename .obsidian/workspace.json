@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6e6a044b9ec19e",
+        "id": "ecd254b9c5ae6d89",
         "type": "tabs",
         "children": [
           {
-            "id": "eac2eb4661ca9372",
+            "id": "2145c603394ee28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/XDR - Introduction/3. Microsoft Defender XDR Architecture.md",
+                "file": "THM/Security Solutions/XDR - Introduction/5. Microsoft Defender XDR Roles and Permissions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Microsoft Defender XDR Architecture"
+              "title": "5. Microsoft Defender XDR Roles and Permissions"
             }
           }
         ]
@@ -186,10 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eac2eb4661ca9372",
+  "active": "2145c603394ee28c",
   "lastOpenFiles": [
-    "THM/Security Solutions/XDR - Introduction/2. What is Microsoft Defender XDR.md",
+    "THM/Security Solutions/XDR - Introduction/4. Microsoft Defender XDR Settings.md",
+    "THM/Security Solutions/XDR - Introduction/5. Microsoft Defender XDR Roles and Permissions.md",
     "THM/Security Solutions/XDR - Introduction/3. Microsoft Defender XDR Architecture.md",
+    "THM/Security Solutions/XDR - Introduction/Untitled",
+    "THM/Security Solutions/XDR - Introduction/2. What is Microsoft Defender XDR.md",
     "THM/Security Solutions/XDR - Introduction/1. Introduction.md",
     "THM/Security Solutions/XDR - Introduction",
     "Linux Logs.md",
@@ -214,8 +217,6 @@
     "THM/Web Application Pentest/Authentication/JWT Security/5. Signature Validation Mistakes.md",
     "THM/Web Application Pentest/Web Enumeration",
     "THM/Web Application Pentest/Authentication/JWT Security/4. Sensitive Information Disclosure.md",
-    "THM/Web Application Pentest/Authentication/JWT Security/3. JSON Web Tokens.md",
-    "THM/Web Application Pentest/Authentication/JWT Security/2. Token-Based Authentication.md",
     "THM/Web Application Pentest/Authentication/JWT Security",
     "THM/Web Application Pentest/Authentication/Session Management",
     "THM/Web Application Pentest/Authentication/Enum Brute Force",
@@ -223,7 +224,6 @@
     "THM/Web Application Pentest",
     "THM/Computer Forensics/Legal Considerations in DFIR",
     "THM/Computer Forensics/Intro to Digital Forensics",
-    "THM/Computer Forensics/Forensic Imaging",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
