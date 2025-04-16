@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/Windows Event Logs/4. Get-WinEvent.md",
+                "file": "THM/Security Solutions/Windows Event Logs/6. Event IDs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Get-WinEvent"
+              "title": "6. Event IDs"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "2145c603394ee28c",
   "lastOpenFiles": [
-    "THM/Security Solutions/Windows Event Logs/3. wevtutil.exe.md",
+    "THM/Security Solutions/Windows Event Logs/5. XPath Queries.md",
+    "THM/Security Solutions/Windows Event Logs/6. Event IDs.md",
     "THM/Security Solutions/Windows Event Logs/4. Get-WinEvent.md",
+    "THM/Security Solutions/Windows Event Logs/3. wevtutil.exe.md",
     "THM/Security Solutions/Windows Event Logs/2. Event Viewer.md",
     "THM/Security Solutions/Windows Event Logs/1. Introduction.md",
     "Resources.md",
@@ -215,8 +217,6 @@
     "THM/Security Solutions/Vulnerability Scanner Overview/4. CVE & CVSS.md",
     "THM/Linux File System Analysis/6. Conclusion.md",
     "THM/Web Application Pentest/Web Enumeration/5.1  Nikto Modes.md",
-    "THM/Web Application Pentest/Web Enumeration/5. Introduction to Nikto.md",
-    "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
     "THM/Web Application Pentest/Web Enumeration",
     "THM/Web Application Pentest/Authentication/JWT Security",
     "THM/Web Application Pentest/Authentication/Session Management",
