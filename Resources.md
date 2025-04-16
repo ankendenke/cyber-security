@@ -122,3 +122,9 @@ https://www.inversecos.com/2022/08/detecting-linux-anti-forensics.html
 
 File Signature
 https://en.wikipedia.org/wiki/List_of_file_signatures
+
+Powershell
+https://devblogs.microsoft.com/powershell/powershell-the-blue-team/
+
+Eric Zimmerman's Tools for Advanced Registry Analysis/Work
+https://ericzimmerman.github.io/#!index.md

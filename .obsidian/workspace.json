@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/Windows Event Logs/1. Introduction.md",
+                "file": "THM/Security Solutions/Windows Event Logs/2. Event Viewer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "2. Event Viewer"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "2145c603394ee28c",
   "lastOpenFiles": [
-    "THM/Security Solutions/XDR - Introduction/8. Lab - Creating Custom Unified RBAC Roles.md",
     "THM/Security Solutions/Windows Event Logs/1. Introduction.md",
+    "THM/Security Solutions/Windows Event Logs/2. Event Viewer.md",
+    "Resources.md",
+    "THM/Security Solutions/XDR - Introduction/8. Lab - Creating Custom Unified RBAC Roles.md",
     "THM/Security Solutions/Windows Event Logs",
     "THM/Security Solutions/XDR - Introduction/7. Lab - Navigating Defender XDR Portal.md",
     "THM/Security Solutions/XDR - Introduction/6. Microsoft Defender XDR Unified Role Based Access Control (RBAC).md",
@@ -215,8 +217,6 @@
     "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
     "THM/Web Application Pentest/Web Enumeration/4. Introduction to WPScan.md",
     "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
-    "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
-    "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
     "THM/Web Application Pentest/Web Enumeration",
     "THM/Web Application Pentest/Authentication/JWT Security",
     "THM/Web Application Pentest/Authentication/Session Management",
