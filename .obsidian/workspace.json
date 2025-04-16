@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/Linux Logs Investigations/6. Leveraging Auditd for Security.md",
+                "file": "THM/Security Solutions/Linux Logs Investigations/8. Analysing Application Logs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Leveraging Auditd for Security"
+              "title": "8. Analysing Application Logs"
             }
           }
         ]
@@ -188,8 +188,10 @@
   },
   "active": "2145c603394ee28c",
   "lastOpenFiles": [
+    "THM/Security Solutions/Linux Logs Investigations/7. Leveraging Auditd for Security.md",
+    "THM/Security Solutions/Linux Logs Investigations/8. Analysing Application Logs.md",
+    "THM/Security Solutions/Linux Logs Investigations/6. Examining Auth Logs.md",
     "THM/Security Solutions/Linux Logs Investigations/5. Journalctl.md",
-    "THM/Security Solutions/Linux Logs Investigations/6. Leveraging Auditd for Security.md",
     "THM/Security Solutions/Linux Logs Investigations/4. User Logging With Syslog.md",
     "THM/Security Solutions/Linux Logs Investigations/3. Exploring the  var - log Directory.md",
     "THM/Security Solutions/Linux Logs Investigations/2. Logging Levels and Kernel Logs.md",
@@ -216,8 +218,6 @@
     "Linux Logs.md",
     "THM/Computer Forensics/Linux Forensics/7. Log files.md",
     "THM/Computer Forensics/Linux Forensics/6. Evidence of Execution.md",
-    "THM/Computer Forensics/Linux Forensics/5. Persistence mechanisms.md",
-    "THM/Computer Forensics/Linux Forensics/4. System Configuration.md",
     "THM/Web Application Pentest/Web Enumeration",
     "THM/Web Application Pentest/Authentication/JWT Security",
     "THM/Web Application Pentest/Authentication/Session Management",
