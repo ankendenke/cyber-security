@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux/Linux Process Analysis/2. Investigation Setup.md",
+                "file": "THM/Linux/Linux Process Analysis/3. Processes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Investigation Setup"
+              "title": "3. Processes"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "693c76c8b594fa24",
   "lastOpenFiles": [
-    "THM/Linux/Linux Process Analysis/1. Introduction.md",
     "THM/Linux/Linux Process Analysis/2. Investigation Setup.md",
+    "THM/Linux/Linux Process Analysis/3. Processes.md",
+    "THM/Linux/Linux Process Analysis/1. Introduction.md",
     "THM/Windows/Core Windows Processes/11. explorer.exe.md",
     "THM/Linux/Linux Process Analysis",
     "THM/Linux",
@@ -217,7 +218,6 @@
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs/5. XPath Queries.md",
     "THM/Security Solutions/Windows Event Logs/4. Get-WinEvent.md",
-    "THM/Security Solutions/Windows Event Logs/3. wevtutil.exe.md",
     "THM/Security Solutions/Windows Event Logs",
     "THM/Security Solutions/XDR - Introduction/Untitled",
     "THM/Security Solutions/XDR - Introduction",
