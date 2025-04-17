@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/Linux Logs Investigations/4. User Logging With Syslog.md",
+                "file": "THM/Security Solutions/Linux Logs Investigations/7. Leveraging Auditd for Security.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. User Logging With Syslog"
+              "title": "7. Leveraging Auditd for Security"
             }
           }
         ]
@@ -188,14 +188,14 @@
   },
   "active": "2145c603394ee28c",
   "lastOpenFiles": [
+    "THM/Security Solutions/Linux Logs Investigations/6. Examining Auth Logs.md",
+    "THM/Security Solutions/Linux Logs Investigations/5. Journalctl.md",
+    "THM/Security Solutions/Linux Logs Investigations/4. User Logging With Syslog.md",
     "THM/Security Solutions/Linux Logs Investigations/3. Exploring the  var - log Directory.md",
     "THM/Security Solutions/Linux Logs Investigations/2. Logging Levels and Kernel Logs.md",
     "THM/Security Solutions/Linux Logs Investigations/1. Introduction.md",
     "THM/Security Solutions/Linux Logs Investigations/8. Analysing Application Logs.md",
     "THM/Security Solutions/Linux Logs Investigations/7. Leveraging Auditd for Security.md",
-    "THM/Security Solutions/Linux Logs Investigations/6. Examining Auth Logs.md",
-    "THM/Security Solutions/Linux Logs Investigations/5. Journalctl.md",
-    "THM/Security Solutions/Linux Logs Investigations/4. User Logging With Syslog.md",
     "THM/Security Solutions/Windows Event Logs/6. Event IDs.md",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs/5. XPath Queries.md",
