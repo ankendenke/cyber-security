@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14905226634cc91c",
+        "id": "9047ffda933d816d",
         "type": "tabs",
         "children": [
           {
-            "id": "693c76c8b594fa24",
+            "id": "58bd86fcfd1550ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux/Linux Process Analysis/7. Application Artefacts.md",
+                "file": "THM/Offensive Sec Tools/Cyber Kill Chain/8. Actions on Objectives (Exfiltration).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Application Artefacts"
+              "title": "8. Actions on Objectives (Exfiltration)"
             }
           }
         ]
@@ -186,10 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "693c76c8b594fa24",
+  "active": "58bd86fcfd1550ef",
   "lastOpenFiles": [
-    "THM/Linux/Linux Process Analysis/6. Autostart Scripts.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/7. Command & Control.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/8. Actions on Objectives (Exfiltration).md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/6. Installation.md",
+    "THM/Offensive Sec Tools/Untitled.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/1.Introduction.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/5. Exploitation.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/4. Delivery.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/3. Weaponization.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/2. Reconnaissance.md",
     "THM/Linux/Linux Process Analysis/7. Application Artefacts.md",
+    "THM/Offensive Sec Tools/Cyber Kill Chain",
+    "THM/Linux/Linux Process Analysis/6. Autostart Scripts.md",
     "THM/Linux/Linux Process Analysis/5. Services.md",
     "THM/Linux/Linux Process Analysis/4. Cronjobs.md",
     "THM/Linux/Linux Process Analysis/3. Processes.md",
@@ -207,23 +217,13 @@
     "THM/Windows/Core Windows Processes/4. System - smss.exe.md",
     "THM/Windows/Core Windows Processes/3. System.md",
     "THM/Windows/Core Windows Processes/2. Task Manager.md",
-    "THM/Windows/Core Windows Processes/1. Introduction.md",
-    "THM/Security Solutions/Windows Event Logs/1. Introduction.md",
     "THM/Windows/Core Windows Processes",
-    "THM/Security Solutions/Linux Logs Investigations/8. Analysing Application Logs.md",
-    "THM/Security Solutions/Linux Logs Investigations/7. Leveraging auditd for Security.md",
-    "THM/Security Solutions/Linux Logs Investigations/6. Examining Auth Logs.md",
-    "THM/Security Solutions/Linux Logs Investigations/5. Journalctl.md",
-    "THM/Security Solutions/Linux Logs Investigations/4. User Logging With Syslog.md",
-    "THM/Security Solutions/Linux Logs Investigations/3. Exploring the  var - log Directory.md",
-    "THM/Security Solutions/Linux Logs Investigations/2. Logging Levels and Kernel Logs.md",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs",
     "THM/Security Solutions/XDR - Introduction/Untitled",
     "THM/Security Solutions/XDR - Introduction",
     "THM/Web Application Pentest/Web Enumeration",
     "THM/Web Application Pentest/Authentication/JWT Security",
-    "THM/Web Application Pentest/Authentication/Session Management",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
