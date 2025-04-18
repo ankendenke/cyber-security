@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux/Linux Process Analysis/6. Autostart Scripts.md",
+                "file": "THM/Linux/Linux Process Analysis/7. Application Artefacts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Autostart Scripts"
+              "title": "7. Application Artefacts"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "693c76c8b594fa24",
   "lastOpenFiles": [
-    "THM/Linux/Linux Process Analysis/5. Services.md",
     "THM/Linux/Linux Process Analysis/6. Autostart Scripts.md",
+    "THM/Linux/Linux Process Analysis/7. Application Artefacts.md",
+    "THM/Linux/Linux Process Analysis/5. Services.md",
     "THM/Linux/Linux Process Analysis/4. Cronjobs.md",
     "THM/Linux/Linux Process Analysis/3. Processes.md",
     "THM/Linux/Linux Process Analysis/2. Investigation Setup.md",
@@ -216,7 +217,6 @@
     "THM/Security Solutions/Linux Logs Investigations/4. User Logging With Syslog.md",
     "THM/Security Solutions/Linux Logs Investigations/3. Exploring the  var - log Directory.md",
     "THM/Security Solutions/Linux Logs Investigations/2. Logging Levels and Kernel Logs.md",
-    "THM/Security Solutions/Linux Logs Investigations/1. Introduction.md",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs",
     "THM/Security Solutions/XDR - Introduction/Untitled",
