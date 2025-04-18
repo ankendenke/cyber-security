@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Offensive Sec Tools/Cyber Kill Chain/8. Actions on Objectives (Exfiltration).md",
+                "file": "THM/Windows/Hacking with PowerShell/3. Basic Powershell Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8. Actions on Objectives (Exfiltration)"
+              "title": "3. Basic Powershell Commands"
             }
           }
         ]
@@ -188,8 +188,14 @@
   },
   "active": "58bd86fcfd1550ef",
   "lastOpenFiles": [
-    "THM/Offensive Sec Tools/Cyber Kill Chain/7. Command & Control.md",
+    "THM/Windows/Hacking with PowerShell/2. What is Powershell.md",
+    "THM/Windows/Hacking with PowerShell/3. Basic Powershell Commands.md",
+    "THM/Windows/Hacking with PowerShell/1. Introduction.md",
+    "THM/Windows/Windows Local Persistence/1. Introduction.md",
+    "THM/Windows/Hacking with PowerShell",
     "THM/Offensive Sec Tools/Cyber Kill Chain/8. Actions on Objectives (Exfiltration).md",
+    "THM/Windows/Windows Local Persistence",
+    "THM/Offensive Sec Tools/Cyber Kill Chain/7. Command & Control.md",
     "THM/Offensive Sec Tools/Cyber Kill Chain/6. Installation.md",
     "THM/Offensive Sec Tools/Untitled.md",
     "THM/Offensive Sec Tools/Cyber Kill Chain/1.Introduction.md",
@@ -213,17 +219,11 @@
     "THM/Windows/Core Windows Processes/8. wininit.exe - services.exe - svchost.exe.md",
     "THM/Windows/Core Windows Processes/7. wininit.exe - services.exe.md",
     "THM/Windows/Core Windows Processes/6. wininit.exe.md",
-    "THM/Windows/Core Windows Processes/5. csrss.exe.md",
-    "THM/Windows/Core Windows Processes/4. System - smss.exe.md",
-    "THM/Windows/Core Windows Processes/3. System.md",
-    "THM/Windows/Core Windows Processes/2. Task Manager.md",
     "THM/Windows/Core Windows Processes",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs",
     "THM/Security Solutions/XDR - Introduction/Untitled",
     "THM/Security Solutions/XDR - Introduction",
-    "THM/Web Application Pentest/Web Enumeration",
-    "THM/Web Application Pentest/Authentication/JWT Security",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
