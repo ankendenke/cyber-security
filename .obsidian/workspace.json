@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Linux/Linux Process Analysis/3. Processes.md",
+                "file": "THM/Linux/Linux Process Analysis/4. Cronjobs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Processes"
+              "title": "4. Cronjobs"
             }
           }
         ]
@@ -186,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "693c76c8b594fa24",
+  "active": "8f8fa09d1fe074cf",
   "lastOpenFiles": [
-    "THM/Linux/Linux Process Analysis/2. Investigation Setup.md",
     "THM/Linux/Linux Process Analysis/3. Processes.md",
+    "THM/Linux/Linux Process Analysis/4. Cronjobs.md",
+    "THM/Linux/Linux Process Analysis/2. Investigation Setup.md",
     "THM/Linux/Linux Process Analysis/1. Introduction.md",
     "THM/Windows/Core Windows Processes/11. explorer.exe.md",
     "THM/Linux/Linux Process Analysis",
@@ -217,7 +218,6 @@
     "THM/Security Solutions/Windows Event Logs/6. Event IDs.md",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs/5. XPath Queries.md",
-    "THM/Security Solutions/Windows Event Logs/4. Get-WinEvent.md",
     "THM/Security Solutions/Windows Event Logs",
     "THM/Security Solutions/XDR - Introduction/Untitled",
     "THM/Security Solutions/XDR - Introduction",
