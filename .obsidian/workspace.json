@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Notes/nmap use - case part 2.md",
+                "file": "THM/Windows/Windows Local Persistence/2. Tampering With Unprivileged Accounts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "nmap use - case part 2"
+              "title": "2. Tampering With Unprivileged Accounts"
             }
           }
         ]
@@ -188,6 +188,10 @@
   },
   "active": "58bd86fcfd1550ef",
   "lastOpenFiles": [
+    "THM/Windows/Windows Local Persistence/1. Introduction.md",
+    "THM/Windows/Windows Local Persistence/2. Tampering With Unprivileged Accounts.md",
+    "THM/Windows/Windows Internal/Processes.md",
+    "Linux Notes/nmap use - case part 2.md",
     "Linux Notes/nmap use - case part 1.md",
     "Linux Notes/nmap.md",
     "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
@@ -196,7 +200,6 @@
     "THM/Windows/Hacking with PowerShell/3. Basic Powershell Commands.md",
     "THM/Windows/Hacking with PowerShell/2. What is Powershell.md",
     "THM/Windows/Hacking with PowerShell/1. Introduction.md",
-    "THM/Windows/Windows Local Persistence/1. Introduction.md",
     "THM/Windows/Hacking with PowerShell",
     "THM/Offensive Sec Tools/Cyber Kill Chain/8. Actions on Objectives (Exfiltration).md",
     "THM/Windows/Windows Local Persistence",
@@ -214,9 +217,6 @@
     "THM/Linux/Linux Process Analysis/5. Services.md",
     "THM/Linux/Linux Process Analysis/4. Cronjobs.md",
     "THM/Linux/Linux Process Analysis/3. Processes.md",
-    "THM/Linux/Linux Process Analysis/2. Investigation Setup.md",
-    "THM/Linux/Linux Process Analysis/1. Introduction.md",
-    "THM/Windows/Core Windows Processes/11. explorer.exe.md",
     "THM/Linux/Linux Process Analysis",
     "THM/Linux",
     "THM/Windows/Core Windows Processes",
