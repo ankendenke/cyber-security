@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
+                "file": "Linux Notes/nmap use - case part 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.1 Basic Powershell Commands"
+              "title": "nmap use - case part 2"
             }
           }
         ]
@@ -188,11 +188,13 @@
   },
   "active": "58bd86fcfd1550ef",
   "lastOpenFiles": [
-    "THM/Windows/Hacking with PowerShell/3. Basic Powershell Commands.md",
-    "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
-    "THM/Windows/Hacking with PowerShell/4. Enumeration.md",
-    "THM/Windows/Hacking with PowerShell/2. What is Powershell.md",
+    "Linux Notes/nmap use - case part 1.md",
+    "Linux Notes/nmap.md",
     "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
+    "THM/Windows/Hacking with PowerShell/4. Enumeration.md",
+    "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
+    "THM/Windows/Hacking with PowerShell/3. Basic Powershell Commands.md",
+    "THM/Windows/Hacking with PowerShell/2. What is Powershell.md",
     "THM/Windows/Hacking with PowerShell/1. Introduction.md",
     "THM/Windows/Windows Local Persistence/1. Introduction.md",
     "THM/Windows/Hacking with PowerShell",
@@ -217,8 +219,6 @@
     "THM/Windows/Core Windows Processes/11. explorer.exe.md",
     "THM/Linux/Linux Process Analysis",
     "THM/Linux",
-    "THM/Windows/Core Windows Processes/10. winlogon.exe.md",
-    "THM/Windows/Core Windows Processes/9. lsass.exe.md",
     "THM/Windows/Core Windows Processes",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs",
