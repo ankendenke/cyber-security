@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
+                "file": "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. Basic Scripting Challenge"
+              "title": "3.1 Basic Powershell Commands"
             }
           }
         ]
@@ -188,10 +188,11 @@
   },
   "active": "58bd86fcfd1550ef",
   "lastOpenFiles": [
-    "THM/Windows/Hacking with PowerShell/4. Enumeration.md",
-    "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
     "THM/Windows/Hacking with PowerShell/3. Basic Powershell Commands.md",
+    "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
+    "THM/Windows/Hacking with PowerShell/4. Enumeration.md",
     "THM/Windows/Hacking with PowerShell/2. What is Powershell.md",
+    "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
     "THM/Windows/Hacking with PowerShell/1. Introduction.md",
     "THM/Windows/Windows Local Persistence/1. Introduction.md",
     "THM/Windows/Hacking with PowerShell",
@@ -218,7 +219,6 @@
     "THM/Linux",
     "THM/Windows/Core Windows Processes/10. winlogon.exe.md",
     "THM/Windows/Core Windows Processes/9. lsass.exe.md",
-    "THM/Windows/Core Windows Processes/8. wininit.exe - services.exe - svchost.exe.md",
     "THM/Windows/Core Windows Processes",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs",
