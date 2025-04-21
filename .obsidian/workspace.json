@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Windows/Windows Local Persistence/2. Tampering With Unprivileged Accounts.md",
+                "file": "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Tampering With Unprivileged Accounts"
+              "title": "4.1  WPScan Modes"
             }
           }
         ]
@@ -188,12 +188,19 @@
   },
   "active": "58bd86fcfd1550ef",
   "lastOpenFiles": [
-    "THM/Windows/Windows Local Persistence/1. Introduction.md",
+    "THM/Web Application Pentest/Web Enumeration/4. Introduction to WPScan.md",
+    "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
+    "Linux Notes/dirsearch.md",
+    "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
+    "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
+    "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
+    "Linux Notes/nmap.md",
+    "Linux Notes/nmap use - case part 1.md",
+    "Linux Notes/tee.md",
     "THM/Windows/Windows Local Persistence/2. Tampering With Unprivileged Accounts.md",
+    "THM/Windows/Windows Local Persistence/1. Introduction.md",
     "THM/Windows/Windows Internal/Processes.md",
     "Linux Notes/nmap use - case part 2.md",
-    "Linux Notes/nmap use - case part 1.md",
-    "Linux Notes/nmap.md",
     "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
     "THM/Windows/Hacking with PowerShell/4. Enumeration.md",
     "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
@@ -209,14 +216,7 @@
     "THM/Offensive Sec Tools/Cyber Kill Chain/1.Introduction.md",
     "THM/Offensive Sec Tools/Cyber Kill Chain/5. Exploitation.md",
     "THM/Offensive Sec Tools/Cyber Kill Chain/4. Delivery.md",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/3. Weaponization.md",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/2. Reconnaissance.md",
-    "THM/Linux/Linux Process Analysis/7. Application Artefacts.md",
     "THM/Offensive Sec Tools/Cyber Kill Chain",
-    "THM/Linux/Linux Process Analysis/6. Autostart Scripts.md",
-    "THM/Linux/Linux Process Analysis/5. Services.md",
-    "THM/Linux/Linux Process Analysis/4. Cronjobs.md",
-    "THM/Linux/Linux Process Analysis/3. Processes.md",
     "THM/Linux/Linux Process Analysis",
     "THM/Linux",
     "THM/Windows/Core Windows Processes",
