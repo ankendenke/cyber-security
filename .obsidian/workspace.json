@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
+                "file": "THM/Programming/Python for Pentesters/5. Port Scanner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.1  WPScan Modes"
+              "title": "5. Port Scanner"
+            }
+          },
+          {
+            "id": "9f962a1a880ca7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THM/Programming/Python for Pentesters/9. SSH Brute Forcing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "9. SSH Brute Forcing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +211,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58bd86fcfd1550ef",
+  "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Web Application Pentest/Web Enumeration/4. Introduction to WPScan.md",
+    "THM/Programming/Python for Pentesters/8. Keyloggers.md",
+    "THM/Programming/Python for Pentesters/9. SSH Brute Forcing.md",
+    "THM/Programming/Python for Pentesters/7. Hash Cracker.md",
+    "THM/Programming/Python for Pentesters/6. File Downloader.md",
+    "THM/Programming/Python for Pentesters/4. Network Scanner.md",
+    "THM/Programming/Python for Pentesters/5. Port Scanner.md",
+    "THM/Programming/Python for Pentesters/3. Directory Enumeration.md",
+    "THM/Programming/Python for Pentesters/2. Subdomain Enumeration.md",
+    "THM/Programming/Python for Pentesters/1. Introduction.md",
     "THM/Web Application Pentest/Web Enumeration/4.1  WPScan Modes.md",
+    "THM/Programming/Python for Pentesters",
+    "THM/Programming",
+    "THM/Programming.md",
+    "THM/Web Application Pentest/Web Enumeration/4. Introduction to WPScan.md",
     "Linux Notes/dirsearch.md",
     "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
     "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
@@ -204,26 +241,14 @@
     "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
     "THM/Windows/Hacking with PowerShell/4. Enumeration.md",
     "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
-    "THM/Windows/Hacking with PowerShell/3. Basic Powershell Commands.md",
-    "THM/Windows/Hacking with PowerShell/2. What is Powershell.md",
-    "THM/Windows/Hacking with PowerShell/1. Introduction.md",
     "THM/Windows/Hacking with PowerShell",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/8. Actions on Objectives (Exfiltration).md",
     "THM/Windows/Windows Local Persistence",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/7. Command & Control.md",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/6. Installation.md",
-    "THM/Offensive Sec Tools/Untitled.md",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/1.Introduction.md",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/5. Exploitation.md",
-    "THM/Offensive Sec Tools/Cyber Kill Chain/4. Delivery.md",
     "THM/Offensive Sec Tools/Cyber Kill Chain",
     "THM/Linux/Linux Process Analysis",
     "THM/Linux",
     "THM/Windows/Core Windows Processes",
     "THM/Security Solutions/Linux Logs Investigations",
     "THM/Security Solutions/Windows Event Logs",
-    "THM/Security Solutions/XDR - Introduction/Untitled",
-    "THM/Security Solutions/XDR - Introduction",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
