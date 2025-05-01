@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Hacking Basics/XSS/5. Stored XSS.md",
+                "file": "THM/Web Hacking Basics/XSS/7. Context and Evasion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. Stored XSS"
+              "title": "7. Context and Evasion"
             }
           }
         ],
@@ -213,8 +213,10 @@
   },
   "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Web Hacking Basics/XSS/4. Reflected XSS.md",
+    "THM/Web Hacking Basics/XSS/6. DOM-Based XSS.md",
+    "THM/Web Hacking Basics/XSS/7. Context and Evasion.md",
     "THM/Web Hacking Basics/XSS/5. Stored XSS.md",
+    "THM/Web Hacking Basics/XSS/4. Reflected XSS.md",
     "THM/Web Hacking Basics/XSS/3. Causes and Implications.md",
     "THM/Web Hacking Basics/XSS/2. Terminology and Types.md",
     "THM/Web Hacking Basics/XSS/1. Introduction.md",
@@ -240,8 +242,6 @@
     "Linux Notes/nmap.md",
     "Linux Notes/nmap use - case part 1.md",
     "Linux Notes/tee.md",
-    "THM/Windows/Windows Local Persistence/2. Tampering With Unprivileged Accounts.md",
-    "THM/Windows/Windows Local Persistence/1. Introduction.md",
     "THM/Windows/Hacking with PowerShell",
     "THM/Windows/Windows Local Persistence",
     "THM/Offensive Sec Tools/Cyber Kill Chain",
