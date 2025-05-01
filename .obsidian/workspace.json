@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Hacking Basics/XSS/4. Reflected XSS.md",
+                "file": "THM/Web Hacking Basics/XSS/5. Stored XSS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4. Reflected XSS"
+              "title": "5. Stored XSS"
             }
           }
         ],
@@ -213,8 +213,9 @@
   },
   "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Web Hacking Basics/XSS/3. Causes and Implications.md",
     "THM/Web Hacking Basics/XSS/4. Reflected XSS.md",
+    "THM/Web Hacking Basics/XSS/5. Stored XSS.md",
+    "THM/Web Hacking Basics/XSS/3. Causes and Implications.md",
     "THM/Web Hacking Basics/XSS/2. Terminology and Types.md",
     "THM/Web Hacking Basics/XSS/1. Introduction.md",
     "THM/Programming/Python for Pentesters/9. SSH Brute Forcing.md",
@@ -241,7 +242,6 @@
     "Linux Notes/tee.md",
     "THM/Windows/Windows Local Persistence/2. Tampering With Unprivileged Accounts.md",
     "THM/Windows/Windows Local Persistence/1. Introduction.md",
-    "THM/Windows/Windows Internal/Processes.md",
     "THM/Windows/Hacking with PowerShell",
     "THM/Windows/Windows Local Persistence",
     "THM/Offensive Sec Tools/Cyber Kill Chain",
