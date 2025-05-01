@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Programming/Python for Pentesters/9. SSH Brute Forcing.md",
+                "file": "THM/Web Hacking Basics/XSS/4. Reflected XSS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9. SSH Brute Forcing"
+              "title": "4. Reflected XSS"
             }
           }
         ],
@@ -213,8 +213,13 @@
   },
   "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Programming/Python for Pentesters/8. Keyloggers.md",
+    "THM/Web Hacking Basics/XSS/3. Causes and Implications.md",
+    "THM/Web Hacking Basics/XSS/4. Reflected XSS.md",
+    "THM/Web Hacking Basics/XSS/2. Terminology and Types.md",
+    "THM/Web Hacking Basics/XSS/1. Introduction.md",
     "THM/Programming/Python for Pentesters/9. SSH Brute Forcing.md",
+    "THM/Web Hacking Basics/XSS",
+    "THM/Programming/Python for Pentesters/8. Keyloggers.md",
     "THM/Programming/Python for Pentesters/7. Hash Cracker.md",
     "THM/Programming/Python for Pentesters/6. File Downloader.md",
     "THM/Programming/Python for Pentesters/4. Network Scanner.md",
@@ -237,10 +242,6 @@
     "THM/Windows/Windows Local Persistence/2. Tampering With Unprivileged Accounts.md",
     "THM/Windows/Windows Local Persistence/1. Introduction.md",
     "THM/Windows/Windows Internal/Processes.md",
-    "Linux Notes/nmap use - case part 2.md",
-    "THM/Windows/Hacking with PowerShell/5. Basic Scripting Challenge.md",
-    "THM/Windows/Hacking with PowerShell/4. Enumeration.md",
-    "THM/Windows/Hacking with PowerShell/3.1 Basic Powershell Commands.md",
     "THM/Windows/Hacking with PowerShell",
     "THM/Windows/Windows Local Persistence",
     "THM/Offensive Sec Tools/Cyber Kill Chain",
@@ -248,7 +249,6 @@
     "THM/Linux",
     "THM/Windows/Core Windows Processes",
     "THM/Security Solutions/Linux Logs Investigations",
-    "THM/Security Solutions/Windows Event Logs",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
