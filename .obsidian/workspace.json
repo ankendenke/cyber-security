@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Hacking Basics/XSS/7. Context and Evasion.md",
+                "file": "THM/Web Hacking Basics/CSRF/4. Basic CSRF - Hidden Link - Image Exploitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7. Context and Evasion"
+              "title": "4. Basic CSRF - Hidden Link - Image Exploitation"
             }
           }
         ],
@@ -213,8 +213,13 @@
   },
   "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Web Hacking Basics/XSS/6. DOM-Based XSS.md",
+    "THM/Web Hacking Basics/CSRF/3. Types of CSRF Attack.md",
+    "THM/Web Hacking Basics/CSRF/4. Basic CSRF - Hidden Link - Image Exploitation.md",
+    "THM/Web Hacking Basics/CSRF/2. Overview of CSRF Attack.md",
+    "THM/Web Hacking Basics/CSRF/1. Introduction.md",
     "THM/Web Hacking Basics/XSS/7. Context and Evasion.md",
+    "THM/Web Hacking Basics/CSRF",
+    "THM/Web Hacking Basics/XSS/6. DOM-Based XSS.md",
     "THM/Web Hacking Basics/XSS/5. Stored XSS.md",
     "THM/Web Hacking Basics/XSS/4. Reflected XSS.md",
     "THM/Web Hacking Basics/XSS/3. Causes and Implications.md",
@@ -238,17 +243,12 @@
     "Linux Notes/dirsearch.md",
     "THM/Web Application Pentest/Web Enumeration/3.2 Useful Wordlists.md",
     "THM/Web Application Pentest/Web Enumeration/3.1 Gobuster Modes.md",
-    "THM/Web Application Pentest/Web Enumeration/3. Introduction to Gobuster.md",
-    "Linux Notes/nmap.md",
-    "Linux Notes/nmap use - case part 1.md",
-    "Linux Notes/tee.md",
     "THM/Windows/Hacking with PowerShell",
     "THM/Windows/Windows Local Persistence",
     "THM/Offensive Sec Tools/Cyber Kill Chain",
     "THM/Linux/Linux Process Analysis",
     "THM/Linux",
     "THM/Windows/Core Windows Processes",
-    "THM/Security Solutions/Linux Logs Investigations",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
