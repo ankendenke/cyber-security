@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Hacking Basics/DOM-Based Attacks/5. DOM-Based XSS.md",
+                "file": "THM/Web Hacking Basics/CORS & SOP/3. Understanding CORS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5. DOM-Based XSS"
+              "title": "3. Understanding CORS"
             }
           }
         ],
@@ -213,8 +213,12 @@
   },
   "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Web Hacking Basics/DOM-Based Attacks/6. XSS Weaponisation.md",
+    "THM/Web Hacking Basics/CORS & SOP/2. Understanding SOP.md",
+    "THM/Web Hacking Basics/CORS & SOP/3. Understanding CORS.md",
+    "THM/Web Hacking Basics/CORS & SOP/1. Introduction.md",
     "THM/Web Hacking Basics/DOM-Based Attacks/5. DOM-Based XSS.md",
+    "THM/Web Hacking Basics/CORS & SOP",
+    "THM/Web Hacking Basics/DOM-Based Attacks/6. XSS Weaponisation.md",
     "THM/Web Hacking Basics/DOM-Based Attacks/4. DOM-Based Attacks.md",
     "THM/Web Hacking Basics/DOM-Based Attacks/3. Modern Frontend Frameworks.md",
     "THM/Web Hacking Basics/DOM-Based Attacks/2. The DOM Explained.md",
@@ -239,16 +243,12 @@
     "THM/Programming/Python for Pentesters/9. SSH Brute Forcing.md",
     "THM/Web Hacking Basics/XSS",
     "THM/Programming/Python for Pentesters/8. Keyloggers.md",
-    "THM/Programming/Python for Pentesters/7. Hash Cracker.md",
-    "THM/Programming/Python for Pentesters/6. File Downloader.md",
-    "THM/Programming/Python for Pentesters/4. Network Scanner.md",
     "THM/Programming/Python for Pentesters",
     "THM/Programming",
     "THM/Windows/Hacking with PowerShell",
     "THM/Windows/Windows Local Persistence",
     "THM/Offensive Sec Tools/Cyber Kill Chain",
     "THM/Linux/Linux Process Analysis",
-    "THM/Linux",
     "Images/Pasted image 20241227095454.png",
     "Images/Pasted image 20241227094930.png",
     "Images/Pasted image 20241128081248.png",
