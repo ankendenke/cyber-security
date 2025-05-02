@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Web Hacking Basics/CORS & SOP/3. Understanding CORS.md",
+                "file": "THM/Web Hacking Basics/CORS & SOP/5. Common Misconfigurations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. Understanding CORS"
+              "title": "5. Common Misconfigurations"
             }
           }
         ],
@@ -213,8 +213,10 @@
   },
   "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Web Hacking Basics/CORS & SOP/2. Understanding SOP.md",
+    "THM/Web Hacking Basics/CORS & SOP/4. ACAO in depth.md",
+    "THM/Web Hacking Basics/CORS & SOP/5. Common Misconfigurations.md",
     "THM/Web Hacking Basics/CORS & SOP/3. Understanding CORS.md",
+    "THM/Web Hacking Basics/CORS & SOP/2. Understanding SOP.md",
     "THM/Web Hacking Basics/CORS & SOP/1. Introduction.md",
     "THM/Web Hacking Basics/DOM-Based Attacks/5. DOM-Based XSS.md",
     "THM/Web Hacking Basics/CORS & SOP",
@@ -240,9 +242,7 @@
     "THM/Web Hacking Basics/XSS/3. Causes and Implications.md",
     "THM/Web Hacking Basics/XSS/2. Terminology and Types.md",
     "THM/Web Hacking Basics/XSS/1. Introduction.md",
-    "THM/Programming/Python for Pentesters/9. SSH Brute Forcing.md",
     "THM/Web Hacking Basics/XSS",
-    "THM/Programming/Python for Pentesters/8. Keyloggers.md",
     "THM/Programming/Python for Pentesters",
     "THM/Programming",
     "THM/Windows/Hacking with PowerShell",
