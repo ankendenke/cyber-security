@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THM/Security Solutions/Public Key Infrastructure/3. PKI Operations.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3. PKI Operations"
+              "title": "Resources"
             }
           }
         ],
@@ -213,8 +213,8 @@
   },
   "active": "9f962a1a880ca7e7",
   "lastOpenFiles": [
-    "THM/Security Solutions/Public Key Infrastructure/2. PKI Building Blocks.md",
     "THM/Security Solutions/Public Key Infrastructure/3. PKI Operations.md",
+    "THM/Security Solutions/Public Key Infrastructure/2. PKI Building Blocks.md",
     "THM/Security Solutions/Public Key Infrastructure/1. Introduction.md",
     "THM/Web Hacking Basics/CORS & SOP/5. Common Misconfigurations.md",
     "THM/Security Solutions/Public Key Infrastructure",

@@ -126,5 +126,8 @@ https://en.wikipedia.org/wiki/List_of_file_signatures
 Powershell
 https://devblogs.microsoft.com/powershell/powershell-the-blue-team/
 
+VBA
+https://www.trustedsec.com/blog/intro-to-macros-and-vba-for-script-kiddies
+
 Eric Zimmerman's Tools for Advanced Registry Analysis/Work
 https://ericzimmerman.github.io/#!index.md
